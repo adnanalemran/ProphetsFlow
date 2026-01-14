@@ -12,6 +12,7 @@ import {
     BackgroundVariant,
     Panel,
     type NodeTypes,
+    MarkerType,
 } from '@xyflow/react';
 import '@xyflow/react/dist/style.css';
 import { prophets, relationships, type ProphetInfo } from '../data/prophets';
@@ -106,6 +107,10 @@ const createEdges = (): Edge[] => {
                 strokeWidth: 3,
                 opacity: 0.7,
             },
+            markerEnd: {
+                type: MarkerType.ArrowClosed,
+                color: edgeColors[rel.type],
+            },
             label: rel.label,
             labelStyle: {
                 fill: edgeColors[rel.type],
@@ -178,11 +183,14 @@ export default function ProphetsFlow() {
                     zoomable
                     pannable
                     position={isMobile ? "top-right" : "bottom-right"}
-                    className="bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm"
+                    className="!bg-white/90 dark:!bg-gray-800/90 backdrop-blur-md rounded-2xl shadow-xl m-4 overflow-hidden"
+                    nodeColor="#059669"
+                    maskColor="rgba(6, 78, 59, 0.5)"
+                    nodeStrokeColor="#d97706"
                 />
 
                 <Panel position="top-left" className="m-2 md:m-4 font-bangla">
-                    <div className={`bg-white/90 dark:bg-gray-800/90 backdrop-blur-md rounded-xl shadow-2xl transition-all duration-300 border-2 border-amber-500/30 dark:border-amber-500/30 overflow-hidden ${isLegendOpen ? 'p-4 md:p-6 max-w-[280px] md:max-w-md' : 'p-2 w-12 h-12 flex items-center justify-center cursor-pointer hover:bg-white dark:hover:bg-gray-800'}`}>
+                    <div className={`bg-white/90 dark:bg-gray-800/90 backdrop-blur-md rounded-xl shadow-2xl transition-all duration-300 overflow-hidden ${isLegendOpen ? 'p-4 md:p-6 max-w-[280px] md:max-w-md' : 'p-2 w-12 h-12 flex items-center justify-center cursor-pointer hover:bg-white dark:hover:bg-gray-800'}`}>
                         {isLegendOpen ? (
                             <>
                                 <div className="flex items-center justify-between mb-4">
@@ -240,7 +248,7 @@ export default function ProphetsFlow() {
 
                 {selectedProphet && (
                     <Panel position={isMobile ? "bottom-center" : "top-right"} className="w-[95%] md:w-auto m-2 md:m-4 font-bangla z-50">
-                        <div className="bg-white/95 dark:bg-gray-800/95 backdrop-blur-md rounded-t-[30px] rounded-b-xl shadow-2xl p-4 md:p-6 md:max-w-md border-2 border-amber-500/30 dark:border-amber-500/30 animate-in fade-in slide-in-from-bottom md:slide-in-from-right duration-300 max-h-[60vh] md:max-h-[85vh] overflow-y-auto">
+                        <div className="bg-white/95 dark:bg-gray-800/95 backdrop-blur-md rounded-3xl shadow-2xl p-4 md:p-6 md:max-w-md animate-in fade-in slide-in-from-bottom md:slide-in-from-right duration-300 max-h-[60vh] md:max-h-[85vh] overflow-y-auto">
                             <div className="flex items-start justify-between mb-3 md:mb-4">
                                 <div className="flex-1">
                                     <h2 className="text-xl md:text-2xl font-bold text-gray-900 dark:text-white mb-0">
