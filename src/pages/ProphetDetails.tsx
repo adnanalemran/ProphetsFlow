@@ -19,18 +19,18 @@ export default function ProphetDetails() {
     return (
         <div className="min-h-screen bg-gray-50 dark:bg-gray-900 font-bangla pb-20 bg-islamic-pattern">
             {/* Hero Section */}
-            <div className="relative h-[40vh] bg-gradient-to-br from-emerald-600 to-teal-800 flex items-center justify-center overflow-hidden">
+            <div className="relative h-[40vh]  bg-gradient-to-br from-emerald-600 to-teal-800 flex items-center justify-center overflow-hidden">
                 <div className="absolute inset-0 opacity-20">
                     <svg className="w-full h-full" viewBox="0 0 100 100" preserveAspectRatio="none">
                         <path d="M0 100 C 20 0 50 0 100 100 Z" fill="white" />
                     </svg>
                 </div>
 
-                <div className="relative z-10 text-center text-white px-4 animate-in fade-in zoom-in duration-500">
-                    <h1 className="text-5xl md:text-7xl font-bold mb-4 drop-shadow-lg">
+                <div className=" top-[-35px] relative z-10 text-center text-white px-4 animate-in fade-in zoom-in duration-500">
+                    <h1 className="text-5xl md:text-6xl font-bold mb-4 drop-shadow-lg">
                         {prophet.banglaName}
                     </h1>
-                    <p className="text-4xl md:text-5xl font-arabic mb-4 opacity-90">
+                    <p className="text-4xl md:text-4xl font-arabic mb-4 opacity-90">
                         {prophet.arabicName}
                     </p>
                     {prophet.title && (
@@ -56,7 +56,7 @@ export default function ProphetDetails() {
 
             {/* Content Container */}
             <div className="container mx-auto px-4 -mt-20 relative z-10">
-                <div className="bg-white/95 dark:bg-gray-800/95 backdrop-blur-sm rounded-t-[40px] rounded-b-3xl shadow-2xl p-6 md:p-10 border-2 border-amber-500/30 dark:border-amber-500/30 max-w-4xl mx-auto">
+                <div className="bg-white/95 dark:bg-gray-800/95 backdrop-blur-sm rounded-t-[40px] rounded-b-3xl shadow-2xl p-6 md:p-10 border-2 border-amber-500/30 dark:border-amber-500/30   mx-auto">
 
                     {/* Key Info Grid */}
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10">
