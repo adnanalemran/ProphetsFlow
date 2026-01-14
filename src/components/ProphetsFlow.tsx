@@ -162,10 +162,13 @@ export default function ProphetsFlow() {
                 onEdgesChange={onEdgesChange}
                 onNodeClick={onNodeClick}
                 nodeTypes={nodeTypes}
-                fitView
+                onInit={(instance) => {
+                    // Start focused on the top (Adam)
+                    // Move content LEFT (Center X positive) and UP (Center Y positive/large)
+                    instance.setCenter(150, 300, { zoom: 0.75 });
+                }}
                 minZoom={0.1}
                 maxZoom={1.5}
-                defaultViewport={{ x: 0, y: 0, zoom: 0.5 }}
                 className="font-sans"
             >
                 <Background variant={BackgroundVariant.Dots} gap={20} size={1} />
@@ -174,7 +177,8 @@ export default function ProphetsFlow() {
                     nodeStrokeWidth={3}
                     zoomable
                     pannable
-                    className="bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm hidden md:block"
+                    position={isMobile ? "top-right" : "bottom-right"}
+                    className="bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm"
                 />
 
                 <Panel position="top-left" className="m-2 md:m-4 font-bangla">
