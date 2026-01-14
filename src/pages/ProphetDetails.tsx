@@ -1,6 +1,7 @@
 import { useParams, Link } from 'react-router-dom';
 import { prophets } from '../data/prophets';
 import { useState, useEffect } from 'react';
+import { prophetStories } from '../components/prophetStories';
 
 export default function ProphetDetails() {
     const { id } = useParams<{ id: string }>();
@@ -156,16 +157,10 @@ export default function ProphetDetails() {
                     )}
 
                     {/* Full Story */}
-                    {prophet.fullStory && (
-                        <div className="mb-12 mt-10">
-                            <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-6 border-l-4 border-amber-500 pl-4">
-                                বিস্তারিত কাহিনী
-                            </h2>
-                            <div className="prose prose-lg dark:prose-invert max-w-none text-gray-700 dark:text-gray-300 leading-relaxed whitespace-pre-line text-justify font-serif">
-                                {prophet.fullStory}
-                            </div>
-                        </div>
-                    )}
+                    {(() => {
+                        const StoryComponent = prophetStories[prophet.id];
+                        return StoryComponent ? <StoryComponent /> : null;
+                    })()}
 
                     {/* References Section */}
                     {(prophet.quranRefs || prophet.hadithRefs) && (
