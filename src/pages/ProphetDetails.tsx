@@ -2,7 +2,7 @@ import { useParams, Link } from 'react-router-dom';
 import { prophets } from '../data/prophets';
 import { useState, useEffect } from 'react';
 import { prophetStories } from '../components/prophetStories';
-import { normalizeProphetName, getProphetUrlName, getProphetLikes, isProphetLiked, toggleProphetLike } from '../lib/utils';
+import { normalizeProphetName, getProphetUrlName } from '../lib/utils';
 import SEO from '../components/SEO';
 import StructuredData from '../components/StructuredData';
 
@@ -12,8 +12,6 @@ export default function ProphetDetails() {
     const normalizedName = normalizeProphetName(decodedName);
     const prophet = prophets.find(p => normalizeProphetName(p.banglaName) === normalizedName);
     const [isScrolled, setIsScrolled] = useState(false);
-    const [isLiked, setIsLiked] = useState(false);
-    const [likeCount, setLikeCount] = useState(0);
 
     useEffect(() => {
         const handleScroll = () => {
@@ -24,19 +22,6 @@ export default function ProphetDetails() {
         return () => window.removeEventListener('scroll', handleScroll);
     }, []);
 
-    useEffect(() => {
-        if (prophet) {
-            setIsLiked(isProphetLiked(prophet.id));
-            setLikeCount(getProphetLikes(prophet.id));
-        }
-    }, [prophet]);
-
-    const handleLikeToggle = () => {
-        if (!prophet) return;
-        const newLikedState = toggleProphetLike(prophet.id);
-        setIsLiked(newLikedState);
-        setLikeCount(getProphetLikes(prophet.id));
-    };
 
     const scrollToTop = () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -212,41 +197,6 @@ export default function ProphetDetails() {
                                 </p>
                             </div>
                         </div>
-                    </div>
-
-                    {/* Like Button */}
-                    <div className="flex justify-center mb-8 sm:mb-10">
-                        <button
-                            onClick={handleLikeToggle}
-                            className={`group flex items-center gap-2 sm:gap-3 px-4 sm:px-6 py-2.5 sm:py-3 rounded-full transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 ${
-                                isLiked
-                                    ? 'bg-gradient-to-r from-pink-500 to-rose-500 text-white'
-                                    : 'bg-white dark:bg-gray-700 text-gray-700 dark:text-gray-300 border-2 border-pink-300 dark:border-pink-600 hover:border-pink-400 dark:hover:border-pink-500'
-                            }`}
-                            aria-label={isLiked ? 'Unlike' : 'Like'}
-                        >
-                            <svg
-                                className={`w-5 h-5 sm:w-6 sm:h-6 transition-all duration-300 ${isLiked ? 'fill-current animate-pulse' : 'stroke-current fill-none'}`}
-                                viewBox="0 0 24 24"
-                                strokeWidth={isLiked ? 0 : 2}
-                                strokeLinecap="round"
-                                strokeLinejoin="round"
-                            >
-                                <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" />
-                            </svg>
-                            <span className="font-semibold text-sm sm:text-base">
-                                {isLiked ? 'লাইক করা হয়েছে' : 'লাইক করুন'}
-                            </span>
-                            {likeCount > 0 && (
-                                <span className={`text-xs sm:text-sm font-bold px-2 py-0.5 rounded-full ${
-                                    isLiked
-                                        ? 'bg-white/30 text-white'
-                                        : 'bg-pink-100 dark:bg-pink-900/30 text-pink-600 dark:text-pink-400'
-                                }`}>
-                                    {likeCount.toLocaleString('bn-BD')}
-                                </span>
-                            )}
-                        </button>
                     </div>
 
                     {/* Description */}
