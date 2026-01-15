@@ -29,6 +29,32 @@
 
 .font-arabic {
   font-family: "Amiri", serif !important;
+  font-feature-settings: "liga" 1, "kern" 1;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+
+/* Ensure proper rendering of Arabic text in Bengali context */
+.font-bangla {
+  font-family: "Hind Siliguri", sans-serif !important;
+  font-feature-settings: normal;
+}
+
+/* Fix broken Arabic/Bengali character rendering */
+[class*="font-arabic"],
+.font-arabic {
+  font-variant-ligatures: common-ligatures;
+  font-kerning: normal;
+}
+
+/* Prevent broken diacritics in mixed text */
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1;
 }
 
 @custom-variant dark (&:is(.dark *));
