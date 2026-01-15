@@ -36,11 +36,11 @@ export default function ProphetDetails() {
         <div className="min-h-screen bg-gray-50 dark:bg-gray-900 font-bangla pb-20  ">
             {/* Sticky Header - Shows on scroll */}
             <div
-                className={`fixed mx-4  top-0 left-0 right-0 z-50 bg-white/75 dark:bg-gray-800/75 backdrop-blur-md  border-b border-l border-r border-amber-500/20 transition-all duration-300 ${isScrolled ? 'translate-y-0 opacity-100' : '-translate-y-full opacity-0'
+                className={`container mx-auto fixed  top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled ? 'translate-y-0 opacity-100' : '-translate-y-full opacity-0'
                     }`}
             >
 
-                <div className="container mx-auto px-4 py-1.5 ">
+                <div className=" bg-red-500  mx-4.5 py-1.5  bg-white/75 dark:bg-gray-800/75 backdrop-blur-md  border-l border-r border-amber-500/20  ">
                     <div className="text-center flex items-center justify-center gap-4">
                         <h2 className="text-base md:text-lg font-semibold text-gray-900 dark:text-white">
                             {prophet.banglaName}
