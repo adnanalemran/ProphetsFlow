@@ -33,7 +33,7 @@ export default function ProphetDetails() {
     }
 
     return (
-        <div className="min-h-screen bg-gray-50 dark:bg-gray-900 font-bangla pb-20 bg-islamic-pattern">
+        <div className="min-h-screen bg-gray-50 dark:bg-gray-900 font-bangla pb-20  ">
             {/* Sticky Header - Shows on scroll */}
             <div
                 className={`fixed mx-4  top-0 left-0 right-0 z-50 bg-white/75 dark:bg-gray-800/75 backdrop-blur-md  border-b border-l border-r border-amber-500/20 transition-all duration-300 ${isScrolled ? 'translate-y-0 opacity-100' : '-translate-y-full opacity-0'
