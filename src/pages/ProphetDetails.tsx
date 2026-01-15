@@ -2,11 +2,18 @@ import { useParams, Link } from 'react-router-dom';
 import { prophets } from '../data/prophets';
 import { useState, useEffect } from 'react';
 import { prophetStories } from '../components/prophetStories';
+import { normalizeProphetName, getProphetUrlName, getProphetLikes, isProphetLiked, toggleProphetLike } from '../lib/utils';
+import SEO from '../components/SEO';
+import StructuredData from '../components/StructuredData';
 
 export default function ProphetDetails() {
-    const { id } = useParams<{ id: string }>();
-    const prophet = prophets.find(p => p.id === id);
+    const { name } = useParams<{ name: string }>();
+    const decodedName = name ? decodeURIComponent(name) : '';
+    const normalizedName = normalizeProphetName(decodedName);
+    const prophet = prophets.find(p => normalizeProphetName(p.banglaName) === normalizedName);
     const [isScrolled, setIsScrolled] = useState(false);
+    const [isLiked, setIsLiked] = useState(false);
+    const [likeCount, setLikeCount] = useState(0);
 
     useEffect(() => {
         const handleScroll = () => {
@@ -16,6 +23,20 @@ export default function ProphetDetails() {
         window.addEventListener('scroll', handleScroll);
         return () => window.removeEventListener('scroll', handleScroll);
     }, []);
+
+    useEffect(() => {
+        if (prophet) {
+            setIsLiked(isProphetLiked(prophet.id));
+            setLikeCount(getProphetLikes(prophet.id));
+        }
+    }, [prophet]);
+
+    const handleLikeToggle = () => {
+        if (!prophet) return;
+        const newLikedState = toggleProphetLike(prophet.id);
+        setIsLiked(newLikedState);
+        setLikeCount(getProphetLikes(prophet.id));
+    };
 
     const scrollToTop = () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -32,8 +53,81 @@ export default function ProphetDetails() {
         );
     }
 
+    const prophetUrl = `/নবী/${getProphetUrlName(prophet.banglaName)}`;
+    const keywords = [
+        prophet.banglaName,
+        prophet.arabicName,
+        prophet.name,
+        'ইসলাম',
+        'নবী',
+        'রাসূল',
+        prophet.title || '',
+        prophet.era || '',
+    ].filter(Boolean).join(', ');
+
+    const siteUrl = typeof window !== 'undefined' ? window.location.origin : '';
+    const fullUrl = `${siteUrl}${prophetUrl}`;
+
     return (
-        <div className="min-h-screen bg-gray-50 dark:bg-gray-900 font-bangla pb-20  ">
+        <>
+            <SEO
+                title={`${prophet.banglaName} - ${prophet.arabicName}`}
+                description={`${prophet.description} ${prophet.era ? `সময়কাল: ${prophet.era}` : ''} ${prophet.title ? `উপাধি: ${prophet.title}` : ''} কুরআনে ${prophet.mentioned} বার উল্লেখিত।`}
+                keywords={keywords}
+                canonicalUrl={prophetUrl}
+                ogType="article"
+            />
+            <StructuredData
+                type="Person"
+                data={{
+                    name: prophet.banglaName,
+                    alternateName: prophet.arabicName,
+                    description: prophet.description,
+                    jobTitle: prophet.title || 'নবী',
+                    ...(prophet.era && { birthDate: prophet.era }),
+                }}
+            />
+            <StructuredData
+                type="Article"
+                data={{
+                    headline: `${prophet.banglaName} - ${prophet.arabicName}`,
+                    description: prophet.description,
+                    author: {
+                        '@type': 'Organization',
+                        name: 'ইসলামের নবীগণ',
+                    },
+                    publisher: {
+                        '@type': 'Organization',
+                        name: 'ইসলামের নবীগণ',
+                    },
+                    datePublished: prophet.era || '',
+                    mainEntityOfPage: {
+                        '@type': 'WebPage',
+                        '@id': fullUrl,
+                    },
+                    inLanguage: 'bn-BD',
+                }}
+            />
+            <StructuredData
+                type="BreadcrumbList"
+                data={{
+                    itemListElement: [
+                        {
+                            '@type': 'ListItem',
+                            position: 1,
+                            name: 'হোম',
+                            item: siteUrl,
+                        },
+                        {
+                            '@type': 'ListItem',
+                            position: 2,
+                            name: prophet.banglaName,
+                            item: fullUrl,
+                        },
+                    ],
+                }}
+            />
+            <div className="min-h-screen bg-gray-50 dark:bg-gray-900 font-bangla pb-20  ">
             {/* Sticky Header - Shows on scroll */}
             <div
                 className={`container mx-auto fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled ? 'translate-y-0 opacity-100' : '-translate-y-full opacity-0'
@@ -92,7 +186,7 @@ export default function ProphetDetails() {
                 <div className="bg-white/95 dark:bg-gray-800/95 backdrop-blur-sm rounded-t-[30px] sm:rounded-t-[40px] rounded-b-2xl sm:rounded-b-3xl shadow-2xl p-4 sm:p-6 md:p-10 border-2 border-amber-500/30 dark:border-amber-500/30 mx-auto">
 
                     {/* Key Info Grid */}
-                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6 mb-8 sm:mb-10">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6 mb-6 sm:mb-8">
                         {/* Era */}
                         <div className="flex items-center gap-3 sm:gap-4 p-3 sm:p-4 bg-emerald-50 dark:bg-emerald-900/20 rounded-xl sm:rounded-2xl border border-emerald-100 dark:border-emerald-800/30">
                             <div className="w-10 h-10 sm:w-12 sm:h-12 bg-emerald-100 dark:bg-emerald-800 rounded-full flex items-center justify-center text-xl sm:text-2xl text-emerald-600 dark:text-emerald-400 flex-shrink-0">
@@ -118,6 +212,41 @@ export default function ProphetDetails() {
                                 </p>
                             </div>
                         </div>
+                    </div>
+
+                    {/* Like Button */}
+                    <div className="flex justify-center mb-8 sm:mb-10">
+                        <button
+                            onClick={handleLikeToggle}
+                            className={`group flex items-center gap-2 sm:gap-3 px-4 sm:px-6 py-2.5 sm:py-3 rounded-full transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 ${
+                                isLiked
+                                    ? 'bg-gradient-to-r from-pink-500 to-rose-500 text-white'
+                                    : 'bg-white dark:bg-gray-700 text-gray-700 dark:text-gray-300 border-2 border-pink-300 dark:border-pink-600 hover:border-pink-400 dark:hover:border-pink-500'
+                            }`}
+                            aria-label={isLiked ? 'Unlike' : 'Like'}
+                        >
+                            <svg
+                                className={`w-5 h-5 sm:w-6 sm:h-6 transition-all duration-300 ${isLiked ? 'fill-current animate-pulse' : 'stroke-current fill-none'}`}
+                                viewBox="0 0 24 24"
+                                strokeWidth={isLiked ? 0 : 2}
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                            >
+                                <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" />
+                            </svg>
+                            <span className="font-semibold text-sm sm:text-base">
+                                {isLiked ? 'লাইক করা হয়েছে' : 'লাইক করুন'}
+                            </span>
+                            {likeCount > 0 && (
+                                <span className={`text-xs sm:text-sm font-bold px-2 py-0.5 rounded-full ${
+                                    isLiked
+                                        ? 'bg-white/30 text-white'
+                                        : 'bg-pink-100 dark:bg-pink-900/30 text-pink-600 dark:text-pink-400'
+                                }`}>
+                                    {likeCount.toLocaleString('bn-BD')}
+                                </span>
+                            )}
+                        </button>
                     </div>
 
                     {/* Description */}
@@ -226,5 +355,6 @@ export default function ProphetDetails() {
                 </svg>
             </button>
         </div>
+        </>
     );
 }

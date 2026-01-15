@@ -17,6 +17,9 @@ import {
 import '@xyflow/react/dist/style.css';
 import { prophets, relationships, type ProphetInfo } from '../data/prophets';
 import ProphetNode from './ProphetNode';
+import { getProphetUrlName } from '../lib/utils';
+import SEO from './SEO';
+import StructuredData from './StructuredData';
 
 const nodeTypes: NodeTypes = {
     prophetNode: ProphetNode,
@@ -156,8 +159,33 @@ export default function ProphetsFlow() {
     }, []);
 
     return (
-        <div className="w-full h-[100dvh] bg-gradient-to-br from-emerald-50 via-blue-50 to-purple-50 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900">
-            <ReactFlow
+        <>
+            <SEO
+                title="ইসলামের নবীগণ - টাইমলাইন"
+                description="ইসলামের ২৫ জন নবীর বিস্তারিত তালিকা, তাদের জীবনী, কুরআনে উল্লেখ, এবং তাদের মধ্যকার সম্পর্ক জানুন। আদম (আঃ) থেকে মুহাম্মদ (সাঃ) পর্যন্ত সকল নবীর ইতিহাস।"
+                keywords="ইসলাম, নবী, রাসূল, নবীদের তালিকা, ইসলামিক ইতিহাস, কুরআন, হাদিস, আদম, নূহ, ইব্রাহিম, মুসা, ঈসা, মুহাম্মদ, ইসলামের নবীগণ"
+                canonicalUrl="/"
+                ogType="website"
+            />
+            <StructuredData
+                type="WebSite"
+                data={{
+                    name: 'ইসলামের নবীগণ',
+                    description: 'ইসলামের ২৫ জন নবীর বিস্তারিত তালিকা এবং জীবনী',
+                    url: typeof window !== 'undefined' ? window.location.origin : '',
+                    inLanguage: 'bn-BD',
+                    potentialAction: {
+                        '@type': 'SearchAction',
+                        target: {
+                            '@type': 'EntryPoint',
+                            urlTemplate: typeof window !== 'undefined' ? `${window.location.origin}/নবী/{search_term_string}` : '',
+                        },
+                        'query-input': 'required name=search_term_string',
+                    },
+                }}
+            />
+            <div className="w-full h-[100dvh] bg-gradient-to-br from-emerald-50 via-blue-50 to-purple-50 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900">
+                <ReactFlow
                 nodesDraggable={false}
                 nodesConnectable={false}
                 elementsSelectable={true}
@@ -304,7 +332,7 @@ export default function ProphetsFlow() {
                                     কুরআনে উল্লেখ: <span className="font-bold text-emerald-600 dark:text-emerald-400">{selectedProphet.mentioned.toLocaleString('bn-BD')} বার</span>
                                 </p>
                                 <button
-                                    onClick={() => navigate(`/prophet/${selectedProphet.id}`)}
+                                    onClick={() => navigate(`/নবী/${getProphetUrlName(selectedProphet.banglaName)}`)}
                                     className="w-full bg-emerald-600 hover:bg-emerald-700 active:bg-emerald-800 text-white font-bold py-2.5 px-4 rounded-xl shadow-lg transition-all flex items-center justify-center gap-2 group"
                                 >
                                     <span>আরও বিস্তারিত জানুন</span>
@@ -317,6 +345,7 @@ export default function ProphetsFlow() {
                     </Panel>
                 )}
             </ReactFlow>
-        </div>
+            </div>
+        </>
     );
 }
