@@ -11,7 +11,7 @@ export default function DawudStory() {
                 <img 
                     src="/images/prophet-stories/dawud/the-story-of-prophet-dawud-as.png" 
                     alt="দাউদ (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -29,7 +29,7 @@ export default function DawudStory() {
                             <img 
                                 src="/images/prophet-stories/dawud/Prophet Dawud Calligraphy.png" 
                                 alt="নবী দাউদের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -67,7 +67,7 @@ export default function DawudStory() {
                             <img 
                                 src="/images/prophet-stories/dawud/king-talut-command.png" 
                                 alt="রাজা তালুত" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -87,7 +87,7 @@ export default function DawudStory() {
                             <img 
                                 src="/images/prophet-stories/dawud/army-drink.png" 
                                 alt="লোকেরা পানি পান করছে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -129,7 +129,7 @@ export default function DawudStory() {
                             <img 
                                 src="/images/prophet-stories/dawud/Jalut.png" 
                                 alt="জালুত" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -158,7 +158,7 @@ export default function DawudStory() {
                     <img 
                         src="/images/prophet-stories/dawud/Talut & Dawud Converstion.png" 
                         alt="তালুত এবং দাউদের কথোপকথন" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -200,7 +200,7 @@ export default function DawudStory() {
                             <img 
                                 src="/images/prophet-stories/dawud/armor.png" 
                                 alt="ঢাল এবং তরোয়াল" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -218,7 +218,7 @@ export default function DawudStory() {
                             <img 
                                 src="/images/prophet-stories/dawud/sling shot.png" 
                                 alt="স্লিং শট" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -252,7 +252,7 @@ export default function DawudStory() {
                     <img 
                         src="/images/prophet-stories/dawud/Jalut fight.png" 
                         alt="দাউদ জালুতের সাথে যুদ্ধ করে" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -272,7 +272,7 @@ export default function DawudStory() {
                             <img 
                                 src="/images/prophet-stories/dawud/Jalut died.png" 
                                 alt="জালুত মারা গেছে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -342,7 +342,7 @@ export default function DawudStory() {
                             <img 
                                 src="/images/prophet-stories/dawud/dawud-psalms.png" 
                                 alt="দাউদ যাবুর" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -411,7 +411,7 @@ export default function DawudStory() {
                             <img 
                                 src="/images/prophet-stories/dawud/dawud-iron.png" 
                                 alt="দাউদ লোহা গঠন করছে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -445,7 +445,7 @@ export default function DawudStory() {
                             <img 
                                 src="/images/prophet-stories/dawud/talut-dawud-conversations.png" 
                                 alt="দাউদ এবং তালুত কথোপকথন করছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -465,7 +465,7 @@ export default function DawudStory() {
                     <img 
                         src="/images/prophet-stories/dawud/Michal-Discovering.png" 
                         alt="মিখাল আবিষ্কার করছে" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -492,7 +492,7 @@ export default function DawudStory() {
                     <img 
                         src="/images/prophet-stories/dawud/Talut-in-cave.png" 
                         alt="গুহায় তালুত" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -514,7 +514,7 @@ export default function DawudStory() {
                             <img 
                                 src="/images/prophet-stories/dawud/Dawud-holding-torn-garment.png" 
                                 alt="দাউদ ছেঁড়া পোশাক ধরে আছে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -550,7 +550,7 @@ export default function DawudStory() {
                     <img 
                         src="/images/prophet-stories/dawud/dawud-divides-day-into-4-parts.png" 
                         alt="দাউদ দিনকে চার ভাগে ভাগ করছে" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center">
@@ -632,7 +632,7 @@ export default function DawudStory() {
                             <img 
                                 src="/images/prophet-stories/dawud/Dawud-&-2-men.png" 
                                 alt="নবী দাউদ দুজন লোকের সাথে কথা বলছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -693,7 +693,7 @@ export default function DawudStory() {
                     <img 
                         src="/images/prophet-stories/dawud/2-men-grapes-&-sheep.png" 
                         alt="দুজন লোক এবং ভেড়া" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
@@ -725,7 +725,7 @@ export default function DawudStory() {
                     <img 
                         src="/images/prophet-stories/dawud/prophet-sulaiman-solution.png" 
                         alt="নবী সুলাইমানের সমাধান" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">

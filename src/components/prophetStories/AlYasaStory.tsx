@@ -11,7 +11,7 @@ export default function AlYasaStory() {
                 <img 
                     src="/images/prophet-stories/al-yasa/the-story-of-prophet-al-yasa.png" 
                     alt="আল-ইয়াসা (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -29,7 +29,7 @@ export default function AlYasaStory() {
                             <img 
                                 src="/images/prophet-stories/al-yasa/Al-Yasa Calligraphy.png" 
                                 alt="আল-ইয়াসার ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -105,7 +105,7 @@ export default function AlYasaStory() {
                             <img 
                                 src="/images/prophet-stories/al-yasa/Sword.png" 
                                 alt="তরোয়াল" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -113,7 +113,7 @@ export default function AlYasaStory() {
                     <img 
                         src="/images/prophet-stories/al-yasa/Prophet Ilyas & Al-Yasa.png" 
                         alt="নবী ইলিয়াস ও আল-ইয়াসা" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -137,7 +137,7 @@ export default function AlYasaStory() {
                             <img 
                                 src="/images/prophet-stories/al-yasa/prophet-al-yasa-people.png" 
                                 alt="নবী আল-ইয়াসা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">

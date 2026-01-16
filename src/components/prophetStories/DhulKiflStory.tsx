@@ -11,7 +11,7 @@ export default function DhulKiflStory() {
                 <img 
                     src="/images/prophet-stories/dhul-kifl/story-of-prophet-dhul-kifl-as.png" 
                     alt="যুল-কিফল (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -33,7 +33,7 @@ export default function DhulKiflStory() {
                             <img 
                                 src="/images/prophet-stories/dhul-kifl/Dhul-Kifl Calligraphy.png" 
                                 alt="নবী যুল-কিফলের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -122,7 +122,7 @@ export default function DhulKiflStory() {
                         <img 
                             src="/images/prophet-stories/dhul-kifl/Prophet-Names.png" 
                             alt="নবী নাম" 
-                            className="w-full max-w-md h-auto rounded-lg shadow-lg"
+                            className="w-full max-w-md h-auto rounded-lg"
                         />
                     </div>
 
@@ -156,7 +156,7 @@ export default function DhulKiflStory() {
                             <img 
                                 src="/images/prophet-stories/dhul-kifl/Prophet Ilyasa.png" 
                                 alt="নবী ইলিয়াসা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -174,7 +174,7 @@ export default function DhulKiflStory() {
                             <img 
                                 src="/images/prophet-stories/dhul-kifl/Unknow person stood up.png" 
                                 alt="অজানা ব্যক্তি উঠে দাঁড়িয়েছে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -193,7 +193,7 @@ export default function DhulKiflStory() {
                             <img 
                                 src="/images/prophet-stories/dhul-kifl/Satan.png" 
                                 alt="শয়তান" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -229,7 +229,7 @@ export default function DhulKiflStory() {
                             <img 
                                 src="/images/prophet-stories/dhul-kifl/3 Routine.png" 
                                 alt="৩টি রুটিন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -247,7 +247,7 @@ export default function DhulKiflStory() {
                             <img 
                                 src="/images/prophet-stories/dhul-kifl/Iblis disguise as old man.png" 
                                 alt="ইবলিস বৃদ্ধ ব্যক্তি হিসাবে ছদ্মবেশ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -291,7 +291,7 @@ export default function DhulKiflStory() {
                             <img 
                                 src="/images/prophet-stories/dhul-kifl/Iblis Visit Home.png" 
                                 alt="ইবলিস বাড়িতে পরিদর্শন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -308,7 +308,7 @@ export default function DhulKiflStory() {
                         <img 
                             src="/images/prophet-stories/dhul-kifl/Iblis.png" 
                             alt="ইবলিস" 
-                            className="w-full max-w-md h-auto rounded-lg shadow-lg"
+                            className="w-full max-w-md h-auto rounded-lg"
                         />
                     </div>
 

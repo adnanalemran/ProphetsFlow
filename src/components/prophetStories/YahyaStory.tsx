@@ -11,7 +11,7 @@ export default function YahyaStory() {
                 <img 
                     src="/images/prophet-stories/yahya/the-story-of-prophet-yahya-as.png" 
                     alt="নবী ইয়াহিয়া (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -34,7 +34,7 @@ export default function YahyaStory() {
                         <img 
                             src="/images/prophet-stories/yahya/prophet-zakariyah-relationship-to-yahya.png" 
                             alt="নবী যাকারিয়ার পিতামাতা" 
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-auto rounded-lg"
                         />
                     </div>
 
@@ -78,7 +78,7 @@ export default function YahyaStory() {
                         <img 
                             src="/images/prophet-stories/yahya/prophet-zakariyah-kindness-to-animals.png" 
                             alt="নবী যাকারিয়া প্রাণীদের প্রতি সদয়" 
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-auto rounded-lg"
                         />
                         <p className="text-center text-sm mt-2 italic">
                             যখন অন্যান্য শিশুরা প্রাণীদের ব্যথা এবং কষ্ট দেওয়ার জন্য জড়ো হয়েছিল, <strong>ইয়াহিয়া (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) তাদের প্রতি সদয়তা দেখিয়েছিলেন।</strong><br /><br /><strong>তিনি প্রায়ই প্রাণীদের সাথে তার খাবার ভাগ করতেন, কখনও কখনও নিজেকে কাছাকাছি গাছের ফল এবং পাতা ছাড়া কিছুই রেখে যেতেন না।</strong>
@@ -121,7 +121,7 @@ export default function YahyaStory() {
                             <img 
                                 src="/images/prophet-stories/yahya/Prophet Yahya & people.png" 
                                 alt="নবী ইয়াহিয়া এবং মানুষ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -173,7 +173,7 @@ export default function YahyaStory() {
                             <img 
                                 src="/images/prophet-stories/yahya/Prophet Yahya Mountain.png" 
                                 alt="নবী ইয়াহিয়া প্রকৃতিতে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -193,7 +193,7 @@ export default function YahyaStory() {
                         <img 
                             src="/images/prophet-stories/yahya/Branch.png" 
                             alt="গাছের শাখা" 
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-auto rounded-lg"
                         />
                     </div>
 
@@ -223,7 +223,7 @@ export default function YahyaStory() {
                             <img 
                                 src="/images/prophet-stories/yahya/prophet-yahya-laying-in-grave.png" 
                                 alt="নবী যাকারিয়া কবরে শুয়ে আছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -237,7 +237,7 @@ export default function YahyaStory() {
                             <img 
                                 src="/images/prophet-stories/yahya/prophet-yahya-river.png" 
                                 alt="ইয়াহিয়া নদীতে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -312,7 +312,7 @@ export default function YahyaStory() {
                             <img 
                                 src="/images/prophet-stories/yahya/Prophet Yahya & Prophet Isa.png" 
                                 alt="নবী ইয়াহিয়া এবং নবী ঈসা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -408,7 +408,7 @@ export default function YahyaStory() {
                             <img 
                                 src="/images/prophet-stories/yahya/Prophet Yahya & People 2.png" 
                                 alt="নবী যাকারিয়া এবং মানুষ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -422,7 +422,7 @@ export default function YahyaStory() {
                             <img 
                                 src="/images/prophet-stories/yahya/Salome & King.png" 
                                 alt="নবী ইয়াহিয়া হত্যা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -445,7 +445,7 @@ export default function YahyaStory() {
                         <img 
                             src="/images/prophet-stories/yahya/kingdom-on-fire-story-of-yahya.png" 
                             alt="নবী ইয়াহিয়ার রাজ্য" 
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-auto rounded-lg"
                         />
                     </div>
                 </section>

@@ -15,7 +15,7 @@ export default function LutStory() {
                 <img 
                     src="/images/prophet-stories/lut/the-story-of-prophet-lut-as.png" 
                     alt="লুত (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -33,7 +33,7 @@ export default function LutStory() {
                             <img 
                                 src="/images/prophet-stories/lut/Lut Calligraphy.png" 
                                 alt="নবী লুতের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -57,7 +57,7 @@ export default function LutStory() {
                             <img 
                                 src="/images/prophet-stories/lut/Homo & murdered.png" 
                                 alt="সমকামিতা এবং হত্যা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -83,7 +83,7 @@ export default function LutStory() {
                             <img 
                                 src="/images/prophet-stories/lut/Sodom market.png" 
                                 alt="সদোম বাজার" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -125,7 +125,7 @@ export default function LutStory() {
                             <img 
                                 src="/images/prophet-stories/lut/No Homosexuality.png" 
                                 alt="সমকামিতা নয়" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -197,7 +197,7 @@ export default function LutStory() {
                     <img 
                         src="/images/prophet-stories/lut/3 Angels Visit Ibrahim.png" 
                         alt="৩ জন ফেরেশতা ইব্রাহিমকে দেখা করছেন" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
@@ -233,7 +233,7 @@ export default function LutStory() {
                             <img 
                                 src="/images/prophet-stories/lut/3 Handsome men.png" 
                                 alt="৩ জন সুদর্শন পুরুষ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -273,7 +273,7 @@ export default function LutStory() {
                             <img 
                                 src="/images/prophet-stories/lut/Crowd People.png" 
                                 alt="ভিড়" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -312,7 +312,7 @@ export default function LutStory() {
                             <img 
                                 src="/images/prophet-stories/lut/Blind men.png" 
                                 alt="অন্ধ পুরুষ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -354,7 +354,7 @@ export default function LutStory() {
                     <img 
                         src="/images/prophet-stories/lut/Sodom destroyed.png" 
                         alt="সদোম ধ্বংস" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">

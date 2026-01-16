@@ -11,7 +11,7 @@ export default function ShuaybStory() {
                 <img 
                     src="/images/prophet-stories/shuaib/story-of-prophet-shuaib-as.png" 
                     alt="শুআইব (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -32,7 +32,7 @@ export default function ShuaybStory() {
                             <img 
                                 src="/images/prophet-stories/shuaib/Prophet Shu_aib Calligraphy.png" 
                                 alt="নবী শুআইবের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -68,7 +68,7 @@ export default function ShuaybStory() {
                             <img 
                                 src="/images/prophet-stories/shuaib/Companions of the Wood.png" 
                                 alt="কাঠের সঙ্গী" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -78,7 +78,7 @@ export default function ShuaybStory() {
                             <img 
                                 src="/images/prophet-stories/shuaib/Prophet-Shu_aib.png" 
                                 alt="নবী শুআইব" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -120,7 +120,7 @@ export default function ShuaybStory() {
                     <img 
                         src="/images/prophet-stories/shuaib/Prophet Shu_aib & merchant.png" 
                         alt="নবী শুআইব ও ব্যবসায়ী" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -156,7 +156,7 @@ export default function ShuaybStory() {
                             <img 
                                 src="/images/prophet-stories/shuaib/Weigh scale.png" 
                                 alt="ওজন স্কেল" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -181,7 +181,7 @@ export default function ShuaybStory() {
                             <img 
                                 src="/images/prophet-stories/shuaib/Angry merchant.png" 
                                 alt="রাগান্বিত ব্যবসায়ী" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -220,7 +220,7 @@ export default function ShuaybStory() {
                     <img 
                         src="/images/prophet-stories/shuaib/3 adzab.png" 
                         alt="তিনটি শাস্তি" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -284,7 +284,7 @@ export default function ShuaybStory() {
                             <img 
                                 src="/images/prophet-stories/shuaib/Chief leader.png" 
                                 alt="নেতা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -327,7 +327,7 @@ export default function ShuaybStory() {
                     <img 
                         src="/images/prophet-stories/shuaib/A mass dark cloud.png" 
                         alt="একটি বিশাল অন্ধকার মেঘ" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -358,7 +358,7 @@ export default function ShuaybStory() {
                     <img 
                         src="/images/prophet-stories/shuaib/Fire rain.png" 
                         alt="আগুনের বৃষ্টি" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">

@@ -11,7 +11,7 @@ export default function IshaqStory() {
                 <img 
                     src="/images/prophet-stories/ishaq/the-story-of-prophet-ishaq-as.png" 
                     alt="ইসহাক (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -33,12 +33,12 @@ export default function IshaqStory() {
                             <img 
                                 src="/images/prophet-stories/ishaq/prophet-ibrahim-calligraphy.png" 
                                 alt="নবী ইব্রাহিমের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover mb-4"
+                                className="w-full h-auto rounded-lg object-cover mb-4"
                             />
                             <img 
                                 src="/images/prophet-stories/ishaq/three-guests-angel.png" 
                                 alt="তিনজন অতিথি ফেরেশতা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -54,7 +54,7 @@ export default function IshaqStory() {
                     <img 
                         src="/images/prophet-stories/ishaq/cooked-food-bg.png" 
                         alt="রান্না করা খাবার" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
@@ -83,7 +83,7 @@ export default function IshaqStory() {
                             <img 
                                 src="/images/prophet-stories/ishaq/quran-illustration.png" 
                                 alt="কুরআন চিত্র" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -102,7 +102,7 @@ export default function IshaqStory() {
                     <img 
                         src="/images/prophet-stories/ishaq/mesopotamian-landscape.png" 
                         alt="মেসোপটেমিয়ান ভূদৃশ্য" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -114,12 +114,12 @@ export default function IshaqStory() {
                             <img 
                                 src="/images/prophet-stories/ishaq/prophet-ishaq-calligraphy.png" 
                                 alt="নবী ইসহাকের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover mb-4"
+                                className="w-full h-auto rounded-lg object-cover mb-4"
                             />
                             <img 
                                 src="/images/prophet-stories/ishaq/prophet-yaqub-calligraphy.png" 
                                 alt="নবী ইয়াকুবের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -152,7 +152,7 @@ export default function IshaqStory() {
                             <img 
                                 src="/images/prophet-stories/ishaq/baby-born.png" 
                                 alt="শিশু জন্মগ্রহণ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -162,7 +162,7 @@ export default function IshaqStory() {
                             <img 
                                 src="/images/prophet-stories/ishaq/three-men-standing.png" 
                                 alt="তিনজন পুরুষ দাঁড়িয়ে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">

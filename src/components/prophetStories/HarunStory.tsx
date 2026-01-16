@@ -11,7 +11,7 @@ export default function HarunStory() {
                 <img 
                     src="/images/prophet-stories/harun/story-of-prophet-harun-as.png" 
                     alt="হারুন (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -29,12 +29,12 @@ export default function HarunStory() {
                             <img 
                                 src="/images/prophet-stories/harun/Prophet Harun Calligraphy.png" 
                                 alt="নবী হারুনের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover mb-4"
+                                className="w-full h-auto rounded-lg object-cover mb-4"
                             />
                             <img 
                                 src="/images/prophet-stories/harun/Prophet Musa Calligraphy.png" 
                                 alt="নবী মুসার ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -73,7 +73,7 @@ export default function HarunStory() {
                             <img 
                                 src="/images/prophet-stories/harun/Boy Born.png" 
                                 alt="ছেলে জন্মগ্রহণ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -85,7 +85,7 @@ export default function HarunStory() {
                         <img 
                             src="/images/prophet-stories/harun/the-pharaoh-vision-prophet-harun.png" 
                             alt="ফেরাউনের দর্শন" 
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-auto rounded-lg"
                         />
                         <p className="mt-4 text-center text-sm italic">
                             এই রায় জারি করার কোন নৈতিক দ্বন্দ্ব ছিল না কারণ এটি ফেরাউনের আরেকটি উপায় ছিল যার মাধ্যমে তিনি বনি ইসরায়েলকে নিপীড়ন করতে থাকেন — নবী ইয়াকুবের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) বংশধর।
@@ -101,7 +101,7 @@ export default function HarunStory() {
                             <img 
                                 src="/images/prophet-stories/harun/Gods Pharaoh.png" 
                                 alt="দেবতা ফেরাউন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -140,7 +140,7 @@ export default function HarunStory() {
                     <img 
                         src="/images/prophet-stories/harun/Harun & Musa born.png" 
                         alt="হারুন ও মুসা জন্মগ্রহণ" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -227,7 +227,7 @@ export default function HarunStory() {
                             <img 
                                 src="/images/prophet-stories/harun/Harun & Musa Talked with Pharaoh.png" 
                                 alt="হারুন ও মুসা ফেরাউনের সাথে কথা বলছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -241,7 +241,7 @@ export default function HarunStory() {
                             <img 
                                 src="/images/prophet-stories/harun/Musa & Magician.png" 
                                 alt="মুসা ও জাদুকর" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -262,7 +262,7 @@ export default function HarunStory() {
                     <img 
                         src="/images/prophet-stories/harun/Musa Parting the sea.png" 
                         alt="মুসা সমুদ্র বিভক্ত করছেন" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -279,7 +279,7 @@ export default function HarunStory() {
                             <img 
                                 src="/images/prophet-stories/harun/Pharaoh drowned.png" 
                                 alt="ফেরাউন ডুবে যাচ্ছে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -313,7 +313,7 @@ export default function HarunStory() {
                             <img 
                                 src="/images/prophet-stories/harun/Golden Calf.png" 
                                 alt="সোনার বাছুর" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -347,7 +347,7 @@ export default function HarunStory() {
                             <img 
                                 src="/images/prophet-stories/harun/Harun and the angry people.png" 
                                 alt="হারুন এবং রাগান্বিত লোকেরা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -397,7 +397,7 @@ export default function HarunStory() {
                             <img 
                                 src="/images/prophet-stories/harun/Musa talked with Harun.png" 
                                 alt="মুসা হারুনের সাথে কথা বলছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -451,7 +451,7 @@ export default function HarunStory() {
                     <img 
                         src="/images/prophet-stories/harun/70 Elders.png" 
                         alt="৭০ জন প্রবীণ" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">

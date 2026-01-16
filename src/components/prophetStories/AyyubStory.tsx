@@ -11,7 +11,7 @@ export default function AyyubStory() {
                 <img 
                     src="/images/prophet-stories/ayyub/the-story-of-prophet-ayyub-as.png" 
                     alt="আইয়ুব (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -42,7 +42,7 @@ export default function AyyubStory() {
                     <img 
                         src="/images/prophet-stories/ayyub/Family.png" 
                         alt="নবী আইয়ুবের বংশবৃক্ষ" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4">
@@ -85,7 +85,7 @@ export default function AyyubStory() {
                             <img 
                                 src="/images/prophet-stories/ayyub/Angels Discussion.png" 
                                 alt="ফেরেশতাদের আলোচনা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -107,7 +107,7 @@ export default function AyyubStory() {
                             <img 
                                 src="/images/prophet-stories/ayyub/Satan.png" 
                                 alt="শয়তান" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -152,7 +152,7 @@ export default function AyyubStory() {
                             <img 
                                 src="/images/prophet-stories/ayyub/Livestock.png" 
                                 alt="গবাদি পশু" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -188,7 +188,7 @@ export default function AyyubStory() {
                             <img 
                                 src="/images/prophet-stories/ayyub/Satan.png" 
                                 alt="শয়তান" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -233,7 +233,7 @@ export default function AyyubStory() {
                             <img 
                                 src="/images/prophet-stories/ayyub/Building.png" 
                                 alt="ভবন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -251,7 +251,7 @@ export default function AyyubStory() {
                             <img 
                                 src="/images/prophet-stories/ayyub/Satan with Image above.png" 
                                 alt="শয়তান ছবির সাথে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -282,7 +282,7 @@ export default function AyyubStory() {
                             <img 
                                 src="/images/prophet-stories/ayyub/Hand skin.png" 
                                 alt="হাতের ত্বক" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -355,7 +355,7 @@ export default function AyyubStory() {
                             <img 
                                 src="/images/prophet-stories/ayyub/Ayyub Calligraphy.png" 
                                 alt="আইয়ুবের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -370,7 +370,7 @@ export default function AyyubStory() {
                             <img 
                                 src="/images/prophet-stories/ayyub/Prayer Hand.png" 
                                 alt="প্রার্থনার হাত" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -394,7 +394,7 @@ export default function AyyubStory() {
                     <img 
                         src="/images/prophet-stories/ayyub/Spring Water.png" 
                         alt="ঝরনার পানি" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -426,7 +426,7 @@ export default function AyyubStory() {
                             <img 
                                 src="/images/prophet-stories/ayyub/Thin Grass.png" 
                                 alt="পাতলা ঘাস" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -468,7 +468,7 @@ export default function AyyubStory() {
                             <img 
                                 src="/images/prophet-stories/ayyub/Gold Locust.png" 
                                 alt="সোনার পঙ্গপাল" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>

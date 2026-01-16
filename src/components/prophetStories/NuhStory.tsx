@@ -11,7 +11,7 @@ export default function NuhStory() {
                 <img 
                     src="/images/prophets/nuh.png" 
                     alt="নূহ (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -29,7 +29,7 @@ export default function NuhStory() {
                             <img 
                                 src="/images/prophets/nuh.png" 
                                 alt="নবী নূহের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -92,7 +92,7 @@ export default function NuhStory() {
                             <img 
                                 src="/images/prophets/nuh.png" 
                                 alt="নূহের লোকেরা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -109,7 +109,7 @@ export default function NuhStory() {
                         <img 
                             src="/images/prophets/nuh.png" 
                             alt="শয়তানের ছবি" 
-                            className="w-full h-auto rounded-lg shadow-lg object-cover"
+                            className="w-full h-auto rounded-lg object-cover"
                         />
                     </div>
 
@@ -180,7 +180,7 @@ export default function NuhStory() {
                             <img 
                                 src="/images/prophets/nuh.png" 
                                 alt="নূহের লোকেরা রাগান্বিত" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -201,7 +201,7 @@ export default function NuhStory() {
                         <img 
                             src="/images/prophets/nuh.png" 
                             alt="নূহের লোকেরা আঙুল দেখাচ্ছে" 
-                            className="w-full h-auto rounded-lg shadow-lg object-cover"
+                            className="w-full h-auto rounded-lg object-cover"
                         />
                     </div>
 
@@ -260,7 +260,7 @@ export default function NuhStory() {
                             <img 
                                 src="/images/prophets/nuh.png" 
                                 alt="নূহের মূর্তিপূজকরা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -270,7 +270,7 @@ export default function NuhStory() {
                             <img 
                                 src="/images/prophets/nuh.png" 
                                 alt="নূহের ধনী লোকেরা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -310,7 +310,7 @@ export default function NuhStory() {
                         <img 
                             src="/images/prophets/nuh.png" 
                             alt="নূহের প্রচার" 
-                            className="w-full h-auto rounded-lg shadow-lg object-cover"
+                            className="w-full h-auto rounded-lg object-cover"
                         />
                     </div>
 
@@ -357,7 +357,7 @@ export default function NuhStory() {
                             <img 
                                 src="/images/prophets/nuh.png" 
                                 alt="নূহ দোয়া করছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -374,7 +374,7 @@ export default function NuhStory() {
                         <img 
                             src="/images/prophets/nuh.png" 
                             alt="নূহের নৌকা নির্মাণ" 
-                            className="w-full h-auto rounded-lg shadow-lg object-cover"
+                            className="w-full h-auto rounded-lg object-cover"
                         />
                     </div>
 
@@ -413,7 +413,7 @@ export default function NuhStory() {
                             <img 
                                 src="/images/prophets/nuh.png" 
                                 alt="নূহের লোকেরা হাসছে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -498,7 +498,7 @@ export default function NuhStory() {
                             <img 
                                 src="/images/prophets/nuh.png" 
                                 alt="নূহের নৌকা বন্যা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -515,7 +515,7 @@ export default function NuhStory() {
                         <img 
                             src="/images/prophets/nuh.png" 
                             alt="নূহের নৌকা অবতরণ" 
-                            className="w-full h-auto rounded-lg shadow-lg object-cover"
+                            className="w-full h-auto rounded-lg object-cover"
                         />
                     </div>
 

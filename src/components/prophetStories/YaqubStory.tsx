@@ -11,7 +11,7 @@ export default function YaqubStory() {
                 <img 
                     src="/images/prophet-stories/yaqub/the-story-of-prophet-yaqub-as.png" 
                     alt="ইয়াকুব (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -31,7 +31,7 @@ export default function YaqubStory() {
                     <img 
                         src="/images/prophet-stories/yaqub/prophet-yaqub-and-prophet-yusuf.png" 
                         alt="নবী ইয়াকুব ও নবী ইউসুফ" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -91,7 +91,7 @@ export default function YaqubStory() {
                             <img 
                                 src="/images/prophet-stories/yaqub/prophet-musa-as-miracle-to-banu-israel.png" 
                                 alt="নবী মুসা বনু ইসরায়েলের জন্য অলৌকিক ঘটনা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -178,7 +178,7 @@ export default function YaqubStory() {
                             <img 
                                 src="/images/prophet-stories/yaqub/yaqub-as-grief.png" 
                                 alt="ইয়াকুব (আঃ) দুঃখ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -206,7 +206,7 @@ export default function YaqubStory() {
                             <img 
                                 src="/images/prophet-stories/yaqub/yaqub-yusuf-famine-in-egypt.png" 
                                 alt="মিশরে দুর্ভিক্ষ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -244,7 +244,7 @@ export default function YaqubStory() {
                     <img 
                         src="/images/prophet-stories/yaqub/yusufs-brother-return-from-egypt.png" 
                         alt="ইউসুফের ভাই মিশর থেকে ফিরে আসছে" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -374,7 +374,7 @@ export default function YaqubStory() {
                     <img 
                         src="/images/prophet-stories/yaqub/Prophet-Yaqoob-prays-to-allah.png" 
                         alt="নবী ইয়াকুব আল্লাহর কাছে প্রার্থনা করছেন" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4">

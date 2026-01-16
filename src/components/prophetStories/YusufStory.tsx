@@ -11,7 +11,7 @@ export default function YusufStory() {
                 <img 
                     src="/images/prophet-stories/yusuf/prophet-yusuf-as-header.png" 
                     alt="ইউসুফ (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -29,7 +29,7 @@ export default function YusufStory() {
                             <img 
                                 src="/images/prophet-stories/yusuf/Calligraphy.png" 
                                 alt="নবী ইউসুফের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -76,7 +76,7 @@ export default function YusufStory() {
                             <img 
                                 src="/images/prophet-stories/yusuf/Well.png" 
                                 alt="কূপ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -100,7 +100,7 @@ export default function YusufStory() {
                             <img 
                                 src="/images/prophet-stories/yusuf/Falling.png" 
                                 alt="পতন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -148,7 +148,7 @@ export default function YusufStory() {
                             <img 
                                 src="/images/prophet-stories/yusuf/Blood clothes.png" 
                                 alt="রক্তাক্ত কাপড়" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -166,12 +166,12 @@ export default function YusufStory() {
                             <img 
                                 src="/images/prophet-stories/yusuf/Caravan.png" 
                                 alt="কাফেলা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover mb-4"
+                                className="w-full h-auto rounded-lg object-cover mb-4"
                             />
                             <img 
                                 src="/images/prophet-stories/yusuf/hand clinging to the rope.png" 
                                 alt="রজ্জুতে হাত আটকে আছে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -256,7 +256,7 @@ export default function YusufStory() {
                             <img 
                                 src="/images/prophet-stories/yusuf/Zulaika & Yusuf.png" 
                                 alt="জুলাইখা ও ইউসুফ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -274,7 +274,7 @@ export default function YusufStory() {
                             <img 
                                 src="/images/prophet-stories/yusuf/cutting fruits.png" 
                                 alt="ফল কাটা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -347,7 +347,7 @@ export default function YusufStory() {
                             <img 
                                 src="/images/prophet-stories/yusuf/Yusuf talk.png" 
                                 alt="ইউসুফ কথা বলছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -367,7 +367,7 @@ export default function YusufStory() {
                     <img 
                         src="/images/prophet-stories/yusuf/King dream.png" 
                         alt="রাজার স্বপ্ন" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -440,7 +440,7 @@ export default function YusufStory() {
                             <img 
                                 src="/images/prophet-stories/yusuf/Yusuf talk.png" 
                                 alt="ইউসুফ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -539,7 +539,7 @@ export default function YusufStory() {
                     <img 
                         src="/images/prophet-stories/yusuf/King's-golden-bowl.png" 
                         alt="রাজার সোনার বাটি" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -658,7 +658,7 @@ export default function YusufStory() {
                             <img 
                                 src="/images/prophet-stories/yusuf/Yusuf give shirt.png" 
                                 alt="ইউসুফ শার্ট দিচ্ছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">

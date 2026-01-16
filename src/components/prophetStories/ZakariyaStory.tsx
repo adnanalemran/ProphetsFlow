@@ -11,7 +11,7 @@ export default function ZakariyaStory() {
                 <img 
                     src="/images/prophet-stories/zakariyah/the-story-of-prophet-zakariyah-as.png" 
                     alt="নবী যাকারিয়া (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -31,7 +31,7 @@ export default function ZakariyaStory() {
                             <img 
                                 src="/images/prophet-stories/zakariyah/Prophet Zakariya Calligraphy.png" 
                                 alt="নবী যাকারিয়ার ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -68,7 +68,7 @@ export default function ZakariyaStory() {
                             <img 
                                 src="/images/prophet-stories/zakariyah/Prophet Zakariyah Carpenter.png" 
                                 alt="নবী যাকারিয়া কাঠমিস্ত্রী" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -133,7 +133,7 @@ export default function ZakariyaStory() {
                             <img 
                                 src="/images/prophet-stories/zakariyah/Imran Family Tree.png" 
                                 alt="ইমরানের পরিবার বৃক্ষ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -147,7 +147,7 @@ export default function ZakariyaStory() {
                             <img 
                                 src="/images/prophet-stories/zakariyah/Hannah Praying.png" 
                                 alt="হান্নাহ প্রার্থনা করছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -177,7 +177,7 @@ export default function ZakariyaStory() {
                             <img 
                                 src="/images/prophet-stories/zakariyah/Maryam Newborn.png" 
                                 alt="নবজাতক মারিয়াম" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -231,7 +231,7 @@ export default function ZakariyaStory() {
                             <img 
                                 src="/images/prophet-stories/zakariyah/Quran Mention Maryam.png" 
                                 alt="কুরআনে মারিয়ামের উল্লেখ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -310,7 +310,7 @@ export default function ZakariyaStory() {
                         <img 
                             src="/images/prophet-stories/zakariyah/Prophet Zakariyah Quill selected.png" 
                             alt="নবী যাকারিয়ার কলম নির্বাচিত" 
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-auto rounded-lg"
                         />
                         <p className="text-center text-sm mt-2 italic">
                             <strong>আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) ইচ্ছায়, <span className="text-amber-600 dark:text-amber-500">নবী যাকারিয়ার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) কলম নির্বাচিত হয়েছিল।</span></strong> তবে, এটি প্রতিযোগীদের সন্তুষ্ট করেনি, তাই তারা প্রকৃতিকে সঠিক অভিভাবক বেছে নেওয়ার সিদ্ধান্ত নিয়েছিল।
@@ -322,7 +322,7 @@ export default function ZakariyaStory() {
                             <img 
                                 src="/images/prophet-stories/zakariyah/green grass (left).png" 
                                 alt="সবুজ ঘাস" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -339,7 +339,7 @@ export default function ZakariyaStory() {
                         <img 
                             src="/images/prophet-stories/zakariyah/Prophet Zakariyah Quill remained.png" 
                             alt="নবী যাকারিয়ার কলম স্থির ছিল" 
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-auto rounded-lg"
                         />
                         <p className="text-center text-sm mt-2 italic">
                             পুরোহিতরা এখনও বিশ্বাস করেনি।
@@ -351,7 +351,7 @@ export default function ZakariyaStory() {
                             <img 
                                 src="/images/prophet-stories/zakariyah/green grass (left).png" 
                                 alt="সবুজ ঘাস" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -368,7 +368,7 @@ export default function ZakariyaStory() {
                         <img 
                             src="/images/prophet-stories/zakariyah/Prophet Zakariyah Quill Flowed.png" 
                             alt="নবী যাকারিয়ার কলম প্রবাহিত হয়েছিল" 
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-auto rounded-lg"
                         />
                         <p className="text-center text-sm mt-2 italic">
                             <strong>এইভাবে, পুরুষরা আর যাকারিয়াকে (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) অস্বীকার করতে পারেনি, <span className="text-amber-600 dark:text-amber-500">এবং মারিয়াম (রা.) তার সুরক্ষামূলক যত্নে আসে।</span></strong>
@@ -402,7 +402,7 @@ export default function ZakariyaStory() {
                             <img 
                                 src="/images/prophet-stories/zakariyah/Fruit.png" 
                                 alt="ফল" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -434,7 +434,7 @@ export default function ZakariyaStory() {
                             <img 
                                 src="/images/prophet-stories/zakariyah/Prophet Zakariyah Praying.png" 
                                 alt="নবী যাকারিয়া প্রার্থনা করছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -472,7 +472,7 @@ export default function ZakariyaStory() {
                         <img 
                             src="/images/prophet-stories/zakariyah/Prophet Zakariyah & Angel.png" 
                             alt="নবী যাকারিয়া এবং ফেরেশতা" 
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-auto rounded-lg"
                         />
                         <p className="text-center text-sm mt-2 italic">
                             যখন নবী যাকারিয়া (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) মিহরাবে ছিলেন, ফেরেশতারা তার কাছে এসে ঘোষণা করেছিলেন:<br /><em>"হে যাকারিয়া! নিশ্চয়ই, আমরা আপনাকে একটি পুত্রের জন্মের সুসংবাদ দিচ্ছি, যার নাম হবে ইয়াহিয়া — একটি নাম যা আমরা আগে কাউকে দিইনি।"</em><br />— (<a href="https://myislam.org/surah-maryam/ayat-7/" className="text-blue-600 dark:text-blue-400">সূরা মারিয়াম, আয়াত ৭</a>)
@@ -530,7 +530,7 @@ export default function ZakariyaStory() {
                             <img 
                                 src="/images/prophet-stories/zakariyah/Prophet Zakariyah signaling people.png" 
                                 alt="নবী যাকারিয়া লোকদের সংকেত দিচ্ছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -564,7 +564,7 @@ export default function ZakariyaStory() {
                         <img 
                             src="/images/prophet-stories/zakariyah/Prophetic Du_a 1.png" 
                             alt="নবী যাকারিয়ার দুআ ১" 
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-auto rounded-lg"
                         />
                     </div>
 
@@ -587,7 +587,7 @@ export default function ZakariyaStory() {
                         <img 
                             src="/images/prophet-stories/zakariyah/Prophetic Du_a 2.png" 
                             alt="নবী যাকারিয়ার দুআ ২" 
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-auto rounded-lg"
                         />
                     </div>
 

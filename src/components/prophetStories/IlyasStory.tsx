@@ -11,7 +11,7 @@ export default function IlyasStory() {
                 <img 
                     src="/images/prophet-stories/ilyas/the-story-of-prophet-ilyas.png" 
                     alt="ইলিয়াস (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -53,7 +53,7 @@ export default function IlyasStory() {
                             <img 
                                 src="/images/prophet-stories/ilyas/Asset-2 (Ilyas A.S mentioned in Quran).png" 
                                 alt="কুরআনে নবী ইলিয়াস উল্লেখিত" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -84,7 +84,7 @@ export default function IlyasStory() {
                             <img 
                                 src="/images/prophet-stories/ilyas/Asset-4 (Anbiya mentioned in Quran).png" 
                                 alt="কুরআনে নবীদের উল্লেখ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -150,7 +150,7 @@ export default function IlyasStory() {
                             <img 
                                 src="/images/prophet-stories/ilyas/prophet-ilyas-descendant-of-harun.png" 
                                 alt="নবী ইলিয়াস হারুনের বংশধর" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -160,7 +160,7 @@ export default function IlyasStory() {
                             <img 
                                 src="/images/prophet-stories/ilyas/Asset-6 (gold baal idol worship).png" 
                                 alt="পৌত্তলিক দেবতা বাআল" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">

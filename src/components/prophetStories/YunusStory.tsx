@@ -11,7 +11,7 @@ export default function YunusStory() {
                 <img 
                     src="/images/prophet-stories/yunus/the-story-of-prophet-yunus-as.png" 
                     alt="নবী ইউনুস (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 

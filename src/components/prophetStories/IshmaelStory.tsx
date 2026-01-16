@@ -11,7 +11,7 @@ export default function IshmaelStory() {
                 <img 
                     src="/images/prophet-stories/ismail/the-story-of-prophet-ishamel-as.png" 
                     alt="ইসমাইল (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -33,7 +33,7 @@ export default function IshmaelStory() {
                             <img 
                                 src="/images/prophet-stories/ismail/Prophet Ibrahim & Ishmael Calligraphy.png" 
                                 alt="নবী ইব্রাহিম ও ইসমাইলের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -75,7 +75,7 @@ export default function IshmaelStory() {
                             <img 
                                 src="/images/prophet-stories/ismail/Lone Tree.png" 
                                 alt="একাকী গাছ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -85,7 +85,7 @@ export default function IshmaelStory() {
                             <img 
                                 src="/images/prophet-stories/ismail/Dates & Water.png" 
                                 alt="খেজুর ও পানি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -130,7 +130,7 @@ export default function IshmaelStory() {
                             <img 
                                 src="/images/prophet-stories/ismail/Hagar & Ibrahim.png" 
                                 alt="হাজেরা ও ইব্রাহিম" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -168,7 +168,7 @@ export default function IshmaelStory() {
                     <img 
                         src="/images/prophet-stories/ismail/Hagar Climb.png" 
                         alt="হাজেরা আরোহণ করছেন" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -196,7 +196,7 @@ export default function IshmaelStory() {
                             <img 
                                 src="/images/prophet-stories/ismail/Zamzam.png" 
                                 alt="জমজম" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -267,7 +267,7 @@ export default function IshmaelStory() {
                     <img 
                         src="/images/prophet-stories/ismail/Hagar & Ishmael.png" 
                         alt="হাজেরা ও ইসমাইল" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
@@ -310,7 +310,7 @@ export default function IshmaelStory() {
                     <img 
                         src="/images/prophet-stories/ismail/Ibrahim Dream & Ismail talk.png" 
                         alt="ইব্রাহিম স্বপ্ন ও ইসমাইল কথা" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
@@ -358,7 +358,7 @@ export default function IshmaelStory() {
                             <img 
                                 src="/images/prophet-stories/ismail/Prophet Ibrahim pelting shaitan.png" 
                                 alt="নবী ইব্রাহিম শয়তানকে পাথর ছুঁড়ছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -369,7 +369,7 @@ export default function IshmaelStory() {
                             <img 
                                 src="/images/prophet-stories/ismail/7 pebbles.png" 
                                 alt="৭টি নুড়ি" 
-                                className="w-full h-auto rounded-lg shadow-lg my-4"
+                                className="w-full h-auto rounded-lg my-4"
                             />
                         </div>
                     </div>
@@ -405,7 +405,7 @@ export default function IshmaelStory() {
                     <img 
                         src="/images/prophet-stories/ismail/Prophet Ishmael sacrifice.png" 
                         alt="নবী ইসমাইল কুরবানি" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -470,7 +470,7 @@ export default function IshmaelStory() {
                             <img 
                                 src="/images/prophet-stories/ismail/Wife 1.png" 
                                 alt="স্ত্রী ১" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -534,12 +534,12 @@ export default function IshmaelStory() {
                             <img 
                                 src="/images/prophet-stories/ismail/Wife 2.png" 
                                 alt="স্ত্রী ২" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover mb-4"
+                                className="w-full h-auto rounded-lg object-cover mb-4"
                             />
                             <img 
                                 src="/images/prophet-stories/ismail/Meat & Water.png" 
                                 alt="মাংস ও পানি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -590,7 +590,7 @@ export default function IshmaelStory() {
                             <img 
                                 src="/images/prophet-stories/ismail/Ibrahim Dream & Ismail talk 2.png" 
                                 alt="ইব্রাহিম স্বপ্ন ও ইসমাইল কথা ২" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -630,7 +630,7 @@ export default function IshmaelStory() {
                             <img 
                                 src="/images/prophet-stories/ismail/Ibrahim Dream & Ismail build Kaaba.png" 
                                 alt="ইব্রাহিম স্বপ্ন ও ইসমাইল কাবা নির্মাণ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -666,7 +666,7 @@ export default function IshmaelStory() {
                             <img 
                                 src="/images/prophet-stories/ismail/Maqam Ibrahim.png" 
                                 alt="মাকাম ইব্রাহিম" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">

@@ -11,7 +11,7 @@ export default function HudStory() {
                 <img 
                     src="/images/prophets/hud.png" 
                     alt="হুদ (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -42,7 +42,7 @@ export default function HudStory() {
                             <img 
                                 src="/images/prophets/hud.png" 
                                 alt="নবী হুদের গল্প" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -77,7 +77,7 @@ export default function HudStory() {
                             <img 
                                 src="/images/prophets/hud.png" 
                                 alt="আদ গোত্রের লোকেরা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -106,7 +106,7 @@ export default function HudStory() {
                             <img 
                                 src="/images/prophets/hud.png" 
                                 alt="আল্লাহর দিকে আহ্বান" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -204,7 +204,7 @@ export default function HudStory() {
                             <img 
                                 src="/images/prophets/hud.png" 
                                 alt="আল্লাহর কাছে দোয়া করছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -277,7 +277,7 @@ export default function HudStory() {
                         <img 
                             src="/images/prophets/hud.png" 
                             alt="শাস্তির ছবি" 
-                            className="w-full h-auto rounded-lg shadow-lg object-cover"
+                            className="w-full h-auto rounded-lg object-cover"
                         />
                     </div>
 

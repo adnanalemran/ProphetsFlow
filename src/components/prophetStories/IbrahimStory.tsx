@@ -15,7 +15,7 @@ export default function IbrahimStory() {
                 <img 
                     src="/images/prophet-stories/ibrahim/prophet-ibrahim-abraham-story.png" 
                     alt="ইব্রাহিম (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -62,7 +62,7 @@ export default function IbrahimStory() {
                             <img 
                                 src="/images/prophet-stories/ibrahim/Prophet Ibrahim Calligraphy.png" 
                                 alt="নবী ইব্রাহিমের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -72,7 +72,7 @@ export default function IbrahimStory() {
                             <img 
                                 src="/images/prophet-stories/ibrahim/Stone Idols.png" 
                                 alt="মূর্তি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -150,7 +150,7 @@ export default function IbrahimStory() {
                     <img 
                         src="/images/prophet-stories/ibrahim/People worshiping idol.png" 
                         alt="লোকেরা মূর্তি উপাসনা করছে" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -232,7 +232,7 @@ export default function IbrahimStory() {
                             <img 
                                 src="/images/prophet-stories/ibrahim/Ibrahim & People.png" 
                                 alt="নবী ইব্রাহিম আকাশের দিকে তাকাচ্ছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -301,7 +301,7 @@ export default function IbrahimStory() {
                     <img 
                         src="/images/prophet-stories/ibrahim/Ibrahim Smashing the idols.png" 
                         alt="নবী ইব্রাহিম মূর্তি ভাঙছেন" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -340,7 +340,7 @@ export default function IbrahimStory() {
                             <img 
                                 src="/images/prophet-stories/ibrahim/Idols Destroyed.png" 
                                 alt="নবী ইব্রাহিম মূর্তি ধ্বংস করেছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -350,7 +350,7 @@ export default function IbrahimStory() {
                             <img 
                                 src="/images/prophet-stories/ibrahim/Biggest Idol.png" 
                                 alt="সবচেয়ে বড় মূর্তি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -419,7 +419,7 @@ export default function IbrahimStory() {
                             <img 
                                 src="/images/prophet-stories/ibrahim/Firewood.png" 
                                 alt="নবী ইব্রাহিমকে পোড়ানোর হুমকি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -447,7 +447,7 @@ export default function IbrahimStory() {
                     <img 
                         src="/images/prophet-stories/ibrahim/Ibrahim Fire.png" 
                         alt="ইব্রাহিম (আঃ) আগুনে নিক্ষিপ্ত" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -467,7 +467,7 @@ export default function IbrahimStory() {
                     <img 
                         src="/images/prophet-stories/ibrahim/Ibrahim Fire 2.png" 
                         alt="নবী ইব্রাহিম (আঃ) আগুন থেকে বেঁচে গেছেন" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -505,7 +505,7 @@ export default function IbrahimStory() {
                             <img 
                                 src="/images/prophet-stories/ibrahim/King Namrud.png" 
                                 alt="নবী ইব্রাহিম (আঃ) রাজা নমরুদের সাথে বিতর্ক করছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -590,7 +590,7 @@ export default function IbrahimStory() {
                             <img 
                                 src="/images/prophet-stories/ibrahim/Guard & Hagar.png" 
                                 alt="প্রহরী এবং হাজেরা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -618,7 +618,7 @@ export default function IbrahimStory() {
                     <img 
                         src="/images/prophet-stories/ibrahim/3 Angels.png" 
                         alt="ইব্রাহিম (আঃ) তিনজন ফেরেশতাকে দেখা করছেন" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -686,7 +686,7 @@ export default function IbrahimStory() {
                     <img 
                         src="/images/prophet-stories/ibrahim/four birds.png" 
                         alt="নবী ইব্রাহিম চারটি পাখির অলৌকিক ঘটনা দেখছেন" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center">
@@ -710,7 +710,7 @@ export default function IbrahimStory() {
                             <img 
                                 src="/images/prophet-stories/ibrahim/Ibrahim Family Tree.png" 
                                 alt="নবী ইব্রাহিমের পরিবার বৃক্ষ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -751,7 +751,7 @@ export default function IbrahimStory() {
                             <img 
                                 src="/images/prophet-stories/ibrahim/Ibrahim Alone.png" 
                                 alt="নবী ইব্রাহিম একা হাঁটছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">

@@ -10,7 +10,7 @@ export default function IsaStory() {
                 <img 
                     src="/images/prophet-stories/isa/the story of prophet isa as.png" 
                     alt="নবী ঈসা (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -29,7 +29,7 @@ export default function IsaStory() {
                     <img 
                         src="/images/prophet-stories/isa/Bird.png" 
                         alt="পাখি" 
-                        className="w-full h-auto rounded-lg shadow-lg"
+                        className="w-full h-auto rounded-lg"
                     />
                 </div>
 
@@ -72,7 +72,7 @@ export default function IsaStory() {
                             <img 
                                 src="/images/prophet-stories/isa/Baby born_.png" 
                                 alt="শিশু জন্মগ্রহণ করেছে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -114,7 +114,7 @@ export default function IsaStory() {
                             <img 
                                 src="/images/prophet-stories/isa/Maryam A.S.png" 
                                 alt="মারিয়াম (আঃ)" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -128,7 +128,7 @@ export default function IsaStory() {
                         <img 
                             src="/images/prophet-stories/isa/Prophet Zakariyah Quill remained.png" 
                             alt="নবী যাকারিয়ার কলম স্থির ছিল" 
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-auto rounded-lg"
                         />
                     </div>
 
@@ -162,7 +162,7 @@ export default function IsaStory() {
                             <img 
                                 src="/images/prophet-stories/isa/imam masjid e Aqsa.png" 
                                 alt="ইমাম মসজিদ আল-আকসা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -186,7 +186,7 @@ export default function IsaStory() {
                             <img 
                                 src="/images/prophet-stories/isa/Fresh Fruits.png" 
                                 alt="তাজা ফল" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -218,7 +218,7 @@ export default function IsaStory() {
                             <img 
                                 src="/images/prophet-stories/isa/Maryam A.S praying in chamber.png" 
                                 alt="মারিয়াম (আঃ) কক্ষে প্রার্থনা করছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -309,7 +309,7 @@ export default function IsaStory() {
                             <img 
                                 src="/images/prophet-stories/isa/Maryam AS under tree.png" 
                                 alt="মারিয়াম (আঃ) গাছের নিচে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -352,7 +352,7 @@ export default function IsaStory() {
                             <img 
                                 src="/images/prophet-stories/isa/Dates.png" 
                                 alt="খেজুর" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -392,7 +392,7 @@ export default function IsaStory() {
                             <img 
                                 src="/images/prophet-stories/isa/Town people.png" 
                                 alt="শহরের লোকেরা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -411,7 +411,7 @@ export default function IsaStory() {
                         <img 
                             src="/images/prophet-stories/isa/child hood of prophet Isa AS.png" 
                             alt="নবী ঈসার (আঃ) শৈশব" 
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-auto rounded-lg"
                         />
                     </div>
 
@@ -460,7 +460,7 @@ export default function IsaStory() {
                             <img 
                                 src="/images/prophet-stories/isa/Message of Isa AS.png" 
                                 alt="ঈসার (আঃ) বার্তা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -480,7 +480,7 @@ export default function IsaStory() {
                             <img 
                                 src="/images/prophet-stories/isa/priests to Isa AS.png" 
                                 alt="পুরোহিতরা ঈসার (আঃ) কাছে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -516,7 +516,7 @@ export default function IsaStory() {
                         <img 
                             src="/images/prophet-stories/isa/Miracle.png" 
                             alt="অলৌকিক ঘটনা" 
-                            className="w-full h-auto rounded-lg shadow-lg"
+                            className="w-full h-auto rounded-lg"
                         />
                     </div>
 
@@ -565,7 +565,7 @@ export default function IsaStory() {
                             <img 
                                 src="/images/prophet-stories/isa/Heaven Food.png" 
                                 alt="স্বর্গীয় খাবার" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -602,7 +602,7 @@ export default function IsaStory() {
                             <img 
                                 src="/images/prophet-stories/isa/Person spoke  from the meeting.png" 
                                 alt="সভা থেকে কথা বলা ব্যক্তি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -649,7 +649,7 @@ export default function IsaStory() {
                             <img 
                                 src="/images/prophet-stories/isa/Quran perspective.png" 
                                 alt="কুরআনিক দৃষ্টিকোণ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">

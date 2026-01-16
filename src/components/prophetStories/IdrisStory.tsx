@@ -15,7 +15,7 @@ export default function IdrisStory() {
                 <img 
                     src="/images/prophets/idris.png" 
                     alt="ইদ্রিস (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -46,7 +46,7 @@ export default function IdrisStory() {
                             <img 
                                 src="/images/prophets/idris.png" 
                                 alt="নবী ইদ্রিস" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -122,7 +122,7 @@ export default function IdrisStory() {
                             <img 
                                 src="/images/prophets/idris.png" 
                                 alt="লেখার শিল্প" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -162,7 +162,7 @@ export default function IdrisStory() {
                             <img 
                                 src="/images/prophets/idris.png" 
                                 alt="প্রথম জিহাদ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -199,7 +199,7 @@ export default function IdrisStory() {
                         <img 
                             src="/images/prophets/idris.png" 
                             alt="নবী ইদ্রিস মৃত্যুর ফেরেশতার সাথে দেখা করেছেন" 
-                            className="w-full h-auto rounded-lg shadow-lg object-cover"
+                            className="w-full h-auto rounded-lg object-cover"
                         />
                     </div>
 

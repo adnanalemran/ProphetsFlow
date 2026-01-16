@@ -15,7 +15,7 @@ export default function SalihStory() {
                 <img 
                     src="/images/prophets/salih.png" 
                     alt="সালেহ (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -33,7 +33,7 @@ export default function SalihStory() {
                             <img 
                                 src="/images/prophets/salih.png" 
                                 alt="নবী সালেহের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -125,7 +125,7 @@ export default function SalihStory() {
                             <img 
                                 src="/images/prophets/salih.png" 
                                 alt="নবী সালেহ" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -184,7 +184,7 @@ export default function SalihStory() {
                             <img 
                                 src="/images/prophets/salih.png" 
                                 alt="নেতারা" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -210,7 +210,7 @@ export default function SalihStory() {
                         <img 
                             src="/images/prophets/salih.png" 
                             alt="উট" 
-                            className="w-full h-auto rounded-lg shadow-lg object-cover"
+                            className="w-full h-auto rounded-lg object-cover"
                         />
                     </div>
 
@@ -277,7 +277,7 @@ export default function SalihStory() {
                         <img 
                             src="/images/prophets/salih.png" 
                             alt="উট হত্যা" 
-                            className="w-full h-auto rounded-lg shadow-lg object-cover"
+                            className="w-full h-auto rounded-lg object-cover"
                         />
                     </div>
 
@@ -337,7 +337,7 @@ export default function SalihStory() {
                             <img 
                                 src="/images/prophets/salih.png" 
                                 alt="পুরুষরা আলোচনা করছে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -368,7 +368,7 @@ export default function SalihStory() {
                         <img 
                             src="/images/prophets/salih.png" 
                             alt="থামুদ ধ্বংস" 
-                            className="w-full h-auto rounded-lg shadow-lg object-cover"
+                            className="w-full h-auto rounded-lg object-cover"
                         />
                     </div>
 

@@ -15,7 +15,7 @@ export default function AdamStory() {
                 <img 
                     src="/images/prophets/adam.png" 
                     alt="আদম (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 

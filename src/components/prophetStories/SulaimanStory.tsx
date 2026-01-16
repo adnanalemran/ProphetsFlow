@@ -11,7 +11,7 @@ export default function SulaimanStory() {
                 <img 
                     src="/images/prophet-stories/sulaiman/the-story-of-prophet-sulaiman-as.png" 
                     alt="সুলাইমান (আঃ)-এর গল্প" 
-                    className="w-full h-auto rounded-lg shadow-lg object-cover"
+                    className="w-full h-auto rounded-lg object-cover"
                 />
             </div>
 
@@ -29,7 +29,7 @@ export default function SulaimanStory() {
                             <img 
                                 src="/images/prophet-stories/sulaiman/Prophet Sulaiman Calligraphy.png" 
                                 alt="নবী সুলাইমানের ক্যালিগ্রাফি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
@@ -97,7 +97,7 @@ export default function SulaimanStory() {
                             <img 
                                 src="/images/prophet-stories/sulaiman/Prophet Dawud.png" 
                                 alt="নবী দাউদ লেখা করছেন" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -141,7 +141,7 @@ export default function SulaimanStory() {
                             <img 
                                 src="/images/prophet-stories/sulaiman/Prophet Sulaiman answer.png" 
                                 alt="নবী সুলাইমান নেতা হিসাবে দায়িত্ব" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -206,7 +206,7 @@ export default function SulaimanStory() {
                             <img 
                                 src="/images/prophet-stories/sulaiman/prophet-sulaiman-horses.png" 
                                 alt="নবী সুলাইমানের ঘোড়া" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -271,7 +271,7 @@ export default function SulaimanStory() {
                     <img 
                         src="/images/prophet-stories/sulaiman/Castle-interior.png" 
                         alt="নবী সুলাইমানের দুআ উত্তর দেওয়া হয়েছে" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -357,7 +357,7 @@ export default function SulaimanStory() {
                             <img 
                                 src="/images/prophet-stories/sulaiman/Bird.png" 
                                 alt="হুদহুদ পাখি" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -365,7 +365,7 @@ export default function SulaimanStory() {
                     <img 
                         src="/images/prophet-stories/sulaiman/bilqis-kingdom-according-to-hoopoe.png" 
                         alt="হুদহুদ পাখি বিলকিসের রাজ্য সম্পর্কে বলে" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
@@ -435,7 +435,7 @@ export default function SulaimanStory() {
                     <img 
                         src="/images/prophet-stories/sulaiman/prophet-sulaiman-kingdom.png" 
                         alt="নবী সুলাইমানের রাজ্য এবং সেনাবাহিনী" 
-                        className="w-full h-auto rounded-lg shadow-lg my-6"
+                        className="w-full h-auto rounded-lg my-6"
                     />
 
                     <p className="mb-4 text-center text-sm italic">
@@ -456,7 +456,7 @@ export default function SulaimanStory() {
                             <img 
                                 src="/images/prophet-stories/sulaiman/Gift.png" 
                                 alt="বিলকিসের উপহার" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -496,7 +496,7 @@ export default function SulaimanStory() {
                             <img 
                                 src="/images/prophet-stories/sulaiman/Ifrit.png" 
                                 alt="সুলাইমান জিনদের সিংহাসন ধরতে বলে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -535,7 +535,7 @@ export default function SulaimanStory() {
                             <img 
                                 src="/images/prophet-stories/sulaiman/Jinn & Throne.png" 
                                 alt="জিন সিংহাসন নিয়ে আসছে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -571,7 +571,7 @@ export default function SulaimanStory() {
                             <img 
                                 src="/images/prophet-stories/sulaiman/Bilqis Throne move.png" 
                                 alt="বিলকিসের সিংহাসন সরানো হয়েছে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -610,7 +610,7 @@ export default function SulaimanStory() {
                             <img 
                                 src="/images/prophet-stories/sulaiman/bilqis-walks-on-glass-floor.png" 
                                 alt="বিলকিস কাচের উপর হাঁটছে" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                     </div>
@@ -674,7 +674,7 @@ export default function SulaimanStory() {
                             <img 
                                 src="/images/prophet-stories/sulaiman/Prophet Sulaiman last.png" 
                                 alt="নবী সুলাইমানের মৃত্যু" 
-                                className="w-full h-auto rounded-lg shadow-lg object-cover"
+                                className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1">
