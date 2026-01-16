@@ -212,9 +212,9 @@ export default function YahyaStory() {
                                     <p className="text-sm md:text-base leading-relaxed">
                                         <strong>নবী যাকারিয়া (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) বলেছিলেন:</strong><br />
                                         <em>"হে আমার ছেলে, আমি তোমার সন্ধান করছিলাম, এবং তুমি এই কবরে বাস করছ এবং কাঁদছ!"</em><br /><br />
-                                        <strong>ইয়াহিয়া (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) উত্তর দিয়েছিলেন:</strong><br />
+                                        <strong>ইয়াহিয়া (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) উত্তর দিয়েছিলেন:</strong><br />
                                         <em>"হে পিতা, আপনি কি আমাকে বলেননি যে জান্নাত এবং জাহান্নামের মধ্যে শুধুমাত্র একটি স্প্যান রয়েছে, এবং এটি কান্নাকারিদের অশ্রু ছাড়া অতিক্রম করা হবে না?"</em><br /><br />
-                                        <em>"তাহলে কাঁদ, হে আমার ছেলে,"</em> <strong>নবী যাকারিয়া (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) বলেছিলেন যখন তারা একসাথে কাঁদছিলেন।</strong>
+                                        <em>"তাহলে কাঁদ, হে আমার ছেলে,"</em> <strong>নবী যাকারিয়া (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) বলেছিলেন যখন তারা একসাথে কাঁদছিলেন।</strong>
                                     </p>
                                 </CardContent>
                             </Card>

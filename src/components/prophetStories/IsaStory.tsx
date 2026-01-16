@@ -21,7 +21,7 @@ export default function IsaStory() {
             <div className="prose prose-sm md:prose-lg dark:prose-invert max-w-none text-gray-700 dark:text-gray-300 leading-relaxed text-justify space-y-6 md:space-y-8">
                 <section className="my-8 md:my-12">
                     <p className="mb-4">
-                        নবী ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) গল্প শুরু করার আগে, মনে রাখবেন যে পরিবারের বংশবৃত্তান্ত এবং কিছু প্রাথমিক জীবনের ঘটনার প্রসঙ্গ নবী যাকারিয়ার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) গল্পে আরও বিস্তারিতভাবে আচ্ছাদিত হয়েছে। যেহেতু তাদের সময়রেখা ওভারল্যাপ করে, তাদের গল্পে অনেক ক্রসওভার রয়েছে।
+                        নবী ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) গল্প শুরু করার আগে, মনে রাখবেন যে পরিবারের বংশবৃত্তান্ত এবং কিছু প্রাথমিক জীবনের ঘটনার প্রসঙ্গ নবী যাকারিয়ার (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) গল্পে আরও বিস্তারিতভাবে আচ্ছাদিত হয়েছে। যেহেতু তাদের সময়রেখা ওভারল্যাপ করে, তাদের গল্পে অনেক ক্রসওভার রয়েছে।
                     </p>
                 </section>
 

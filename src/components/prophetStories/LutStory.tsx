@@ -38,7 +38,7 @@ export default function LutStory() {
                         </div>
                         <div className="flex-1 order-1 md:order-2">
                             <p className="mb-4">
-                                নবী লুত, বাইবেলে নবী লট নামে পরিচিত, তার চাচা নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) দ্বারা লালিত-পালিত হয়েছিলেন। নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) বার্তাকে ভালোবাসতেন, সম্মান করতেন এবং বিশ্বাস করতেন এমনকি যখন সবাই তাকে উপহাস করত। নবী ইব্রাহিম, লুতের সাথে, দূরে ভ্রমণ করেছিলেন, স্থল এবং সমুদ্র জুড়ে, ইসলামের ভাঁজে মানুষকে আমন্ত্রণ জানাতে এবং ছড়িয়ে দিতে চেষ্টা করেছিলেন।
+                                নবী লুত, বাইবেলে নবী লট নামে পরিচিত, তার চাচা নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) দ্বারা লালিত-পালিত হয়েছিলেন। নবী লুত (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) বার্তাকে ভালোবাসতেন, সম্মান করতেন এবং বিশ্বাস করতেন এমনকি যখন সবাই তাকে উপহাস করত। নবী ইব্রাহিম, লুতের সাথে, দূরে ভ্রমণ করেছিলেন, স্থল এবং সমুদ্র জুড়ে, ইসলামের ভাঁজে মানুষকে আমন্ত্রণ জানাতে এবং ছড়িয়ে দিতে চেষ্টা করেছিলেন।
                             </p>
                         </div>
                     </div>
@@ -171,7 +171,7 @@ export default function LutStory() {
                 {/* Prophet Lut's Distress */}
                 <section className="my-8 md:my-12">
                     <p className="mb-4">
-                        <span className="text-amber-600 dark:text-amber-500"><strong>নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) গভীরভাবে দুঃখিত ছিলেন।</strong></span> ইসলামের দিকে লোকদের পথনির্দেশ করার জন্য বছরের পর বছর নিরলস প্রচেষ্টার পর, একজনও ব্যক্তি বিশ্বাস গ্রহণ করেনি।
+                        <span className="text-amber-600 dark:text-amber-500"><strong>নবী লুত (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) গভীরভাবে দুঃখিত ছিলেন।</strong></span> ইসলামের দিকে লোকদের পথনির্দেশ করার জন্য বছরের পর বছর নিরলস প্রচেষ্টার পর, একজনও ব্যক্তি বিশ্বাস গ্রহণ করেনি।
                     </p>
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
@@ -424,7 +424,7 @@ export default function LutStory() {
                 {/* All Quran Verses */}
                 <section className="my-8 md:my-12">
                     <h2 className="text-xl md:text-2xl font-bold mb-6 text-gray-900 dark:text-white border-l-4 border-amber-500 pl-4 text-center">
-                        <span className="text-amber-600 dark:text-amber-500">সমস্ত কুরআন আয়াত</span> যা <span className="text-amber-600 dark:text-amber-500">নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>)</span>-এর গল্প উল্লেখ করে
+                        <span className="text-amber-600 dark:text-amber-500">সমস্ত কুরআন আয়াত</span> যা <span className="text-amber-600 dark:text-amber-500">নবী লুত (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>)</span>-এর গল্প উল্লেখ করে
                     </h2>
 
                     <p className="mb-4">

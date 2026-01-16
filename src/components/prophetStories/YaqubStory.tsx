@@ -25,7 +25,7 @@ export default function YaqubStory() {
                 {/* Introduction */}
                 <section className="my-8 md:my-12">
                     <p className="mb-4">
-                        <strong>নবী ইয়াকুব (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) ধার্মিক নবীদের একটি বংশধারা থেকে এসেছিলেন</strong> এবং তার বংশধরের মাধ্যমে একত্বের বার্তা বহন করতে থাকেন। তিনি ছিলেন নবী ইসহাকের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) পুত্র, এবং তার দাদা ছিলেন নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>)।
+                        <strong>নবী ইয়াকুব (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) ধার্মিক নবীদের একটি বংশধারা থেকে এসেছিলেন</strong> এবং তার বংশধরের মাধ্যমে একত্বের বার্তা বহন করতে থাকেন। তিনি ছিলেন নবী ইসহাকের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) পুত্র, এবং তার দাদা ছিলেন নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>)।
                     </p>
 
                     <img 

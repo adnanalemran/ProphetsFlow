@@ -335,18 +335,18 @@ export default function NuhStory() {
                     </h2>
 
                     <p className="mb-4">
-                        <strong>যে শিশু বোঝার বয়সে পৌঁছেছিল তাকে স্পষ্টভাবে সতর্ক করা হয়েছিল নবী নূহের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) শিক্ষার বিরুদ্ধে</strong>। যখনই নবী তাদের কাছে আসতেন, তারা তাঁর কাছ থেকে পালিয়ে যেত। <span className="text-amber-600 dark:text-amber-500 font-semibold">তারা নূহের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) উপস্থিতি থেকে পালানোর জন্য প্রতিটি অজুহাত খুঁজে পেয়েছিল</span>।
+                        <strong>যে শিশু বোঝার বয়সে পৌঁছেছিল তাকে স্পষ্টভাবে সতর্ক করা হয়েছিল নবী নূহের (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) শিক্ষার বিরুদ্ধে</strong>। যখনই নবী তাদের কাছে আসতেন, তারা তাঁর কাছ থেকে পালিয়ে যেত। <span className="text-amber-600 dark:text-amber-500 font-semibold">তারা নূহের (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) উপস্থিতি থেকে পালানোর জন্য প্রতিটি অজুহাত খুঁজে পেয়েছিল</span>।
                     </p>
 
                     <p className="mb-4">
-                        খুব শীঘ্রই, <strong>নবী নূহ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) বুঝতে পারলেন যে অবিশ্বাসীদের সংখ্যা দ্রুত বৃদ্ধি পাচ্ছে</strong> যখন বিশ্বাসীদের সংখ্যা অপরিবর্তিত ছিল। তিনি তাঁর লোকদের জন্য খুবই মন খারাপ করেছিলেন এবং <strong>তাদের জন্য একটি ভয়াবহ পরিস্থিতি ভয় করেছিলেন, <span className="text-amber-600 dark:text-amber-500">কিন্তু তাঁর কাছে কোনও বিকল্প ছিল না</span></strong>।
+                        খুব শীঘ্রই, <strong>নবী নূহ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) বুঝতে পারলেন যে অবিশ্বাসীদের সংখ্যা দ্রুত বৃদ্ধি পাচ্ছে</strong> যখন বিশ্বাসীদের সংখ্যা অপরিবর্তিত ছিল। তিনি তাঁর লোকদের জন্য খুবই মন খারাপ করেছিলেন এবং <strong>তাদের জন্য একটি ভয়াবহ পরিস্থিতি ভয় করেছিলেন, <span className="text-amber-600 dark:text-amber-500">কিন্তু তাঁর কাছে কোনও বিকল্প ছিল না</span></strong>।
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <Card className="flex-1 bg-gradient-to-br from-emerald-50 to-teal-50 dark:from-emerald-900/20 dark:to-teal-900/20 border-l-4 border-emerald-500">
                             <CardContent className="pt-6">
                                 <p className="text-sm md:text-base leading-relaxed mb-4">
-                                    <strong>তাই নবী নূহ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কাছে দোয়া করেছিলেন:</strong>
+                                    <strong>তাই নবী নূহ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কাছে দোয়া করেছিলেন:</strong>
                                 </p>
                                 <p className="text-sm md:text-base leading-relaxed italic">
                                     "হে আমার রব! তারা আমাকে অমান্য করেছে, এবং এমন একজনের অনুসরণ করেছে যার সম্পদ এবং সন্তান তাদের কোনও বৃদ্ধি দেয় না কিন্তু কেবল ক্ষতি। তারা একটি শক্তিশালী ষড়যন্ত্র করেছে। তারা বলেছে: 'তোমরা তোমাদের দেবতাদের ছেড়ে যাবে না, এবং তোমরা ওয়াদ্দ, সুওয়া, ইয়াগুথ, ইয়াউক, বা নাসর (মূর্তিগুলির নাম) ছেড়ে যাবে না'। নিশ্চয়ই তারা অনেককে পথভ্রষ্ট করেছে। হে আল্লাহ! অবিশ্বাসীদের কোনও বৃদ্ধি দিও না।"
@@ -418,17 +418,17 @@ export default function NuhStory() {
                         </div>
                         <div className="flex-1 order-1 md:order-2">
                             <p className="mb-4">
-                                শহরের সীমানার বাইরে, সমুদ্র থেকে দূরে, <span className="text-amber-600 dark:text-amber-500 font-semibold">নবী নূহ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) ফেরেশতাদের সমর্থন এবং নির্দেশনা সহ দিন এবং রাত ধরে নৌকা নির্মাণ করতে শুরু করেছিলেন</span>। নৌকার নির্মাণ অবিরাম লোকদের উপহাসের মধ্যে অব্যাহত ছিল।
+                                শহরের সীমানার বাইরে, সমুদ্র থেকে দূরে, <span className="text-amber-600 dark:text-amber-500 font-semibold">নবী নূহ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) ফেরেশতাদের সমর্থন এবং নির্দেশনা সহ দিন এবং রাত ধরে নৌকা নির্মাণ করতে শুরু করেছিলেন</span>। নৌকার নির্মাণ অবিরাম লোকদের উপহাসের মধ্যে অব্যাহত ছিল।
                             </p>
 
                             <Card className="my-4 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed mb-4">
-                                        <strong>তারা নবী নূহকে (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) উপহাস করে বলেছিল:</strong><br />
+                                        <strong>তারা নবী নূহকে (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) উপহাস করে বলেছিল:</strong><br />
                                         <em>"হে নূহ! তোমার কাছে কি নবুওয়তের চেয়ে ছুতার কাজ বেশি আকর্ষণীয়? তুমি সমুদ্র থেকে এত দূরে একটি নৌকা কেন নির্মাণ করছ? তুমি কি এটিকে জলে টেনে নিয়ে যাবে নাকি বাতাস এটিকে তোমার জন্য বহন করবে?"</em>
                                     </p>
                                     <p className="text-sm md:text-base leading-relaxed">
-                                        <strong>নবী নূহ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) উত্তর দিয়েছিলেন:</strong><br />
+                                        <strong>নবী নূহ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) উত্তর দিয়েছিলেন:</strong><br />
                                         <em>"তোমরা জানতে পারবে কে লজ্জা এবং কষ্টে পড়বে।"</em>
                                     </p>
                                 </CardContent>
@@ -437,7 +437,7 @@ export default function NuhStory() {
                     </div>
 
                     <p className="mb-4">
-                        <strong><span className="text-amber-600 dark:text-amber-500">আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) তারপর নূহকে (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) নির্দেশ দিয়েছিলেন</span> যে যখন তাঁর বাড়ির চুলা থেকে জল প্রবাহিত হতে শুরু করবে, বিশ্বাসীদের সংগ্রহ কর এবং নৌকায় উঠ কারণ এটি বন্যার শুরু হওয়ার প্রথম লক্ষণ ছিল যা অবিশ্বাসীদের ধ্বংস করবে</strong>। খুব বেশি দিন না যেতেই, ভয়াবহ দিন ভোর হয়েছিল যখন নবী নূহের বাড়ির চুলা থেকে জল প্রবাহিত হতে শুরু করেছিল। নূহ জানতেন যে নৌকায় উঠার সময় এসেছে। <strong>বিশ্বাসীদের সাথে, নূহও তাঁর সাথে প্রাণী, পাখি এবং পোকামাকড়ের জোড়া নিয়ে গিয়েছিলেন</strong>।
+                        <strong><span className="text-amber-600 dark:text-amber-500">আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) তারপর নূহকে (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) নির্দেশ দিয়েছিলেন</span> যে যখন তাঁর বাড়ির চুলা থেকে জল প্রবাহিত হতে শুরু করবে, বিশ্বাসীদের সংগ্রহ কর এবং নৌকায় উঠ কারণ এটি বন্যার শুরু হওয়ার প্রথম লক্ষণ ছিল যা অবিশ্বাসীদের ধ্বংস করবে</strong>। খুব বেশি দিন না যেতেই, ভয়াবহ দিন ভোর হয়েছিল যখন নবী নূহের বাড়ির চুলা থেকে জল প্রবাহিত হতে শুরু করেছিল। নূহ জানতেন যে নৌকায় উঠার সময় এসেছে। <strong>বিশ্বাসীদের সাথে, নূহও তাঁর সাথে প্রাণী, পাখি এবং পোকামাকড়ের জোড়া নিয়ে গিয়েছিলেন</strong>।
                     </p>
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
@@ -467,7 +467,7 @@ export default function NuhStory() {
                         </p>
 
                         <p className="mb-4">
-                            <strong><span className="text-amber-600 dark:text-amber-500">নবী নূহ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) তাঁর লোকদের উপর যে ভয়াবহ বিপর্যয় নেমে এসেছিল তা দেখেছিলেন।</span></strong> তিনি জানতেন যে অবিশ্বাসীদের আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) ক্রোধ থেকে পালানোর কোনও উপায় নেই। <strong>অবিশ্বাসীদের মধ্যে ছিলেন নবী নূহের স্ত্রী এবং পুত্র, যারা তাঁর নৌকায় উঠতে অস্বীকার করেছিল।</strong>
+                            <strong><span className="text-amber-600 dark:text-amber-500">নবী নূহ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) তাঁর লোকদের উপর যে ভয়াবহ বিপর্যয় নেমে এসেছিল তা দেখেছিলেন।</span></strong> তিনি জানতেন যে অবিশ্বাসীদের আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) ক্রোধ থেকে পালানোর কোনও উপায় নেই। <strong>অবিশ্বাসীদের মধ্যে ছিলেন নবী নূহের স্ত্রী এবং পুত্র, যারা তাঁর নৌকায় উঠতে অস্বীকার করেছিল।</strong>
                         </p>
                     </div>
 
@@ -476,15 +476,15 @@ export default function NuhStory() {
                             <Card className="my-4 bg-gradient-to-br from-emerald-50 to-teal-50 dark:from-emerald-900/20 dark:to-teal-900/20 border-l-4 border-emerald-500">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed mb-4">
-                                        <strong>নূহ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) হতাশ হয়ে তাঁর পুত্রকে ডাকলেন:</strong><br />
+                                        <strong>নূহ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) হতাশ হয়ে তাঁর পুত্রকে ডাকলেন:</strong><br />
                                         <em>"হে আমার পুত্র! আমাদের সাথে উঠ এবং অবিশ্বাসীদের মধ্যে হয়ো না।"</em>
                                     </p>
                                     <p className="text-sm md:text-base leading-relaxed mb-4">
-                                        <strong>নূহের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) অজ্ঞ পুত্র উত্তর দিয়েছিলেন,</strong><br />
+                                        <strong>নূহের (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) অজ্ঞ পুত্র উত্তর দিয়েছিলেন,</strong><br />
                                         <em>"আমি পাহাড়ে যাব; এটি আমাকে জল থেকে বাঁচাবে।"</em>
                                     </p>
                                     <p className="text-sm md:text-base leading-relaxed">
-                                        <strong>নূহ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) উত্তর দিয়েছিলেন:</strong><br />
+                                        <strong>নূহ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) উত্তর দিয়েছিলেন:</strong><br />
                                         <em>"আজ আল্লাহর নির্দেশ থেকে কোনও ত্রাণকর্তা নেই যাকে তিনি রহম করেছেন ছাড়া।"</em>
                                     </p>
                                 </CardContent>
@@ -532,11 +532,11 @@ export default function NuhStory() {
 
                     <div className="text-center">
                         <p className="mb-4">
-                            নির্দেশ অনুযায়ী, <span className="text-amber-600 dark:text-amber-500 font-semibold">নবী নূহ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>), বিশ্বাসীদের সাথে, নৌকা থেকে নেমে এসেছিলেন</span>, উদ্ধারকৃত প্রাণী, পাখি এবং পোকামাকড় সবুজ জমিতে ছেড়ে দিয়েছিলেন।
+                            নির্দেশ অনুযায়ী, <span className="text-amber-600 dark:text-amber-500 font-semibold">নবী নূহ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>), বিশ্বাসীদের সাথে, নৌকা থেকে নেমে এসেছিলেন</span>, উদ্ধারকৃত প্রাণী, পাখি এবং পোকামাকড় সবুজ জমিতে ছেড়ে দিয়েছিলেন।
                         </p>
 
                         <p className="mb-4">
-                            <strong>নবী নূহ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) তাঁর কপাল মাটিতে রেখেছিলেন, তাঁর রবের কাছে সিজদা করেছিলেন, এবং তাঁর রহমত এবং আশীর্বাদের জন্য অত্যন্ত কৃতজ্ঞতা প্রকাশ করেছিলেন। বিশ্বাসীরা আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কাছে কৃতজ্ঞ ছিলেন ভয়াবহ পরীক্ষা থেকে তাদের রক্ষা করার জন্য এবং আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কাছে কৃতজ্ঞতা প্রকাশের কাজ হিসেবে একটি দিন রোজা পালন করেছিলেন।</strong>
+                            <strong>নবী নূহ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) তাঁর কপাল মাটিতে রেখেছিলেন, তাঁর রবের কাছে সিজদা করেছিলেন, এবং তাঁর রহমত এবং আশীর্বাদের জন্য অত্যন্ত কৃতজ্ঞতা প্রকাশ করেছিলেন। বিশ্বাসীরা আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কাছে কৃতজ্ঞ ছিলেন ভয়াবহ পরীক্ষা থেকে তাদের রক্ষা করার জন্য এবং আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কাছে কৃতজ্ঞতা প্রকাশের কাজ হিসেবে একটি দিন রোজা পালন করেছিলেন।</strong>
                         </p>
                     </div>
                 </section>
@@ -549,11 +549,11 @@ export default function NuhStory() {
                 {/* Section: Quran Verses */}
                 <section className="my-8 md:my-12">
                     <h2 className="text-xl md:text-2xl font-bold mb-6 text-gray-900 dark:text-white border-l-4 border-amber-500 pl-4 text-center">
-                        কুরআনের আয়াত যেখানে <span className="text-amber-600 dark:text-amber-500">নবী নূহ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>)</span> উল্লিখিত:
+                        কুরআনের আয়াত যেখানে <span className="text-amber-600 dark:text-amber-500">নবী নূহ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>)</span> উল্লিখিত:
                     </h2>
 
                     <p className="text-center mb-6">
-                        মোট <strong>৪৭টি ভিন্ন উদাহরণ</strong> রয়েছে যেখানে আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কুরআনে সরাসরি নবী নূহ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) উল্লেখ করেছেন। এখানে আমরা আপনার জন্য অন্বেষণের জন্য সমস্ত রেফারেন্স প্রদান করি।
+                        মোট <strong>৪৭টি ভিন্ন উদাহরণ</strong> রয়েছে যেখানে আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কুরআনে সরাসরি নবী নূহ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) উল্লেখ করেছেন। এখানে আমরা আপনার জন্য অন্বেষণের জন্য সমস্ত রেফারেন্স প্রদান করি।
                     </p>
 
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 my-8">

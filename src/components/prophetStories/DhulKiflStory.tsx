@@ -38,7 +38,7 @@ export default function DhulKiflStory() {
                         </div>
                         <div className="flex-1">
                             <p className="mb-4">
-                                যুল-কিফলের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) গল্প কিছুটা রহস্যময়।
+                                যুল-কিফলের (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) গল্প কিছুটা রহস্যময়।
                             </p>
                         </div>
                     </div>
@@ -127,7 +127,7 @@ export default function DhulKiflStory() {
                     </div>
 
                     <p className="mb-4 text-center text-sm italic">
-                        সবচেয়ে শক্তিশালী মতামত হল যে যুল-কিফল আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) একজন নবী, প্রদত্ত আয়াত যেখানে তাকে ইসমাঈল (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) এবং ইদ্রিস (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) এর পাশাপাশি উল্লেখ করা হয়েছে। যৌক্তিক সিদ্ধান্ত হবে যে যেহেতু তার নাম অন্যান্য নবীদের সাথে তালিকাভুক্ত করা হয়েছে, তিনিও অবশ্যই একজন নবী। আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) সর্বোত্তম জানেন।
+                        সবচেয়ে শক্তিশালী মতামত হল যে যুল-কিফল আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) একজন নবী, প্রদত্ত আয়াত যেখানে তাকে ইসমাঈল (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) এবং ইদ্রিস (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) এর পাশাপাশি উল্লেখ করা হয়েছে। যৌক্তিক সিদ্ধান্ত হবে যে যেহেতু তার নাম অন্যান্য নবীদের সাথে তালিকাভুক্ত করা হয়েছে, তিনিও অবশ্যই একজন নবী। আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) সর্বোত্তম জানেন।
                     </p>
                 </section>
 

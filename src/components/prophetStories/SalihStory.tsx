@@ -38,13 +38,13 @@ export default function SalihStory() {
                         </div>
                         <div className="flex-1 order-1 md:order-2">
                             <p className="mb-4">
-                                নবী সালেহ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) ছিলেন মহান নবী নূহের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) বংশধর। <strong>তিনি আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) দ্বারা থামুদ লোকদের পথনির্দেশ করতে সাহায্য করার জন্য নির্বাচিত হয়েছিলেন।</strong> এটি একটি প্রাচীন গোত্র ছিল যারা আল-হিজরে বসতি স্থাপন করেছিল, এখন যা মাদাইন সালেহ (সালেহের শহর) নামে পরিচিত, যা উত্তর-পশ্চিম আরবে অবস্থিত।
+                                নবী সালেহ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) ছিলেন মহান নবী নূহের (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) বংশধর। <strong>তিনি আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) দ্বারা থামুদ লোকদের পথনির্দেশ করতে সাহায্য করার জন্য নির্বাচিত হয়েছিলেন।</strong> এটি একটি প্রাচীন গোত্র ছিল যারা আল-হিজরে বসতি স্থাপন করেছিল, এখন যা মাদাইন সালেহ (সালেহের শহর) নামে পরিচিত, যা উত্তর-পশ্চিম আরবে অবস্থিত।
                             </p>
                         </div>
                     </div>
 
                     <p className="mb-4">
-                        থামুদ লোকেরা পূর্ববর্তী সম্প্রদায় আদের উত্তরসূরি ছিল। যেমন আমরা নবী হুদের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) গল্পে আরও বিস্তারিতভাবে আচ্ছাদিত করেছি, আদের লোকেরা ছিল অত্যন্ত শক্তিশালী এবং ধনী জাতি। তারা শারীরিকভাবে শক্তিশালী এবং লম্বা ছিল। তারা চমৎকার নির্মাতাও ছিল, উচ্চ টাওয়ার নির্মাণ করত। কিন্তু আল্লাহ (<span className="font-arabic">سُبْحَٰনَهُۥ وَتَعَٰلَىٰ</span>) তাদের পতন ঘটিয়েছিলেন তাদের অহংকারের কারণে যখন তারা বারবার নবী হুদের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) সতর্কতা প্রত্যাখ্যান করেছিল।
+                        থামুদ লোকেরা পূর্ববর্তী সম্প্রদায় আদের উত্তরসূরি ছিল। যেমন আমরা নবী হুদের (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) গল্পে আরও বিস্তারিতভাবে আচ্ছাদিত করেছি, আদের লোকেরা ছিল অত্যন্ত শক্তিশালী এবং ধনী জাতি। তারা শারীরিকভাবে শক্তিশালী এবং লম্বা ছিল। তারা চমৎকার নির্মাতাও ছিল, উচ্চ টাওয়ার নির্মাণ করত। কিন্তু আল্লাহ (<span className="font-arabic">سُبْحَٰনَهُۥ وَتَعَٰلَىٰ</span>) তাদের পতন ঘটিয়েছিলেন তাদের অহংকারের কারণে যখন তারা বারবার নবী হুদের (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) সতর্কতা প্রত্যাখ্যান করেছিল।
                     </p>
 
                     {/* Quran Verse 1 */}
@@ -112,7 +112,7 @@ export default function SalihStory() {
                 {/* Section: About Prophet Saleh */}
                 <section className="my-8 md:my-12">
                     <h2 className="text-xl md:text-2xl font-bold mb-6 text-gray-900 dark:text-white border-l-4 border-amber-500 pl-4">
-                        <span className="text-amber-600 dark:text-amber-500">নবী সালেহ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>)</span> সম্পর্কে:
+                        <span className="text-amber-600 dark:text-amber-500">নবী সালেহ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>)</span> সম্পর্কে:
                     </h2>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">

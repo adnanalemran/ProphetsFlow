@@ -55,7 +55,7 @@ export default function HudStory() {
                             </p>
                             <p className="text-sm md:text-base leading-relaxed">
                                 <strong>মাওদুদীর তাফসীর থেকে,</strong><br />
-                                <em>"প্রাচীন আদকে আদ-ইরাম বলা হয় এই কারণে যে তারা সেই শামীয় জাতির শাখার অন্তর্ভুক্ত ছিল যা ইরাম, শেমের পুত্র, নূহের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) পুত্র থেকে এসেছে।"</em>
+                                <em>"প্রাচীন আদকে আদ-ইরাম বলা হয় এই কারণে যে তারা সেই শামীয় জাতির শাখার অন্তর্ভুক্ত ছিল যা ইরাম, শেমের পুত্র, নূহের (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) পুত্র থেকে এসেছে।"</em>
                             </p>
                         </CardContent>
                     </Card>
@@ -99,7 +99,7 @@ export default function HudStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="flex-1">
                             <p className="mb-4">
-                                <strong>নবী হুদ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) তাঁর লোকদের আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) একমাত্র উপাসনা করতে আহ্বান করেছিলেন</strong> এবং উপাসনার অন্যান্য সমস্ত রূপ পরিত্যাগ করতে বলেছিলেন। তিনি তাঁর লোকদের তাদের নিজস্ব হাত দিয়ে তৈরি দেবতাদের উপাসনা করার যুক্তিসঙ্গততা নিয়ে প্রশ্ন করতে অনুরোধ করেছিলেন। নবী হুদ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) তাদের মনে করিয়ে দিয়েছিলেন যে আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰলَىٰ</span>) যিনি তাদের জীবন এবং মৃত্যু দিয়েছিলেন, এবং আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) একাই যিনি তাদের দক্ষতা দিয়ে আশীর্বাদ করেছিলেন, এবং তাই একমাত্র যিনি তাদের অবিভক্ত এবং আন্তরিক উপাসনার যোগ্য ছিলেন।
+                                <strong>নবী হুদ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) তাঁর লোকদের আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) একমাত্র উপাসনা করতে আহ্বান করেছিলেন</strong> এবং উপাসনার অন্যান্য সমস্ত রূপ পরিত্যাগ করতে বলেছিলেন। তিনি তাঁর লোকদের তাদের নিজস্ব হাত দিয়ে তৈরি দেবতাদের উপাসনা করার যুক্তিসঙ্গততা নিয়ে প্রশ্ন করতে অনুরোধ করেছিলেন। নবী হুদ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) তাদের মনে করিয়ে দিয়েছিলেন যে আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰলَىٰ</span>) যিনি তাদের জীবন এবং মৃত্যু দিয়েছিলেন, এবং আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) একাই যিনি তাদের দক্ষতা দিয়ে আশীর্বাদ করেছিলেন, এবং তাই একমাত্র যিনি তাদের অবিভক্ত এবং আন্তরিক উপাসনার যোগ্য ছিলেন।
                             </p>
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
@@ -126,7 +126,7 @@ export default function HudStory() {
                             </p>
 
                             <p className="text-sm md:text-base leading-relaxed">
-                                <strong>নবী হুদ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) উত্তর দিয়েছিলেন,</strong><br />
+                                <strong>নবী হুদ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) উত্তর দিয়েছিলেন,</strong><br />
                                 <em>"হে আমার লোকেরা, আমার মধ্যে কোনও বোকামি নেই, কিন্তু আমি বিশ্বজগতের রবের কাছ থেকে একজন রাসূল। আমি তোমাদের কাছে আমার রবের বার্তা পৌঁছে দিই, এবং আমি তোমাদের কাছে একজন বিশ্বস্ত পরামর্শদাতা। তাহলে কি তোমরা আশ্চর্য কর যে তোমাদের রবের কাছ থেকে তোমাদের মধ্যে একজন মানুষ দ্বারা একটি স্মরণিকা এসেছে, যাতে তিনি তোমাদের সতর্ক করতে পারেন? এবং মনে কর যখন তিনি তোমাদের নূহের লোকদের পরে উত্তরসূরি করেছিলেন এবং তোমাদের ব্যাপকভাবে উচ্চতায় বৃদ্ধি করেছিলেন। তাই আল্লাহর অনুগ্রহ মনে কর যাতে তোমরা সফল হতে পার।'"</em><br />
                                 <span className="text-xs text-gray-600 dark:text-gray-400">— (সূরা আল-আ'রাফ, আয়াত ৬৭-৬৯)</span>
                             </p>
@@ -142,7 +142,7 @@ export default function HudStory() {
                 {/* Section: Day of Judgement */}
                 <section className="my-8 md:my-12">
                     <h2 className="text-xl md:text-2xl font-bold mb-6 text-gray-900 dark:text-white border-l-4 border-amber-500 pl-4">
-                        <span className="text-amber-600 dark:text-amber-500">নবী হুদ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>)</span> দ্বারা ব্যাখ্যা করা বিচারের দিন:
+                        <span className="text-amber-600 dark:text-amber-500">নবী হুদ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>)</span> দ্বারা ব্যাখ্যা করা বিচারের দিন:
                     </h2>
 
                     <p className="mb-4">
@@ -254,7 +254,7 @@ export default function HudStory() {
                             </p>
 
                             <p className="text-sm md:text-base leading-relaxed">
-                                <strong className="text-amber-600 dark:text-amber-500">নবী হুদ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) উত্তর দিয়েছিলেন:</strong><br />
+                                <strong className="text-amber-600 dark:text-amber-500">নবী হুদ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) উত্তর দিয়েছিলেন:</strong><br />
                                 <em>"জ্ঞান [এর সময়ের] কেবল আল্লাহর কাছে রয়েছে, এবং আমি তোমাদের কাছে যা দিয়ে পাঠানো হয়েছিল তা পৌঁছে দিই; কিন্তু আমি তোমাদের [একটি] অজ্ঞ আচরণকারী লোক দেখছি।"</em><br />
                                 <span className="text-xs text-gray-600 dark:text-gray-400">— (সূরা আল-আহকাফ, আয়াত ২৩)</span>
                             </p>

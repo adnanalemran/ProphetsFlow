@@ -25,7 +25,7 @@ export default function AyyubStory() {
                 {/* Introduction */}
                 <section className="my-8 md:my-12">
                     <p className="mb-4">
-                        কুরআন নবী আইয়ুবের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) গল্প উল্লেখ করে, যা বাইবেলের জবের বিবরণের আরবি নাম।
+                        কুরআন নবী আইয়ুবের (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) গল্প উল্লেখ করে, যা বাইবেলের জবের বিবরণের আরবি নাম।
                     </p>
                 </section>
 

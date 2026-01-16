@@ -37,13 +37,13 @@ export default function ShuaybStory() {
                         </div>
                         <div className="flex-1">
                             <p className="mb-4">
-                                শুআইব (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) ইসলামে একজন নবী এবং ইহুদি-খ্রিস্টান ঐতিহ্য অনুযায়ী জেথ্রো বলে বিশ্বাস করা হয়। <span className="text-amber-600 dark:text-amber-500">যাইহোক, এই বিশ্বাস সর্বসম্মতভাবে সম্মত নয় এবং এটি বিতর্কিত।</span>
+                                শুআইব (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) ইসলামে একজন নবী এবং ইহুদি-খ্রিস্টান ঐতিহ্য অনুযায়ী জেথ্রো বলে বিশ্বাস করা হয়। <span className="text-amber-600 dark:text-amber-500">যাইহোক, এই বিশ্বাস সর্বসম্মতভাবে সম্মত নয় এবং এটি বিতর্কিত।</span>
                             </p>
                         </div>
                     </div>
 
                     <p className="mb-4">
-                        নবী শুআইবের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) গল্প মাদইয়ান নামক একটি অঞ্চলে ঘটেছিল, যা আজ বৃহত্তর সিরিয়ার মধ্যে রয়েছে।
+                        নবী শুআইবের (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) গল্প মাদইয়ান নামক একটি অঞ্চলে ঘটেছিল, যা আজ বৃহত্তর সিরিয়ার মধ্যে রয়েছে।
                     </p>
 
                     <p className="mb-4">
@@ -87,7 +87,7 @@ export default function ShuaybStory() {
                             </p>
 
                             <p className="mb-4">
-                                বিশেষ করে তাদের অনৈতিক ব্যবসা দীর্ঘকাল ধরে তাদের উপকার করেছে এবং তা উল্লেখযোগ্য ত্যাগের প্রয়োজন হবে। <strong>কিন্তু, নবী শুআইব (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) ছিলেন আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) এই মিশন সম্পাদনে দৃঢ়প্রতিজ্ঞ এবং <span className="text-amber-600 dark:text-amber-500">অন্যদের ইসলামের মধ্যে নিয়ে আসা।</span></strong>
+                                বিশেষ করে তাদের অনৈতিক ব্যবসা দীর্ঘকাল ধরে তাদের উপকার করেছে এবং তা উল্লেখযোগ্য ত্যাগের প্রয়োজন হবে। <strong>কিন্তু, নবী শুআইব (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) ছিলেন আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) এই মিশন সম্পাদনে দৃঢ়প্রতিজ্ঞ এবং <span className="text-amber-600 dark:text-amber-500">অন্যদের ইসলামের মধ্যে নিয়ে আসা।</span></strong>
                             </p>
                         </div>
                     </div>
@@ -203,7 +203,7 @@ export default function ShuaybStory() {
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
-                                <strong>নবী শুআইব (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) উত্তর দিয়েছিলেন:</strong>
+                                <strong>নবী শুআইব (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) উত্তর দিয়েছিলেন:</strong>
                             </p>
                             <p className="text-sm md:text-base leading-relaxed italic">
                                 <em>"আমার লোকেরা, তোমরা কি দেখতে পারো না? যদি আমি আমার রবের কাছ থেকে স্পষ্ট প্রমাণের উপর কাজ করি? তিনি আমাকে ভালো সরবরাহ দিয়েছেন: আমি যা তোমাদের নিষেধ করছি তা করতে চাই না; আমি কেবল যতদূর সম্ভব জিনিস ঠিক করতে চাই। আল্লাহর সাহায্য ছাড়া আমি সফল হতে পারি না: আমি তার উপর বিশ্বাস করি এবং সর্বদা তার দিকে ফিরে যাই।"</em>
@@ -372,7 +372,7 @@ export default function ShuaybStory() {
                                 <em>"তারপর একটি চাঞ্চল্যকর বিপর্যয় তাদের আক্রমণ করেছিল, এবং তারা তাদের বাসস্থানে সিজদায় রয়ে গিয়েছিল। যারা শুআইবকে মিথ্যাবাদী বলে অভিযুক্ত করেছিল তারা যেন সেখানে কখনও বাস করেনি; তারাই সম্পূর্ণ পরাজিত হয়েছিল।"</em>
                             </p>
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
-                                <strong>তার লোকদের ধ্বংস প্রত্যক্ষ করার পর, নবী শুআইব (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) তাদের থেকে মুখ ফিরিয়ে নিয়েছিলেন এবং বলেছিলেন:</strong>
+                                <strong>তার লোকদের ধ্বংস প্রত্যক্ষ করার পর, নবী শুআইব (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) তাদের থেকে মুখ ফিরিয়ে নিয়েছিলেন এবং বলেছিলেন:</strong>
                             </p>
                             <p className="text-sm md:text-base leading-relaxed italic">
                                 <em>"'হে আমার লোকেরা! নিশ্চয়ই আমি তোমাদের কাছে আমার রবের বার্তা পৌঁছে দিয়েছি, এবং তোমাদের আন্তরিক পরামর্শ দিয়েছি। তাহলে, আমি কীভাবে এমন লোকদের জন্য শোক করতে পারি যারা সত্য গ্রহণ করতে অস্বীকার করে?'"</em><br />

@@ -34,7 +34,7 @@ export default function DawudStory() {
                         </div>
                         <div className="flex-1">
                             <p className="mb-4">
-                                নবী দাউদের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) গল্প তিনটি গুরুত্বপূর্ণ ব্যক্তির চারপাশে ঘোরে:<br /><br />
+                                নবী দাউদের (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) গল্প তিনটি গুরুত্বপূর্ণ ব্যক্তির চারপাশে ঘোরে:<br /><br />
                                 <strong>১. নবী দাউদ, যাকে ইহুদি-খ্রিস্টান ঐতিহ্যে ডেভিড হিসাবে পরিচিত।<br />
                                 ২. রাজা তালুত, বা সৌল, যিনি ইসরায়েলীদের নেতা ছিলেন।<br />
                                 ৩. তারপর ছিল জালুত, যাকে গোলিয়াথ হিসাবে পরিচিত।</strong>
@@ -603,7 +603,7 @@ export default function DawudStory() {
                             <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed italic mb-4">
-                                        যখন দাউদ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) দুজন লোককে দেখেছিলেন, তিনি অবিলম্বে ভীত হয়ে পড়েছিলেন।<br />
+                                        যখন দাউদ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) দুজন লোককে দেখেছিলেন, তিনি অবিলম্বে ভীত হয়ে পড়েছিলেন।<br />
                                         <em>"ভয় করবেন না,"</em> লোকেরা আশ্বস্ত করেছিল,<br /><br />
                                         <em>"আমরা কেবল একটি বিবাদে দুজন: আমাদের একজন অন্যজনকে ক্ষতি করেছে। তাই, আমাদের মধ্যে সত্য দিয়ে বিচার করুন — এটির বাইরে যাবেন না — এবং আমাদের সঠিক পথে পথনির্দেশ করুন।"</em>
                                     </p>
@@ -638,7 +638,7 @@ export default function DawudStory() {
                     </div>
 
                     <p className="mb-4">
-                        <strong><span className="text-amber-600 dark:text-amber-500">দুজন লোক তখন অদৃশ্য হয়ে গিয়েছিল</span>, এবং দাউদ (<span className="font-arabic">عَلَيْهِ ٱلسَّلَামُ</span>) এটিকে আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কাছ থেকে একটি পরীক্ষা হিসাবে চিনেছিলেন। এই উপলব্ধিতে অভিভূত হয়ে, তিনি আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) সামনে তওবার জন্য সিজদা করেছিলেন।</strong>
+                        <strong><span className="text-amber-600 dark:text-amber-500">দুজন লোক তখন অদৃশ্য হয়ে গিয়েছিল</span>, এবং দাউদ (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) এটিকে আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কাছ থেকে একটি পরীক্ষা হিসাবে চিনেছিলেন। এই উপলব্ধিতে অভিভূত হয়ে, তিনি আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) সামনে তওবার জন্য সিজদা করেছিলেন।</strong>
                     </p>
 
                     <p className="mb-4">
