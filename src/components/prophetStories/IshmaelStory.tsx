@@ -322,7 +322,7 @@ export default function IshmaelStory() {
                             </p>
                             <p className="text-sm md:text-base leading-relaxed italic">
                                 <strong>ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) উত্তর দিয়েছিলেন:</strong><br />
-                                <em>"হে আমার পিতা! <strong>যা আপনাকে আদেশ করা হয়েছে তা করুন, ইনশাআল্লাহ (যদি আল্লাহ চান), আপনি আমাকে <span className="text-amber-600 dark:text-amber-500">আস-সাবিরিন</span> (ধৈর্যশীলদের, ইত্যাদি) মধ্যে পাবেন।"</em><br />
+                                <em>"হে আমার পিতা! <strong>যা আপনাকে আদেশ করা হয়েছে তা করুন, ইনশাআল্লাহ (যদি আল্লাহ চান), আপনি আমাকে <span className="text-amber-600 dark:text-amber-500">আস-সাবিরিন</span> (ধৈর্যশীলদের, ইত্যাদি) মধ্যে পাবেন।</strong>"</em><br />
                                 <span className="text-xs text-gray-600 dark:text-gray-400">— (সূরা আস-সাফফাত, আয়াত ১০২)</span>
                             </p>
                         </CardContent>
