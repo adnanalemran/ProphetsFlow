@@ -9,7 +9,7 @@ export default function DhulKiflStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/dhul-kifl/story-of-prophet-dhul-kifl-as.png" 
+                    src="/images/prophet-stories/dhul-kifl/story-of-prophet-dhul-kifl-as.png" 
                     alt="যুল-কিফল (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -31,7 +31,7 @@ export default function DhulKiflStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/dhul-kifl/Dhul-Kifl%20Calligraphy.png" 
+                                src="/images/prophet-stories/dhul-kifl/Dhul-Kifl Calligraphy.png" 
                                 alt="নবী যুল-কিফলের ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -120,7 +120,7 @@ export default function DhulKiflStory() {
 
                     <div className="flex justify-center my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/dhul-kifl/Prophet-Names.png" 
+                            src="/images/prophet-stories/dhul-kifl/Prophet-Names.png" 
                             alt="নবী নাম" 
                             className="w-full max-w-md h-auto rounded-lg shadow-lg"
                         />
@@ -154,7 +154,7 @@ export default function DhulKiflStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/dhul-kifl/Prophet%20Ilyasa.png" 
+                                src="/images/prophet-stories/dhul-kifl/Prophet Ilyasa.png" 
                                 alt="নবী ইলিয়াসা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -172,7 +172,7 @@ export default function DhulKiflStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/dhul-kifl/Unknow%20person%20stood%20up.png" 
+                                src="/images/prophet-stories/dhul-kifl/Unknow person stood up.png" 
                                 alt="অজানা ব্যক্তি উঠে দাঁড়িয়েছে" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -191,7 +191,7 @@ export default function DhulKiflStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/dhul-kifl/Satan.png" 
+                                src="/images/prophet-stories/dhul-kifl/Satan.png" 
                                 alt="শয়তান" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -227,7 +227,7 @@ export default function DhulKiflStory() {
                     <div className="flex flex-col md:flex-row-reverse gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/dhul-kifl/3%20Routine.png" 
+                                src="/images/prophet-stories/dhul-kifl/3 Routine.png" 
                                 alt="৩টি রুটিন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -245,7 +245,7 @@ export default function DhulKiflStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/dhul-kifl/Iblis%20disguise%20as%20old%20man.png" 
+                                src="/images/prophet-stories/dhul-kifl/Iblis disguise as old man.png" 
                                 alt="ইবলিস বৃদ্ধ ব্যক্তি হিসাবে ছদ্মবেশ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -289,7 +289,7 @@ export default function DhulKiflStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/dhul-kifl/Iblis%20Visit%20Home.png" 
+                                src="/images/prophet-stories/dhul-kifl/Iblis Visit Home.png" 
                                 alt="ইবলিস বাড়িতে পরিদর্শন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -306,7 +306,7 @@ export default function DhulKiflStory() {
 
                     <div className="flex justify-center my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/dhul-kifl/Iblis.png" 
+                            src="/images/prophet-stories/dhul-kifl/Iblis.png" 
                             alt="ইবলিস" 
                             className="w-full max-w-md h-auto rounded-lg shadow-lg"
                         />

@@ -8,7 +8,7 @@ export default function IsaStory() {
         <div className="mb-12 mt-6 md:mt-10">
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/the%20story%20of%20prophet%20isa%20as.png" 
+                    src="/images/prophet-stories/isa/the story of prophet isa as.png" 
                     alt="নবী ঈসা (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -27,7 +27,7 @@ export default function IsaStory() {
 
                 <div className="my-6">
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/Bird.png" 
+                        src="/images/prophet-stories/isa/Bird.png" 
                         alt="পাখি" 
                         className="w-full h-auto rounded-lg shadow-lg"
                     />
@@ -70,7 +70,7 @@ export default function IsaStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/Baby%20born_.png" 
+                                src="/images/prophet-stories/isa/Baby born_.png" 
                                 alt="শিশু জন্মগ্রহণ করেছে" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -112,7 +112,7 @@ export default function IsaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/Maryam%20A.S.png" 
+                                src="/images/prophet-stories/isa/Maryam A.S.png" 
                                 alt="মারিয়াম (আঃ)" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -126,7 +126,7 @@ export default function IsaStory() {
 
                     <div className="my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/Prophet%20Zakariyah%20Quill%20remained.png" 
+                            src="/images/prophet-stories/isa/Prophet Zakariyah Quill remained.png" 
                             alt="নবী যাকারিয়ার কলম স্থির ছিল" 
                             className="w-full h-auto rounded-lg shadow-lg"
                         />
@@ -160,7 +160,7 @@ export default function IsaStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/imam%20masjid%20e%20Aqsa.png" 
+                                src="/images/prophet-stories/isa/imam masjid e Aqsa.png" 
                                 alt="ইমাম মসজিদ আল-আকসা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -184,7 +184,7 @@ export default function IsaStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/Fresh%20Fruits.png" 
+                                src="/images/prophet-stories/isa/Fresh Fruits.png" 
                                 alt="তাজা ফল" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -216,7 +216,7 @@ export default function IsaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/Maryam%20A.S%20praying%20in%20chamber.png" 
+                                src="/images/prophet-stories/isa/Maryam A.S praying in chamber.png" 
                                 alt="মারিয়াম (আঃ) কক্ষে প্রার্থনা করছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -307,7 +307,7 @@ export default function IsaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/Maryam%20AS%20under%20tree.png" 
+                                src="/images/prophet-stories/isa/Maryam AS under tree.png" 
                                 alt="মারিয়াম (আঃ) গাছের নিচে" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -350,7 +350,7 @@ export default function IsaStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/Dates.png" 
+                                src="/images/prophet-stories/isa/Dates.png" 
                                 alt="খেজুর" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -390,7 +390,7 @@ export default function IsaStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/Town%20people.png" 
+                                src="/images/prophet-stories/isa/Town people.png" 
                                 alt="শহরের লোকেরা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -409,7 +409,7 @@ export default function IsaStory() {
 
                     <div className="my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/child%20hood%20of%20prophet%20Isa%20AS.png" 
+                            src="/images/prophet-stories/isa/child hood of prophet Isa AS.png" 
                             alt="নবী ঈসার (আঃ) শৈশব" 
                             className="w-full h-auto rounded-lg shadow-lg"
                         />
@@ -458,7 +458,7 @@ export default function IsaStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/Message%20of%20Isa%20AS.png" 
+                                src="/images/prophet-stories/isa/Message of Isa AS.png" 
                                 alt="ঈসার (আঃ) বার্তা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -478,7 +478,7 @@ export default function IsaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/priests%20to%20Isa%20AS.png" 
+                                src="/images/prophet-stories/isa/priests to Isa AS.png" 
                                 alt="পুরোহিতরা ঈসার (আঃ) কাছে" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -514,7 +514,7 @@ export default function IsaStory() {
 
                     <div className="my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/Miracle.png" 
+                            src="/images/prophet-stories/isa/Miracle.png" 
                             alt="অলৌকিক ঘটনা" 
                             className="w-full h-auto rounded-lg shadow-lg"
                         />
@@ -563,7 +563,7 @@ export default function IsaStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/Heaven%20Food.png" 
+                                src="/images/prophet-stories/isa/Heaven Food.png" 
                                 alt="স্বর্গীয় খাবার" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -600,7 +600,7 @@ export default function IsaStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/Person%20spoke%20%20from%20the%20meeting.png" 
+                                src="/images/prophet-stories/isa/Person spoke  from the meeting.png" 
                                 alt="সভা থেকে কথা বলা ব্যক্তি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -647,7 +647,7 @@ export default function IsaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/isa/Quran%20perspective.png" 
+                                src="/images/prophet-stories/isa/Quran perspective.png" 
                                 alt="কুরআনিক দৃষ্টিকোণ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />

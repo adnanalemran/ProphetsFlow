@@ -9,7 +9,7 @@ export default function IlyasStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ilyas/the-story-of-prophet-ilyas.png" 
+                    src="/images/prophet-stories/ilyas/the-story-of-prophet-ilyas.png" 
                     alt="ইলিয়াস (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -51,7 +51,7 @@ export default function IlyasStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ilyas/Asset-2%20(Ilyas%20A.S%20mentioned%20in%20Quran).png" 
+                                src="/images/prophet-stories/ilyas/Asset-2 (Ilyas A.S mentioned in Quran).png" 
                                 alt="কুরআনে নবী ইলিয়াস উল্লেখিত" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -82,7 +82,7 @@ export default function IlyasStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ilyas/Asset-4%20(Anbiya%20mentioned%20in%20Quran).png" 
+                                src="/images/prophet-stories/ilyas/Asset-4 (Anbiya mentioned in Quran).png" 
                                 alt="কুরআনে নবীদের উল্লেখ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -148,7 +148,7 @@ export default function IlyasStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ilyas/prophet-ilyas-descendant-of-harun.png" 
+                                src="/images/prophet-stories/ilyas/prophet-ilyas-descendant-of-harun.png" 
                                 alt="নবী ইলিয়াস হারুনের বংশধর" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -158,7 +158,7 @@ export default function IlyasStory() {
                     <div className="flex flex-col md:flex-row-reverse gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ilyas/Asset-6%20(gold%20baal%20idol%20worship).png" 
+                                src="/images/prophet-stories/ilyas/Asset-6 (gold baal idol worship).png" 
                                 alt="পৌত্তলিক দেবতা বাআল" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />

@@ -13,7 +13,7 @@ export default function LutStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/lut/the-story-of-prophet-lut-as.png" 
+                    src="/images/prophet-stories/lut/the-story-of-prophet-lut-as.png" 
                     alt="লুত (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -31,7 +31,7 @@ export default function LutStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/lut/Lut%20Calligraphy.png" 
+                                src="/images/prophet-stories/lut/Lut Calligraphy.png" 
                                 alt="নবী লুতের ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -55,7 +55,7 @@ export default function LutStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/lut/Homo%20&%20murdered.png" 
+                                src="/images/prophet-stories/lut/Homo & murdered.png" 
                                 alt="সমকামিতা এবং হত্যা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -81,7 +81,7 @@ export default function LutStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/lut/Sodom%20market.png" 
+                                src="/images/prophet-stories/lut/Sodom market.png" 
                                 alt="সদোম বাজার" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -123,7 +123,7 @@ export default function LutStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/lut/No%20Homosexuality.png" 
+                                src="/images/prophet-stories/lut/No Homosexuality.png" 
                                 alt="সমকামিতা নয়" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -195,7 +195,7 @@ export default function LutStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/lut/3%20Angels%20Visit%20Ibrahim.png" 
+                        src="/images/prophet-stories/lut/3 Angels Visit Ibrahim.png" 
                         alt="৩ জন ফেরেশতা ইব্রাহিমকে দেখা করছেন" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -231,7 +231,7 @@ export default function LutStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/lut/3%20Handsome%20men.png" 
+                                src="/images/prophet-stories/lut/3 Handsome men.png" 
                                 alt="৩ জন সুদর্শন পুরুষ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -271,7 +271,7 @@ export default function LutStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/lut/Crowd%20People.png" 
+                                src="/images/prophet-stories/lut/Crowd People.png" 
                                 alt="ভিড়" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -310,7 +310,7 @@ export default function LutStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/lut/Blind%20men.png" 
+                                src="/images/prophet-stories/lut/Blind men.png" 
                                 alt="অন্ধ পুরুষ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -352,7 +352,7 @@ export default function LutStory() {
                     </Card>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/lut/Sodom%20destroyed.png" 
+                        src="/images/prophet-stories/lut/Sodom destroyed.png" 
                         alt="সদোম ধ্বংস" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />

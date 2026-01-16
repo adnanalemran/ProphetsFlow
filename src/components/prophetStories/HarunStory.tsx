@@ -9,7 +9,7 @@ export default function HarunStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/story-of-prophet-harun-as.png" 
+                    src="/images/prophet-stories/harun/story-of-prophet-harun-as.png" 
                     alt="হারুন (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -27,12 +27,12 @@ export default function HarunStory() {
                     <div className="flex flex-col md:flex-row-reverse gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/Prophet%20Harun%20Calligraphy.png" 
+                                src="/images/prophet-stories/harun/Prophet Harun Calligraphy.png" 
                                 alt="নবী হারুনের ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover mb-4"
                             />
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/Prophet%20Musa%20Calligraphy.png" 
+                                src="/images/prophet-stories/harun/Prophet Musa Calligraphy.png" 
                                 alt="নবী মুসার ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -71,7 +71,7 @@ export default function HarunStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/Boy%20Born.png" 
+                                src="/images/prophet-stories/harun/Boy Born.png" 
                                 alt="ছেলে জন্মগ্রহণ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -83,7 +83,7 @@ export default function HarunStory() {
                             তাই, মিশরীয় সেনাবাহিনীকে নির্দেশ দেওয়া হয়েছিল ইসরায়েলীদের কাছে জন্মগ্রহণকারী সমস্ত পুরুষ শিশুকে হত্যা করার জন্য।
                         </p>
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/the-pharaoh-vision-prophet-harun.png" 
+                            src="/images/prophet-stories/harun/the-pharaoh-vision-prophet-harun.png" 
                             alt="ফেরাউনের দর্শন" 
                             className="w-full h-auto rounded-lg shadow-lg"
                         />
@@ -99,7 +99,7 @@ export default function HarunStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/Gods%20Pharaoh.png" 
+                                src="/images/prophet-stories/harun/Gods Pharaoh.png" 
                                 alt="দেবতা ফেরাউন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -138,7 +138,7 @@ export default function HarunStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/Harun%20&%20Musa%20born.png" 
+                        src="/images/prophet-stories/harun/Harun & Musa born.png" 
                         alt="হারুন ও মুসা জন্মগ্রহণ" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -225,7 +225,7 @@ export default function HarunStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/Harun%20&%20Musa%20Talked%20with%20Pharaoh.png" 
+                                src="/images/prophet-stories/harun/Harun & Musa Talked with Pharaoh.png" 
                                 alt="হারুন ও মুসা ফেরাউনের সাথে কথা বলছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -239,7 +239,7 @@ export default function HarunStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/Musa%20&%20Magician.png" 
+                                src="/images/prophet-stories/harun/Musa & Magician.png" 
                                 alt="মুসা ও জাদুকর" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -260,7 +260,7 @@ export default function HarunStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/Musa%20Parting%20the%20sea.png" 
+                        src="/images/prophet-stories/harun/Musa Parting the sea.png" 
                         alt="মুসা সমুদ্র বিভক্ত করছেন" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -277,7 +277,7 @@ export default function HarunStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/Pharaoh%20drowned.png" 
+                                src="/images/prophet-stories/harun/Pharaoh drowned.png" 
                                 alt="ফেরাউন ডুবে যাচ্ছে" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -311,7 +311,7 @@ export default function HarunStory() {
                     <div className="flex flex-col md:flex-row-reverse gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/Golden%20Calf.png" 
+                                src="/images/prophet-stories/harun/Golden Calf.png" 
                                 alt="সোনার বাছুর" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -345,7 +345,7 @@ export default function HarunStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/Harun%20and%20the%20angry%20people.png" 
+                                src="/images/prophet-stories/harun/Harun and the angry people.png" 
                                 alt="হারুন এবং রাগান্বিত লোকেরা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -395,7 +395,7 @@ export default function HarunStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/Musa%20talked%20with%20Harun.png" 
+                                src="/images/prophet-stories/harun/Musa talked with Harun.png" 
                                 alt="মুসা হারুনের সাথে কথা বলছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -449,7 +449,7 @@ export default function HarunStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/harun/70%20Elders.png" 
+                        src="/images/prophet-stories/harun/70 Elders.png" 
                         alt="৭০ জন প্রবীণ" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />

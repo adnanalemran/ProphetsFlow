@@ -9,7 +9,7 @@ export default function AlYasaStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/al-yasa/the-story-of-prophet-al-yasa.png" 
+                    src="/images/prophet-stories/al-yasa/the-story-of-prophet-al-yasa.png" 
                     alt="আল-ইয়াসা (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -27,7 +27,7 @@ export default function AlYasaStory() {
                     <div className="flex flex-col md:flex-row-reverse gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/al-yasa/Al-Yasa%20Calligraphy.png" 
+                                src="/images/prophet-stories/al-yasa/Al-Yasa Calligraphy.png" 
                                 alt="আল-ইয়াসার ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -103,7 +103,7 @@ export default function AlYasaStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/al-yasa/Sword.png" 
+                                src="/images/prophet-stories/al-yasa/Sword.png" 
                                 alt="তরোয়াল" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -111,7 +111,7 @@ export default function AlYasaStory() {
                     </div>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/al-yasa/Prophet%20Ilyas%20&%20Al-Yasa.png" 
+                        src="/images/prophet-stories/al-yasa/Prophet Ilyas & Al-Yasa.png" 
                         alt="নবী ইলিয়াস ও আল-ইয়াসা" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -135,7 +135,7 @@ export default function AlYasaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/al-yasa/prophet-al-yasa-people.png" 
+                                src="/images/prophet-stories/al-yasa/prophet-al-yasa-people.png" 
                                 alt="নবী আল-ইয়াসা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />

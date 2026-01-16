@@ -9,7 +9,7 @@ export default function IshaqStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ishaq/the-story-of-prophet-ishaq-as.png" 
+                    src="/images/prophet-stories/ishaq/the-story-of-prophet-ishaq-as.png" 
                     alt="ইসহাক (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -31,12 +31,12 @@ export default function IshaqStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ishaq/prophet-ibrahim-calligraphy.png" 
+                                src="/images/prophet-stories/ishaq/prophet-ibrahim-calligraphy.png" 
                                 alt="নবী ইব্রাহিমের ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover mb-4"
                             />
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ishaq/three-guests-angel.png" 
+                                src="/images/prophet-stories/ishaq/three-guests-angel.png" 
                                 alt="তিনজন অতিথি ফেরেশতা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -52,7 +52,7 @@ export default function IshaqStory() {
                     </div>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ishaq/cooked-food-bg.png" 
+                        src="/images/prophet-stories/ishaq/cooked-food-bg.png" 
                         alt="রান্না করা খাবার" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -81,7 +81,7 @@ export default function IshaqStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ishaq/quran-illustration.png" 
+                                src="/images/prophet-stories/ishaq/quran-illustration.png" 
                                 alt="কুরআন চিত্র" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -100,7 +100,7 @@ export default function IshaqStory() {
                     </div>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ishaq/mesopotamian-landscape.png" 
+                        src="/images/prophet-stories/ishaq/mesopotamian-landscape.png" 
                         alt="মেসোপটেমিয়ান ভূদৃশ্য" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -112,12 +112,12 @@ export default function IshaqStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ishaq/prophet-ishaq-calligraphy.png" 
+                                src="/images/prophet-stories/ishaq/prophet-ishaq-calligraphy.png" 
                                 alt="নবী ইসহাকের ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover mb-4"
                             />
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ishaq/prophet-yaqub-calligraphy.png" 
+                                src="/images/prophet-stories/ishaq/prophet-yaqub-calligraphy.png" 
                                 alt="নবী ইয়াকুবের ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -150,7 +150,7 @@ export default function IshaqStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ishaq/baby-born.png" 
+                                src="/images/prophet-stories/ishaq/baby-born.png" 
                                 alt="শিশু জন্মগ্রহণ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -160,7 +160,7 @@ export default function IshaqStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ishaq/three-men-standing.png" 
+                                src="/images/prophet-stories/ishaq/three-men-standing.png" 
                                 alt="তিনজন পুরুষ দাঁড়িয়ে" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />

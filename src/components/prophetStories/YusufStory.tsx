@@ -9,7 +9,7 @@ export default function YusufStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yusuf/prophet-yusuf-as-header.png" 
+                    src="/images/prophet-stories/yusuf/prophet-yusuf-as-header.png" 
                     alt="ইউসুফ (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -27,7 +27,7 @@ export default function YusufStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yusuf/Calligraphy.png" 
+                                src="/images/prophet-stories/yusuf/Calligraphy.png" 
                                 alt="নবী ইউসুফের ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -74,7 +74,7 @@ export default function YusufStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yusuf/Well.png" 
+                                src="/images/prophet-stories/yusuf/Well.png" 
                                 alt="কূপ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -98,7 +98,7 @@ export default function YusufStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yusuf/Falling.png" 
+                                src="/images/prophet-stories/yusuf/Falling.png" 
                                 alt="পতন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -146,7 +146,7 @@ export default function YusufStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yusuf/Blood%20clothes.png" 
+                                src="/images/prophet-stories/yusuf/Blood clothes.png" 
                                 alt="রক্তাক্ত কাপড়" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -164,12 +164,12 @@ export default function YusufStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yusuf/Caravan.png" 
+                                src="/images/prophet-stories/yusuf/Caravan.png" 
                                 alt="কাফেলা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover mb-4"
                             />
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yusuf/hand%20clinging%20to%20the%20rope.png" 
+                                src="/images/prophet-stories/yusuf/hand clinging to the rope.png" 
                                 alt="রজ্জুতে হাত আটকে আছে" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -254,7 +254,7 @@ export default function YusufStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yusuf/Zulaika%20&%20Yusuf.png" 
+                                src="/images/prophet-stories/yusuf/Zulaika & Yusuf.png" 
                                 alt="জুলাইখা ও ইউসুফ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -272,7 +272,7 @@ export default function YusufStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yusuf/cutting%20fruits.png" 
+                                src="/images/prophet-stories/yusuf/cutting fruits.png" 
                                 alt="ফল কাটা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -345,7 +345,7 @@ export default function YusufStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yusuf/Yusuf%20talk.png" 
+                                src="/images/prophet-stories/yusuf/Yusuf talk.png" 
                                 alt="ইউসুফ কথা বলছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -365,7 +365,7 @@ export default function YusufStory() {
                     </h2>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yusuf/King%20dream.png" 
+                        src="/images/prophet-stories/yusuf/King dream.png" 
                         alt="রাজার স্বপ্ন" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -438,7 +438,7 @@ export default function YusufStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yusuf/Yusuf%20talk.png" 
+                                src="/images/prophet-stories/yusuf/Yusuf talk.png" 
                                 alt="ইউসুফ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -537,7 +537,7 @@ export default function YusufStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yusuf/King's-golden-bowl.png" 
+                        src="/images/prophet-stories/yusuf/King's-golden-bowl.png" 
                         alt="রাজার সোনার বাটি" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -656,7 +656,7 @@ export default function YusufStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yusuf/Yusuf%20give%20shirt.png" 
+                                src="/images/prophet-stories/yusuf/Yusuf give shirt.png" 
                                 alt="ইউসুফ শার্ট দিচ্ছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />

@@ -9,7 +9,7 @@ export default function YunusStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yunus/the-story-of-prophet-yunus-as.png" 
+                    src="/images/prophet-stories/yunus/the-story-of-prophet-yunus-as.png" 
                     alt="নবী ইউনুস (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />

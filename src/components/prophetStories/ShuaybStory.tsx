@@ -9,7 +9,7 @@ export default function ShuaybStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/shuaib/story-of-prophet-shuaib-as.png" 
+                    src="/images/prophet-stories/shuaib/story-of-prophet-shuaib-as.png" 
                     alt="শুআইব (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -30,7 +30,7 @@ export default function ShuaybStory() {
                     <div className="flex flex-col md:flex-row-reverse gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/shuaib/Prophet%20Shu_aib%20Calligraphy.png" 
+                                src="/images/prophet-stories/shuaib/Prophet Shu_aib Calligraphy.png" 
                                 alt="নবী শুআইবের ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -66,7 +66,7 @@ export default function ShuaybStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/shuaib/Companions%20of%20the%20Wood.png" 
+                                src="/images/prophet-stories/shuaib/Companions of the Wood.png" 
                                 alt="কাঠের সঙ্গী" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -76,7 +76,7 @@ export default function ShuaybStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/shuaib/Prophet-Shu_aib.png" 
+                                src="/images/prophet-stories/shuaib/Prophet-Shu_aib.png" 
                                 alt="নবী শুআইব" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -118,7 +118,7 @@ export default function ShuaybStory() {
                     </Card>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/shuaib/Prophet%20Shu_aib%20&%20merchant.png" 
+                        src="/images/prophet-stories/shuaib/Prophet Shu_aib & merchant.png" 
                         alt="নবী শুআইব ও ব্যবসায়ী" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -154,7 +154,7 @@ export default function ShuaybStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/shuaib/Weigh%20scale.png" 
+                                src="/images/prophet-stories/shuaib/Weigh scale.png" 
                                 alt="ওজন স্কেল" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -179,7 +179,7 @@ export default function ShuaybStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/shuaib/Angry%20merchant.png" 
+                                src="/images/prophet-stories/shuaib/Angry merchant.png" 
                                 alt="রাগান্বিত ব্যবসায়ী" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -218,7 +218,7 @@ export default function ShuaybStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/shuaib/3%20adzab.png" 
+                        src="/images/prophet-stories/shuaib/3 adzab.png" 
                         alt="তিনটি শাস্তি" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -282,7 +282,7 @@ export default function ShuaybStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/shuaib/Chief%20leader.png" 
+                                src="/images/prophet-stories/shuaib/Chief leader.png" 
                                 alt="নেতা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -325,7 +325,7 @@ export default function ShuaybStory() {
                     </h2>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/shuaib/A%20mass%20dark%20cloud.png" 
+                        src="/images/prophet-stories/shuaib/A mass dark cloud.png" 
                         alt="একটি বিশাল অন্ধকার মেঘ" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -356,7 +356,7 @@ export default function ShuaybStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/shuaib/Fire%20rain.png" 
+                        src="/images/prophet-stories/shuaib/Fire rain.png" 
                         alt="আগুনের বৃষ্টি" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />

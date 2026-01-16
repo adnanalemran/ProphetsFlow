@@ -9,7 +9,7 @@ export default function ZakariyaStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/the-story-of-prophet-zakariyah-as.png" 
+                    src="/images/prophet-stories/zakariyah/the-story-of-prophet-zakariyah-as.png" 
                     alt="নবী যাকারিয়া (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -29,7 +29,7 @@ export default function ZakariyaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Prophet%20Zakariya%20Calligraphy.png" 
+                                src="/images/prophet-stories/zakariyah/Prophet Zakariya Calligraphy.png" 
                                 alt="নবী যাকারিয়ার ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -66,7 +66,7 @@ export default function ZakariyaStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Prophet%20Zakariyah%20Carpenter.png" 
+                                src="/images/prophet-stories/zakariyah/Prophet Zakariyah Carpenter.png" 
                                 alt="নবী যাকারিয়া কাঠমিস্ত্রী" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -131,7 +131,7 @@ export default function ZakariyaStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Imran%20Family%20Tree.png" 
+                                src="/images/prophet-stories/zakariyah/Imran Family Tree.png" 
                                 alt="ইমরানের পরিবার বৃক্ষ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -145,7 +145,7 @@ export default function ZakariyaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Hannah%20Praying.png" 
+                                src="/images/prophet-stories/zakariyah/Hannah Praying.png" 
                                 alt="হান্নাহ প্রার্থনা করছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -175,7 +175,7 @@ export default function ZakariyaStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Maryam%20Newborn.png" 
+                                src="/images/prophet-stories/zakariyah/Maryam Newborn.png" 
                                 alt="নবজাতক মারিয়াম" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -229,7 +229,7 @@ export default function ZakariyaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Quran%20Mention%20Maryam.png" 
+                                src="/images/prophet-stories/zakariyah/Quran Mention Maryam.png" 
                                 alt="কুরআনে মারিয়ামের উল্লেখ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -308,7 +308,7 @@ export default function ZakariyaStory() {
 
                     <div className="my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Prophet%20Zakariyah%20Quill%20selected.png" 
+                            src="/images/prophet-stories/zakariyah/Prophet Zakariyah Quill selected.png" 
                             alt="নবী যাকারিয়ার কলম নির্বাচিত" 
                             className="w-full h-auto rounded-lg shadow-lg"
                         />
@@ -320,7 +320,7 @@ export default function ZakariyaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/green%20grass%20(left).png" 
+                                src="/images/prophet-stories/zakariyah/green grass (left).png" 
                                 alt="সবুজ ঘাস" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -337,7 +337,7 @@ export default function ZakariyaStory() {
 
                     <div className="my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Prophet%20Zakariyah%20Quill%20remained.png" 
+                            src="/images/prophet-stories/zakariyah/Prophet Zakariyah Quill remained.png" 
                             alt="নবী যাকারিয়ার কলম স্থির ছিল" 
                             className="w-full h-auto rounded-lg shadow-lg"
                         />
@@ -349,7 +349,7 @@ export default function ZakariyaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/green%20grass%20(left).png" 
+                                src="/images/prophet-stories/zakariyah/green grass (left).png" 
                                 alt="সবুজ ঘাস" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -366,7 +366,7 @@ export default function ZakariyaStory() {
 
                     <div className="my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Prophet%20Zakariyah%20Quill%20Flowed.png" 
+                            src="/images/prophet-stories/zakariyah/Prophet Zakariyah Quill Flowed.png" 
                             alt="নবী যাকারিয়ার কলম প্রবাহিত হয়েছিল" 
                             className="w-full h-auto rounded-lg shadow-lg"
                         />
@@ -400,7 +400,7 @@ export default function ZakariyaStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Fruit.png" 
+                                src="/images/prophet-stories/zakariyah/Fruit.png" 
                                 alt="ফল" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -432,7 +432,7 @@ export default function ZakariyaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Prophet%20Zakariyah%20Praying.png" 
+                                src="/images/prophet-stories/zakariyah/Prophet Zakariyah Praying.png" 
                                 alt="নবী যাকারিয়া প্রার্থনা করছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -470,7 +470,7 @@ export default function ZakariyaStory() {
 
                     <div className="my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Prophet%20Zakariyah%20&amp;%20Angel.png" 
+                            src="/images/prophet-stories/zakariyah/Prophet Zakariyah & Angel.png" 
                             alt="নবী যাকারিয়া এবং ফেরেশতা" 
                             className="w-full h-auto rounded-lg shadow-lg"
                         />
@@ -528,7 +528,7 @@ export default function ZakariyaStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Prophet%20Zakariyah%20signaling%20people.png" 
+                                src="/images/prophet-stories/zakariyah/Prophet Zakariyah signaling people.png" 
                                 alt="নবী যাকারিয়া লোকদের সংকেত দিচ্ছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -562,7 +562,7 @@ export default function ZakariyaStory() {
 
                     <div className="my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Prophetic%20Du_a%201.png" 
+                            src="/images/prophet-stories/zakariyah/Prophetic Du_a 1.png" 
                             alt="নবী যাকারিয়ার দুআ ১" 
                             className="w-full h-auto rounded-lg shadow-lg"
                         />
@@ -585,7 +585,7 @@ export default function ZakariyaStory() {
 
                     <div className="my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/zakariyah/Prophetic%20Du_a%202.png" 
+                            src="/images/prophet-stories/zakariyah/Prophetic Du_a 2.png" 
                             alt="নবী যাকারিয়ার দুআ ২" 
                             className="w-full h-auto rounded-lg shadow-lg"
                         />

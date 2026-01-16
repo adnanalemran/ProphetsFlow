@@ -9,7 +9,7 @@ export default function YahyaStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yahya/the-story-of-prophet-yahya-as.png" 
+                    src="/images/prophet-stories/yahya/the-story-of-prophet-yahya-as.png" 
                     alt="নবী ইয়াহিয়া (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -32,7 +32,7 @@ export default function YahyaStory() {
 
                     <div className="my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yahya/prophet-zakariyah-relationship-to-yahya.png" 
+                            src="/images/prophet-stories/yahya/prophet-zakariyah-relationship-to-yahya.png" 
                             alt="নবী যাকারিয়ার পিতামাতা" 
                             className="w-full h-auto rounded-lg shadow-lg"
                         />
@@ -76,7 +76,7 @@ export default function YahyaStory() {
 
                     <div className="my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yahya/prophet-zakariyah-kindness-to-animals.png" 
+                            src="/images/prophet-stories/yahya/prophet-zakariyah-kindness-to-animals.png" 
                             alt="নবী যাকারিয়া প্রাণীদের প্রতি সদয়" 
                             className="w-full h-auto rounded-lg shadow-lg"
                         />
@@ -119,7 +119,7 @@ export default function YahyaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/2 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yahya/Prophet%20Yahya%20&amp;%20people.png" 
+                                src="/images/prophet-stories/yahya/Prophet Yahya & people.png" 
                                 alt="নবী ইয়াহিয়া এবং মানুষ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -171,7 +171,7 @@ export default function YahyaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/2 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yahya/Prophet%20Yahya%20Mountain.png" 
+                                src="/images/prophet-stories/yahya/Prophet Yahya Mountain.png" 
                                 alt="নবী ইয়াহিয়া প্রকৃতিতে" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -191,7 +191,7 @@ export default function YahyaStory() {
 
                     <div className="my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yahya/Branch.png" 
+                            src="/images/prophet-stories/yahya/Branch.png" 
                             alt="গাছের শাখা" 
                             className="w-full h-auto rounded-lg shadow-lg"
                         />
@@ -221,7 +221,7 @@ export default function YahyaStory() {
                         </div>
                         <div className="w-full md:w-1/2 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yahya/prophet-yahya-laying-in-grave.png" 
+                                src="/images/prophet-stories/yahya/prophet-yahya-laying-in-grave.png" 
                                 alt="নবী যাকারিয়া কবরে শুয়ে আছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -235,7 +235,7 @@ export default function YahyaStory() {
                     <div className="flex flex-col md:flex-row-reverse gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/2 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yahya/prophet-yahya-river.png" 
+                                src="/images/prophet-stories/yahya/prophet-yahya-river.png" 
                                 alt="ইয়াহিয়া নদীতে" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -310,7 +310,7 @@ export default function YahyaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/2 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yahya/Prophet%20Yahya%20&amp;%20Prophet%20Isa.png" 
+                                src="/images/prophet-stories/yahya/Prophet Yahya & Prophet Isa.png" 
                                 alt="নবী ইয়াহিয়া এবং নবী ঈসা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -406,7 +406,7 @@ export default function YahyaStory() {
                         </div>
                         <div className="w-full md:w-1/2 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yahya/Prophet%20Yahya%20&amp;%20People%202.png" 
+                                src="/images/prophet-stories/yahya/Prophet Yahya & People 2.png" 
                                 alt="নবী যাকারিয়া এবং মানুষ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -420,7 +420,7 @@ export default function YahyaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/2 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yahya/Salome%20&amp;%20King.png" 
+                                src="/images/prophet-stories/yahya/Salome & King.png" 
                                 alt="নবী ইয়াহিয়া হত্যা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -443,7 +443,7 @@ export default function YahyaStory() {
 
                     <div className="my-6">
                         <img 
-                            src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yahya/kingdom-on-fire-story-of-yahya.png" 
+                            src="/images/prophet-stories/yahya/kingdom-on-fire-story-of-yahya.png" 
                             alt="নবী ইয়াহিয়ার রাজ্য" 
                             className="w-full h-auto rounded-lg shadow-lg"
                         />

@@ -9,7 +9,7 @@ export default function IshmaelStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/the-story-of-prophet-ishamel-as.png" 
+                    src="/images/prophet-stories/ismail/the-story-of-prophet-ishamel-as.png" 
                     alt="ইসমাইল (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -31,7 +31,7 @@ export default function IshmaelStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Prophet%20Ibrahim%20&%20Ishmael%20Calligraphy.png" 
+                                src="/images/prophet-stories/ismail/Prophet Ibrahim & Ishmael Calligraphy.png" 
                                 alt="নবী ইব্রাহিম ও ইসমাইলের ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -73,7 +73,7 @@ export default function IshmaelStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Lone%20Tree.png" 
+                                src="/images/prophet-stories/ismail/Lone Tree.png" 
                                 alt="একাকী গাছ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -83,7 +83,7 @@ export default function IshmaelStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Dates%20&%20Water.png" 
+                                src="/images/prophet-stories/ismail/Dates & Water.png" 
                                 alt="খেজুর ও পানি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -128,7 +128,7 @@ export default function IshmaelStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Hagar%20&%20Ibrahim.png" 
+                                src="/images/prophet-stories/ismail/Hagar & Ibrahim.png" 
                                 alt="হাজেরা ও ইব্রাহিম" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -166,7 +166,7 @@ export default function IshmaelStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Hagar%20Climb.png" 
+                        src="/images/prophet-stories/ismail/Hagar Climb.png" 
                         alt="হাজেরা আরোহণ করছেন" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -194,7 +194,7 @@ export default function IshmaelStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Zamzam.png" 
+                                src="/images/prophet-stories/ismail/Zamzam.png" 
                                 alt="জমজম" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -265,7 +265,7 @@ export default function IshmaelStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Hagar%20&%20Ishmael.png" 
+                        src="/images/prophet-stories/ismail/Hagar & Ishmael.png" 
                         alt="হাজেরা ও ইসমাইল" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -308,7 +308,7 @@ export default function IshmaelStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Ibrahim%20Dream%20&%20Ismail%20talk.png" 
+                        src="/images/prophet-stories/ismail/Ibrahim Dream & Ismail talk.png" 
                         alt="ইব্রাহিম স্বপ্ন ও ইসমাইল কথা" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -356,7 +356,7 @@ export default function IshmaelStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Prophet%20Ibrahim%20pelting%20shaitan.png" 
+                                src="/images/prophet-stories/ismail/Prophet Ibrahim pelting shaitan.png" 
                                 alt="নবী ইব্রাহিম শয়তানকে পাথর ছুঁড়ছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -367,7 +367,7 @@ export default function IshmaelStory() {
                                 যাইহোক, তিনি এই প্রলোভনগুলি এড়িয়ে গিয়েছিলেন, <strong>প্রতিটি স্থানে শয়তানকে <span className="text-amber-600 dark:text-amber-500">সাতটি নুড়ি</span> ছুঁড়ে</strong>, তাকে তাড়িয়ে দিয়েছিলেন।
                             </p>
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/7%20pebbles.png" 
+                                src="/images/prophet-stories/ismail/7 pebbles.png" 
                                 alt="৭টি নুড়ি" 
                                 className="w-full h-auto rounded-lg shadow-lg my-4"
                             />
@@ -403,7 +403,7 @@ export default function IshmaelStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Prophet%20Ishmael%20sacrifice.png" 
+                        src="/images/prophet-stories/ismail/Prophet Ishmael sacrifice.png" 
                         alt="নবী ইসমাইল কুরবানি" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -468,7 +468,7 @@ export default function IshmaelStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Wife%201.png" 
+                                src="/images/prophet-stories/ismail/Wife 1.png" 
                                 alt="স্ত্রী ১" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -532,12 +532,12 @@ export default function IshmaelStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Wife%202.png" 
+                                src="/images/prophet-stories/ismail/Wife 2.png" 
                                 alt="স্ত্রী ২" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover mb-4"
                             />
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Meat%20&%20Water.png" 
+                                src="/images/prophet-stories/ismail/Meat & Water.png" 
                                 alt="মাংস ও পানি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -588,7 +588,7 @@ export default function IshmaelStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Ibrahim%20Dream%20&%20Ismail%20talk%202.png" 
+                                src="/images/prophet-stories/ismail/Ibrahim Dream & Ismail talk 2.png" 
                                 alt="ইব্রাহিম স্বপ্ন ও ইসমাইল কথা ২" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -628,7 +628,7 @@ export default function IshmaelStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Ibrahim%20Dream%20&%20Ismail%20build%20Kaaba.png" 
+                                src="/images/prophet-stories/ismail/Ibrahim Dream & Ismail build Kaaba.png" 
                                 alt="ইব্রাহিম স্বপ্ন ও ইসমাইল কাবা নির্মাণ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -664,7 +664,7 @@ export default function IshmaelStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ismail/Maqam%20Ibrahim.png" 
+                                src="/images/prophet-stories/ismail/Maqam Ibrahim.png" 
                                 alt="মাকাম ইব্রাহিম" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />

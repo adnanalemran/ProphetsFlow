@@ -9,7 +9,7 @@ export default function YaqubStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yaqub/the-story-of-prophet-yaqub-as.png" 
+                    src="/images/prophet-stories/yaqub/the-story-of-prophet-yaqub-as.png" 
                     alt="ইয়াকুব (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -29,7 +29,7 @@ export default function YaqubStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yaqub/prophet-yaqub-and-prophet-yusuf.png" 
+                        src="/images/prophet-stories/yaqub/prophet-yaqub-and-prophet-yusuf.png" 
                         alt="নবী ইয়াকুব ও নবী ইউসুফ" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -89,7 +89,7 @@ export default function YaqubStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yaqub/prophet-musa-as-miracle-to-banu-israel.png" 
+                                src="/images/prophet-stories/yaqub/prophet-musa-as-miracle-to-banu-israel.png" 
                                 alt="নবী মুসা বনু ইসরায়েলের জন্য অলৌকিক ঘটনা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -176,7 +176,7 @@ export default function YaqubStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yaqub/yaqub-as-grief.png" 
+                                src="/images/prophet-stories/yaqub/yaqub-as-grief.png" 
                                 alt="ইয়াকুব (আঃ) দুঃখ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -204,7 +204,7 @@ export default function YaqubStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yaqub/yaqub-yusuf-famine-in-egypt.png" 
+                                src="/images/prophet-stories/yaqub/yaqub-yusuf-famine-in-egypt.png" 
                                 alt="মিশরে দুর্ভিক্ষ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -242,7 +242,7 @@ export default function YaqubStory() {
                     </Card>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yaqub/yusufs-brother-return-from-egypt.png" 
+                        src="/images/prophet-stories/yaqub/yusufs-brother-return-from-egypt.png" 
                         alt="ইউসুফের ভাই মিশর থেকে ফিরে আসছে" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -372,7 +372,7 @@ export default function YaqubStory() {
                     </Card>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/yaqub/Prophet-Yaqoob-prays-to-allah.png" 
+                        src="/images/prophet-stories/yaqub/Prophet-Yaqoob-prays-to-allah.png" 
                         alt="নবী ইয়াকুব আল্লাহর কাছে প্রার্থনা করছেন" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />

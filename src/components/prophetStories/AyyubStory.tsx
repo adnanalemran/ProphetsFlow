@@ -9,7 +9,7 @@ export default function AyyubStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ayyub/the-story-of-prophet-ayyub-as.png" 
+                    src="/images/prophet-stories/ayyub/the-story-of-prophet-ayyub-as.png" 
                     alt="আইয়ুব (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -40,7 +40,7 @@ export default function AyyubStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ayyub/Family.png" 
+                        src="/images/prophet-stories/ayyub/Family.png" 
                         alt="নবী আইয়ুবের বংশবৃক্ষ" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -83,7 +83,7 @@ export default function AyyubStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ayyub/Angels%20Discussion.png" 
+                                src="/images/prophet-stories/ayyub/Angels Discussion.png" 
                                 alt="ফেরেশতাদের আলোচনা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -105,7 +105,7 @@ export default function AyyubStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ayyub/Satan.png" 
+                                src="/images/prophet-stories/ayyub/Satan.png" 
                                 alt="শয়তান" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -150,7 +150,7 @@ export default function AyyubStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ayyub/Livestock.png" 
+                                src="/images/prophet-stories/ayyub/Livestock.png" 
                                 alt="গবাদি পশু" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -186,7 +186,7 @@ export default function AyyubStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ayyub/Satan.png" 
+                                src="/images/prophet-stories/ayyub/Satan.png" 
                                 alt="শয়তান" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -231,7 +231,7 @@ export default function AyyubStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ayyub/Building.png" 
+                                src="/images/prophet-stories/ayyub/Building.png" 
                                 alt="ভবন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -249,7 +249,7 @@ export default function AyyubStory() {
                     <div className="flex flex-col md:flex-row-reverse gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ayyub/Satan%20with%20Image%20above.png" 
+                                src="/images/prophet-stories/ayyub/Satan with Image above.png" 
                                 alt="শয়তান ছবির সাথে" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -280,7 +280,7 @@ export default function AyyubStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ayyub/Hand%20skin.png" 
+                                src="/images/prophet-stories/ayyub/Hand skin.png" 
                                 alt="হাতের ত্বক" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -353,7 +353,7 @@ export default function AyyubStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ayyub/Ayyub%20Calligraphy.png" 
+                                src="/images/prophet-stories/ayyub/Ayyub Calligraphy.png" 
                                 alt="আইয়ুবের ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -368,7 +368,7 @@ export default function AyyubStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ayyub/Prayer%20Hand.png" 
+                                src="/images/prophet-stories/ayyub/Prayer Hand.png" 
                                 alt="প্রার্থনার হাত" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -392,7 +392,7 @@ export default function AyyubStory() {
                     </div>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ayyub/Spring%20Water.png" 
+                        src="/images/prophet-stories/ayyub/Spring Water.png" 
                         alt="ঝরনার পানি" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -424,7 +424,7 @@ export default function AyyubStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ayyub/Thin%20Grass.png" 
+                                src="/images/prophet-stories/ayyub/Thin Grass.png" 
                                 alt="পাতলা ঘাস" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -466,7 +466,7 @@ export default function AyyubStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ayyub/Gold%20Locust.png" 
+                                src="/images/prophet-stories/ayyub/Gold Locust.png" 
                                 alt="সোনার পঙ্গপাল" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />

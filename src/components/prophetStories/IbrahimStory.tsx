@@ -13,7 +13,7 @@ export default function IbrahimStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/prophet-ibrahim-abraham-story.png" 
+                    src="/images/prophet-stories/ibrahim/prophet-ibrahim-abraham-story.png" 
                     alt="ইব্রাহিম (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -60,7 +60,7 @@ export default function IbrahimStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/Prophet%20Ibrahim%20Calligraphy.png" 
+                                src="/images/prophet-stories/ibrahim/Prophet Ibrahim Calligraphy.png" 
                                 alt="নবী ইব্রাহিমের ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -70,7 +70,7 @@ export default function IbrahimStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/Stone%20Idols.png" 
+                                src="/images/prophet-stories/ibrahim/Stone Idols.png" 
                                 alt="মূর্তি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -148,7 +148,7 @@ export default function IbrahimStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/People%20worshiping%20idol.png" 
+                        src="/images/prophet-stories/ibrahim/People worshiping idol.png" 
                         alt="লোকেরা মূর্তি উপাসনা করছে" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -230,7 +230,7 @@ export default function IbrahimStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/Ibrahim%20&%20People.png" 
+                                src="/images/prophet-stories/ibrahim/Ibrahim & People.png" 
                                 alt="নবী ইব্রাহিম আকাশের দিকে তাকাচ্ছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -299,7 +299,7 @@ export default function IbrahimStory() {
                     </Card>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/Ibrahim%20Smashing%20the%20idols.png" 
+                        src="/images/prophet-stories/ibrahim/Ibrahim Smashing the idols.png" 
                         alt="নবী ইব্রাহিম মূর্তি ভাঙছেন" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -338,7 +338,7 @@ export default function IbrahimStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/Idols%20Destroyed.png" 
+                                src="/images/prophet-stories/ibrahim/Idols Destroyed.png" 
                                 alt="নবী ইব্রাহিম মূর্তি ধ্বংস করেছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -348,7 +348,7 @@ export default function IbrahimStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/Biggest%20Idol.png" 
+                                src="/images/prophet-stories/ibrahim/Biggest Idol.png" 
                                 alt="সবচেয়ে বড় মূর্তি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -417,7 +417,7 @@ export default function IbrahimStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/Firewood.png" 
+                                src="/images/prophet-stories/ibrahim/Firewood.png" 
                                 alt="নবী ইব্রাহিমকে পোড়ানোর হুমকি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -445,7 +445,7 @@ export default function IbrahimStory() {
                     </Card>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/Ibrahim%20Fire.png" 
+                        src="/images/prophet-stories/ibrahim/Ibrahim Fire.png" 
                         alt="ইব্রাহিম (আঃ) আগুনে নিক্ষিপ্ত" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -465,7 +465,7 @@ export default function IbrahimStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/Ibrahim%20Fire%202.png" 
+                        src="/images/prophet-stories/ibrahim/Ibrahim Fire 2.png" 
                         alt="নবী ইব্রাহিম (আঃ) আগুন থেকে বেঁচে গেছেন" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -503,7 +503,7 @@ export default function IbrahimStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/King%20Namrud.png" 
+                                src="/images/prophet-stories/ibrahim/King Namrud.png" 
                                 alt="নবী ইব্রাহিম (আঃ) রাজা নমরুদের সাথে বিতর্ক করছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -588,7 +588,7 @@ export default function IbrahimStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/Guard%20&%20Hagar.png" 
+                                src="/images/prophet-stories/ibrahim/Guard & Hagar.png" 
                                 alt="প্রহরী এবং হাজেরা" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -616,7 +616,7 @@ export default function IbrahimStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/3%20Angels.png" 
+                        src="/images/prophet-stories/ibrahim/3 Angels.png" 
                         alt="ইব্রাহিম (আঃ) তিনজন ফেরেশতাকে দেখা করছেন" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -684,7 +684,7 @@ export default function IbrahimStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/four%20birds.png" 
+                        src="/images/prophet-stories/ibrahim/four birds.png" 
                         alt="নবী ইব্রাহিম চারটি পাখির অলৌকিক ঘটনা দেখছেন" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -708,7 +708,7 @@ export default function IbrahimStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/Ibrahim%20Family%20Tree.png" 
+                                src="/images/prophet-stories/ibrahim/Ibrahim Family Tree.png" 
                                 alt="নবী ইব্রাহিমের পরিবার বৃক্ষ" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -749,7 +749,7 @@ export default function IbrahimStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/ibrahim/Ibrahim%20Alone.png" 
+                                src="/images/prophet-stories/ibrahim/Ibrahim Alone.png" 
                                 alt="নবী ইব্রাহিম একা হাঁটছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />

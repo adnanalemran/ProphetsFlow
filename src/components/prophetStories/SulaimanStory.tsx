@@ -9,7 +9,7 @@ export default function SulaimanStory() {
             {/* Header Image */}
             <div className="w-full mb-8">
                 <img 
-                    src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/the-story-of-prophet-sulaiman-as.png" 
+                    src="/images/prophet-stories/sulaiman/the-story-of-prophet-sulaiman-as.png" 
                     alt="সুলাইমান (আঃ)-এর গল্প" 
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
@@ -27,7 +27,7 @@ export default function SulaimanStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/Prophet%20Sulaiman%20Calligraphy.png" 
+                                src="/images/prophet-stories/sulaiman/Prophet Sulaiman Calligraphy.png" 
                                 alt="নবী সুলাইমানের ক্যালিগ্রাফি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -95,7 +95,7 @@ export default function SulaimanStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/Prophet%20Dawud.png" 
+                                src="/images/prophet-stories/sulaiman/Prophet Dawud.png" 
                                 alt="নবী দাউদ লেখা করছেন" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -139,7 +139,7 @@ export default function SulaimanStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/Prophet%20Sulaiman%20answer.png" 
+                                src="/images/prophet-stories/sulaiman/Prophet Sulaiman answer.png" 
                                 alt="নবী সুলাইমান নেতা হিসাবে দায়িত্ব" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -204,7 +204,7 @@ export default function SulaimanStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/prophet-sulaiman-horses.png" 
+                                src="/images/prophet-stories/sulaiman/prophet-sulaiman-horses.png" 
                                 alt="নবী সুলাইমানের ঘোড়া" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -269,7 +269,7 @@ export default function SulaimanStory() {
                     </p>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/Castle-interior.png" 
+                        src="/images/prophet-stories/sulaiman/Castle-interior.png" 
                         alt="নবী সুলাইমানের দুআ উত্তর দেওয়া হয়েছে" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -355,7 +355,7 @@ export default function SulaimanStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/Bird.png" 
+                                src="/images/prophet-stories/sulaiman/Bird.png" 
                                 alt="হুদহুদ পাখি" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -363,7 +363,7 @@ export default function SulaimanStory() {
                     </div>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/bilqis-kingdom-according-to-hoopoe.png" 
+                        src="/images/prophet-stories/sulaiman/bilqis-kingdom-according-to-hoopoe.png" 
                         alt="হুদহুদ পাখি বিলকিসের রাজ্য সম্পর্কে বলে" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -433,7 +433,7 @@ export default function SulaimanStory() {
                     </Card>
 
                     <img 
-                        src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/prophet-sulaiman-kingdom.png" 
+                        src="/images/prophet-stories/sulaiman/prophet-sulaiman-kingdom.png" 
                         alt="নবী সুলাইমানের রাজ্য এবং সেনাবাহিনী" 
                         className="w-full h-auto rounded-lg shadow-lg my-6"
                     />
@@ -454,7 +454,7 @@ export default function SulaimanStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/Gift.png" 
+                                src="/images/prophet-stories/sulaiman/Gift.png" 
                                 alt="বিলকিসের উপহার" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -494,7 +494,7 @@ export default function SulaimanStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/Ifrit.png" 
+                                src="/images/prophet-stories/sulaiman/Ifrit.png" 
                                 alt="সুলাইমান জিনদের সিংহাসন ধরতে বলে" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -533,7 +533,7 @@ export default function SulaimanStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/Jinn%20&%20Throne.png" 
+                                src="/images/prophet-stories/sulaiman/Jinn & Throne.png" 
                                 alt="জিন সিংহাসন নিয়ে আসছে" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -569,7 +569,7 @@ export default function SulaimanStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/Bilqis%20Throne%20move.png" 
+                                src="/images/prophet-stories/sulaiman/Bilqis Throne move.png" 
                                 alt="বিলকিসের সিংহাসন সরানো হয়েছে" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -608,7 +608,7 @@ export default function SulaimanStory() {
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/bilqis-walks-on-glass-floor.png" 
+                                src="/images/prophet-stories/sulaiman/bilqis-walks-on-glass-floor.png" 
                                 alt="বিলকিস কাচের উপর হাঁটছে" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
@@ -672,7 +672,7 @@ export default function SulaimanStory() {
                     <div className="flex flex-col md:flex-row-reverse gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0">
                             <img 
-                                src="https://myislam.sfo3.digitaloceanspaces.com/assets/2024/prophet-stories/sulaiman/Prophet%20Sulaiman%20last.png" 
+                                src="/images/prophet-stories/sulaiman/Prophet Sulaiman last.png" 
                                 alt="নবী সুলাইমানের মৃত্যু" 
                                 className="w-full h-auto rounded-lg shadow-lg object-cover"
                             />
