@@ -5,7 +5,7 @@ import HudStory from './HudStory';
 import SalihStory from './SalihStory';
 import IbrahimStory from './IbrahimStory';
 import LutStory from './LutStory';
-import IsmailStory from './IsmailStory';
+import IshmaelStory from './IshmaelStory';
 import IshaqStory from './IshaqStory';
 import YaqubStory from './YaqubStory';
 import YusufStory from './YusufStory';
@@ -32,7 +32,7 @@ export const prophetStories: Record<string, React.ComponentType> = {
     '5': SalihStory,
     '6': IbrahimStory,
     '7': LutStory,
-    '8': IsmailStory,
+    '8': IshmaelStory,
     '9': IshaqStory,
     '10': YaqubStory,
     '11': YusufStory,

@@ -99,7 +99,7 @@ export default function IshmaelStory() {
                         নবী ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) আকস্মিক প্রস্থানে বিভ্রান্ত হয়ে, হাজেরা তার পিছনে দৌড়েছিলেন, একটি ব্যাখ্যা চাইছিলেন।
                     </p>
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic">
                                 <strong>তিনি ডাকলেন,</strong><br />
@@ -113,7 +113,7 @@ export default function IshmaelStory() {
                             <p className="mb-4">
                                 ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) কাছ থেকে কোন উত্তর না পেয়ে, হাজেরা তার প্রশ্নটি কয়েকবার পুনরাবৃত্তি করেছিলেন। তারপর তার কাছে স্পষ্ট হয়ে উঠেছিল যে তিনি নীরব ছিলেন কারণ তিনি সর্বশক্তিমানের কাছ থেকে একটি আদেশ সম্মান করছিলেন।
                             </p>
-                            <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                            <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                         <em>"আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কি আপনাকে এটি করতে আদেশ করেছেন?"</em><br />
@@ -139,7 +139,7 @@ export default function IshmaelStory() {
                         হাজেরা তারপর গাছের ছায়ায় ফিরে গিয়েছিলেন, ইব্রাহিমকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) বাড়ির দিকে এগিয়ে যেতে দেখছিলেন।
                     </p>
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic">
                                 <strong>নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>), একটি ভারী হৃদয় এবং এমন অনুর্বর জমিতে তার পরিবারকে রেখে যাওয়ার উদ্বেগ নিয়ে, প্রার্থনায় তার হাত তুলেছিলেন:</strong><br />
@@ -182,7 +182,7 @@ export default function IshmaelStory() {
                         হতাশা থেকে, তিনি এগিয়ে-পিছিয়ে দৌড়েছিলেন, <strong>দুটি পাহাড়ের মধ্যে <span className="text-amber-600 dark:text-amber-500">মোট সাতবার</span> আরোহণ করেছিলেন</strong> একটি কণ্ঠস্বর শোনার আগে। তিনি তারপর নীরব হয়ে পড়েছিলেন, ধৈর্য সহকারে অপেক্ষা করছিলেন যে কণ্ঠস্বর আবার ডাকবে।
                     </p>
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic">
                                 <strong>তিনি তারপর আবার কণ্ঠস্বর শুনেছিলেন কিন্তু এর কোন অর্থ করতে পারেননি, হাজেরা চিৎকার করে ডাকলেন:</strong><br /><br />
@@ -213,7 +213,7 @@ export default function IshmaelStory() {
                         তবুও, পানি প্রবাহিত হতে থাকল। হাজেরা তার তৃষ্ণা মেটালেন এবং তার শিশুকে স্তন্যপান করালেন।
                     </p>
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                 <strong className="text-amber-600 dark:text-amber-500">ফেরেশতা তারপর হাজেরাকে বলেছিলেন:</strong><br />
@@ -227,7 +227,7 @@ export default function IshmaelStory() {
                         </CardContent>
                     </Card>
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic">
                                 <strong className="text-amber-600 dark:text-amber-500">নোট</strong><br />
@@ -248,7 +248,7 @@ export default function IshmaelStory() {
                         <span className="text-amber-600 dark:text-amber-500">জুরহুম গোত্র</span> উপত্যকায় বসতি স্থাপন করে
                     </h2>
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic">
                                 <strong className="text-amber-600 dark:text-amber-500">নবী (<span className="font-arabic">صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ</span>) তারপর বলতে থাকেন,</strong><br />
@@ -270,7 +270,7 @@ export default function IshmaelStory() {
                         className="w-full h-auto rounded-lg my-6"
                     />
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                 <strong>তারা সম্মানজনক ছিল এবং তাকে জিজ্ঞাসা করেছিল:</strong><br />
@@ -313,7 +313,7 @@ export default function IshmaelStory() {
                         className="w-full h-auto rounded-lg my-6"
                     />
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                 <strong>এই সফরের সময়, ইব্রাহিম একটি পুনরাবৃত্ত স্বপ্নের বিষয়বস্তু প্রকাশ করেছিলেন যা তিনি দেখছিলেন, বলেছিলেন,</strong><br />
@@ -340,7 +340,7 @@ export default function IshmaelStory() {
                         <strong>এটি ছিল তার একমাত্র পুত্র, এবং তার জীবন নেওয়ার ইচ্ছা এবং প্রস্তুতি <span className="text-amber-600 dark:text-amber-500">ছিল পরীক্ষা</span></strong>। ইসমাইলের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) শান্ত আচরণ এবং সহযোগিতা সমানভাবে প্রশংসা এবং অধ্যয়নের যোগ্য।
                     </p>
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic">
                                 <strong className="text-amber-600 dark:text-amber-500">সূরা আস-সাফফাত, আয়াত ১০৩-এ বর্ণিত হিসাবে:</strong><br />
@@ -374,7 +374,7 @@ export default function IshmaelStory() {
                         </div>
                     </div>
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                 <strong>তাফসীর, মা'রিফুল কুরআন, নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) এবং তার পুত্রের মধ্যে কথোপকথন বর্ণনা করে, নিম্নরূপ:</strong><br />
@@ -412,7 +412,7 @@ export default function IshmaelStory() {
                         নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) যখন তার পুত্রের গলায় ছুরি নিয়ে এসেছিলেন, একটি ঐশ্বরিক হস্তক্ষেপ ঘটেছিল। <span className="text-amber-600 dark:text-amber-500">অলৌকিকভাবে, ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) একটি ভেড়া দ্বারা প্রতিস্থাপিত হয়েছিল।</span> ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>), তার ভক্তির কাজটি সম্পন্ন করে, <span className="text-amber-600 dark:text-amber-500">পরিবর্তে ভেড়াটি জবাই করেছিলেন</span>। স্বস্তি এবং কৃতজ্ঞতায় অভিভূত হয়ে, তিনি ইসমাইলকে নিরাপদ এবং অক্ষত অবস্থায় দূরত্বে খুঁজে পেয়েছিলেন।
                     </p>
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                 <strong>তিনি তারপর একটি কণ্ঠস্বর শুনেছিলেন:</strong><br />
@@ -427,7 +427,7 @@ export default function IshmaelStory() {
                         </CardContent>
                     </Card>
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic">
                                 <strong className="text-amber-600 dark:text-amber-500">নোট</strong><br />
@@ -454,7 +454,7 @@ export default function IshmaelStory() {
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="flex-1">
-                            <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                            <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                         <strong>নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তারপর তাকে <span className="text-amber-600 dark:text-amber-500">তাদের জীবনযাত্রার অবস্থা</span> সম্পর্কে জিজ্ঞাসা করেছিলেন।</strong><br /><br />
@@ -479,7 +479,7 @@ export default function IshmaelStory() {
                         যখন ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ফিরে এসেছিলেন, তিনি কিছু অস্বাভাবিক অনুভব করেছিলেন, তাই তিনি তার স্ত্রীকে জিজ্ঞাসা করেছিলেন যে কেউ তাকে দেখতে এসেছিল কিনা।
                     </p>
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                 <em>"হ্যাঁ"</em> <strong>তিনি উত্তর দিয়েছিলেন।</strong> <em>"একজন বৃদ্ধ ব্যক্তি এমন-এমন বর্ণনার এসেছিলেন এবং আমাকে আপনার সম্পর্কে জিজ্ঞাসা করেছিলেন, এবং আমি তাকে জানিয়েছিলাম, এবং তিনি আমাদের জীবনযাত্রার অবস্থা সম্পর্কে জিজ্ঞাসা করেছিলেন, এবং আমি তাকে বলেছিলাম যে আমরা কষ্ট এবং দারিদ্র্যে বাস করছি।"</em><br /><br />
@@ -501,7 +501,7 @@ export default function IshmaelStory() {
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="flex-1">
-                            <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                            <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                         <strong>তাই তিনি তার স্ত্রীকে ডাকলেন এবং <span className="text-amber-600 dark:text-amber-500">ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) সম্পর্কে জিজ্ঞাসা করেছিলেন</span>।</strong>
@@ -548,7 +548,7 @@ export default function IshmaelStory() {
                         যখন ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ফিরে এসেছিলেন, তিনি তার স্ত্রীকে জিজ্ঞাসা করেছিলেন যে কেউ তাকে দেখতে এসেছিল কিনা।
                     </p>
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                 <em>"হ্যাঁ"</em> <strong>তিনি উত্তর দিয়েছিলেন।</strong><br />
@@ -594,7 +594,7 @@ export default function IshmaelStory() {
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
-                            <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                            <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                         <strong>ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) বলেছিলেন:</strong><br />
@@ -617,7 +617,7 @@ export default function IshmaelStory() {
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="flex-1">
-                            <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                            <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed italic">
                                         <strong>ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) বলেছিলেন যখন তিনি চারপাশের জমির চেয়ে উঁচু একটি টিলার দিকে ইশারা করছিলেন:</strong><br />
@@ -635,7 +635,7 @@ export default function IshmaelStory() {
                         </div>
                     </div>
 
-                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
+                    <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                 <strong className="text-amber-600 dark:text-amber-500">নবী (<span className="font-arabic">صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ</span>) যোগ করেছিলেন,</strong>
