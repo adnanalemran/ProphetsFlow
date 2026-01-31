@@ -28,7 +28,7 @@ export default function IshaqStory() {
                         ইসহাকের জন্ম
                     </h2>
 
-                    <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
+                    <div className="items-center flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="w-full md:w-1/3 flex-shrink-0 order-2 md:order-1">
                             <img 
                                 src="/images/prophet-stories/ishaq/prophet-ibrahim-calligraphy.png" 
