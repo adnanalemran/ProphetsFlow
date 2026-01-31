@@ -41,7 +41,7 @@ export default function IshmaelStory() {
                                 নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) এবং তার স্ত্রী সারাহ, যিনি অনেক বছর ধরে সন্তান জন্ম দিতে অক্ষম ছিলেন, একাকীত্ব দূর করতে এবং পরিবারের উত্তরাধিকার বহন করার জন্য একটি সন্তানের আকাঙ্ক্ষা করেছিলেন। তার স্বামীর প্রতি তার নিষ্ঠায়,
                             </p>
                             <p className="mb-4">
-                                <strong>সারাহ প্রস্তাব করেছিলেন যে তার দাসী হাজেরা ইব্রাহিমকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) বিয়ে করবে</strong> এই আকাঙ্ক্ষা পূরণের আশায়। <br /><br /><strong>এই মিলন শীঘ্রই তাদের প্রথম পুত্র দিয়ে আশীর্বাদ করেছিল, <span className="text-amber-600 dark:text-amber-500">ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>)।</span></strong> ইসমাইল, তার পিতার মতো, আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) দ্বারা একজন মহান নবী হিসেবে কাজ করার জন্য নিযুক্ত হয়েছিলেন।
+                                <strong>সারাহ প্রস্তাব করেছিলেন যে তার দাসী হাজেরা ইব্রাহিমকে (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) বিয়ে করবে</strong> এই আকাঙ্ক্ষা পূরণের আশায়। <br /><br /><strong>এই মিলন শীঘ্রই তাদের প্রথম পুত্র দিয়ে আশীর্বাদ করেছিল, <span className="text-amber-600 dark:text-amber-500">ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّلَاَمُ</span>)।</span></strong> ইসমাইল, তার পিতার মতো, আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) দ্বারা একজন মহান নবী হিসেবে কাজ করার জন্য নিযুক্ত হয়েছিলেন।
                             </p>
                         </div>
                     </div>
@@ -55,11 +55,11 @@ export default function IshmaelStory() {
                 {/* Prophet Ibrahim's Departure */}
                 <section className="my-8 md:my-12">
                     <h2 className="text-xl md:text-2xl font-bold mb-6 text-gray-900 dark:text-white border-l-4 border-amber-500 pl-4 text-center">
-                        <span className="text-amber-600 dark:text-amber-500">নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>)</span>-এর প্রস্থান
+                        <span className="text-amber-600 dark:text-amber-500">নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>)</span>-এর প্রস্থান
                     </h2>
 
                     <p className="mb-4">
-                        একদিন, নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) হাজেরাকে একটি দীর্ঘ যাত্রার জন্য নিজেকে এবং তাদের পুত্র ইসমাইলকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) প্রস্তুত করতে বলেছিলেন। হাজেরাকে যাত্রার কোন বিবরণ দেওয়া হয়নি; তবুও, তিনি তার স্বামীর কথা শুনেছিলেন।
+                        একদিন, নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) হাজেরাকে একটি দীর্ঘ যাত্রার জন্য নিজেকে এবং তাদের পুত্র ইসমাইলকে (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) প্রস্তুত করতে বলেছিলেন। হাজেরাকে যাত্রার কোন বিবরণ দেওয়া হয়নি; তবুও, তিনি তার স্বামীর কথা শুনেছিলেন।
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
@@ -90,13 +90,13 @@ export default function IshmaelStory() {
                         </div>
                         <div className="flex-1 order-1 md:order-2">
                             <p className="mb-4">
-                                তাদের এখনও স্তন্যপান করা শিশুকে নিয়ে হাজেরাকে নামাতে সাহায্য করার পর, <strong>নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তাকে খেজুরের একটি চামড়ার থলে এবং একটি ছোট পানির থলে দিয়েছিলেন</strong>। তিনি তারপর তার ঘোড়ায় চড়ে তার প্রত্যাবর্তন যাত্রায় রওনা দিয়েছিলেন।
+                                তাদের এখনও স্তন্যপান করা শিশুকে নিয়ে হাজেরাকে নামাতে সাহায্য করার পর, <strong>নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) তাকে খেজুরের একটি চামড়ার থলে এবং একটি ছোট পানির থলে দিয়েছিলেন</strong>। তিনি তারপর তার ঘোড়ায় চড়ে তার প্রত্যাবর্তন যাত্রায় রওনা দিয়েছিলেন।
                             </p>
                         </div>
                     </div>
 
                     <p className="mb-4">
-                        নবী ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) আকস্মিক প্রস্থানে বিভ্রান্ত হয়ে, হাজেরা তার পিছনে দৌড়েছিলেন, একটি ব্যাখ্যা চাইছিলেন।
+                        নবী ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) আকস্মিক প্রস্থানে বিভ্রান্ত হয়ে, হাজেরা তার পিছনে দৌড়েছিলেন, একটি ব্যাখ্যা চাইছিলেন।
                     </p>
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
@@ -111,7 +111,7 @@ export default function IshmaelStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="flex-1">
                             <p className="mb-4">
-                                ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) কাছ থেকে কোন উত্তর না পেয়ে, হাজেরা তার প্রশ্নটি কয়েকবার পুনরাবৃত্তি করেছিলেন। তারপর তার কাছে স্পষ্ট হয়ে উঠেছিল যে তিনি নীরব ছিলেন কারণ তিনি সর্বশক্তিমানের কাছ থেকে একটি আদেশ সম্মান করছিলেন।
+                                ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) কাছ থেকে কোন উত্তর না পেয়ে, হাজেরা তার প্রশ্নটি কয়েকবার পুনরাবৃত্তি করেছিলেন। তারপর তার কাছে স্পষ্ট হয়ে উঠেছিল যে তিনি নীরব ছিলেন কারণ তিনি সর্বশক্তিমানের কাছ থেকে একটি আদেশ সম্মান করছিলেন।
                             </p>
                             <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                                 <CardContent className="pt-6">
@@ -136,13 +136,13 @@ export default function IshmaelStory() {
                     </div>
 
                     <p className="mb-4">
-                        হাজেরা তারপর গাছের ছায়ায় ফিরে গিয়েছিলেন, ইব্রাহিমকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) বাড়ির দিকে এগিয়ে যেতে দেখছিলেন।
+                        হাজেরা তারপর গাছের ছায়ায় ফিরে গিয়েছিলেন, ইব্রাহিমকে (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) বাড়ির দিকে এগিয়ে যেতে দেখছিলেন।
                     </p>
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic">
-                                <strong>নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>), একটি ভারী হৃদয় এবং এমন অনুর্বর জমিতে তার পরিবারকে রেখে যাওয়ার উদ্বেগ নিয়ে, প্রার্থনায় তার হাত তুলেছিলেন:</strong><br />
+                                <strong>নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>), একটি ভারী হৃদয় এবং এমন অনুর্বর জমিতে তার পরিবারকে রেখে যাওয়ার উদ্বেগ নিয়ে, প্রার্থনায় তার হাত তুলেছিলেন:</strong><br />
                                 <em>"হে আমাদের রব! আমি আমার কিছু সন্তানকে আপনার পবিত্র ঘরের কাছে একটি অনুর্বর উপত্যকায় বসতি স্থাপন করেছি! হে আমাদের রব! আমি এটি করেছি যাতে তারা নামাজ প্রতিষ্ঠা করতে পারে। তাই লোকদের হৃদয়কে তাদের প্রতি স্নেহপূর্ণভাবে ঝুঁকিয়ে দিন, এবং তাদের জীবিকার জন্য ফল প্রদান করুন যাতে তারা কৃতজ্ঞতা প্রকাশ করতে পারে। হে আমাদের রব! নিশ্চয়ই আপনি জানেন আমরা যা গোপন করি এবং আমরা যা প্রকাশ করি, এবং পৃথিবীতে বা আকাশে কিছুই আল্লাহর কাছ থেকে লুকানো নেই।"</em><br />
                                 <span className="text-xs text-gray-600 dark:text-gray-400">— (সূরা ইব্রাহিম, আয়াত ৩৭-৩৮)</span>
                             </p>
@@ -162,7 +162,7 @@ export default function IshmaelStory() {
                     </h2>
 
                     <p className="mb-4">
-                        হাজেরা তার সন্তানকে স্তন্যপান করানো অব্যাহত রেখেছিলেন এবং নবী ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) রেখে যাওয়া খেজুর এবং পানি রেশন করেছিলেন। <strong>যাইহোক, রেখে যাওয়া সরবরাহ দ্রুত শেষ হয়ে গিয়েছিল, তাদের দুজনকেই একটি অনুর্বর মরুভূমি উপত্যকার মাঝখানে ক্ষুধার্ত রেখে।</strong>
+                        হাজেরা তার সন্তানকে স্তন্যপান করানো অব্যাহত রেখেছিলেন এবং নবী ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) রেখে যাওয়া খেজুর এবং পানি রেশন করেছিলেন। <strong>যাইহোক, রেখে যাওয়া সরবরাহ দ্রুত শেষ হয়ে গিয়েছিল, তাদের দুজনকেই একটি অনুর্বর মরুভূমি উপত্যকার মাঝখানে ক্ষুধার্ত রেখে।</strong>
                     </p>
 
                     <img 
@@ -172,7 +172,7 @@ export default function IshmaelStory() {
                     />
 
                     <p className="mb-4 text-center text-sm italic">
-                        তার শিশুর তৃষ্ণা এবং ক্ষুধার কারণে ছটফট করতে দেখে হাজেরা সাহায্য চেয়েছিলেন। <strong>তিনি ইসমাইলকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) রেখে গিয়েছিলেন নিকটতম পাহাড়ে আরোহণ করতে, <span className="text-amber-600 dark:text-amber-500">আস-সাফা</span>।</strong>
+                        তার শিশুর তৃষ্ণা এবং ক্ষুধার কারণে ছটফট করতে দেখে হাজেরা সাহায্য চেয়েছিলেন। <strong>তিনি ইসমাইলকে (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) রেখে গিয়েছিলেন নিকটতম পাহাড়ে আরোহণ করতে, <span className="text-amber-600 dark:text-amber-500">আস-সাফা</span>।</strong>
                     </p>
                     <p className="mb-4 text-center text-sm italic">
                         শীর্ষে কোন সাহায্য বা পানি না পেয়ে, <span className="text-amber-600 dark:text-amber-500">তিনি সাফা পর্বত থেকে নেমে এসেছিলেন, এবং তারপর আরেকটি নিকটবর্তী পাহাড়ে আরোহণ করেছিলেন যার নাম মারওয়া</span>। তবুও, তিনি দৃষ্টিতে বালি ছাড়া কিছুই দেখেননি।
@@ -261,7 +261,7 @@ export default function IshmaelStory() {
                     </Card>
 
                     <p className="mb-4">
-                        <strong>যখন তারা পৌঁছেছিল, তারা হাজেরা এবং ইসমাইলকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) জলাধারের পাশে বসে থাকতে দেখেছিল।</strong>
+                        <strong>যখন তারা পৌঁছেছিল, তারা হাজেরা এবং ইসমাইলকে (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) জলাধারের পাশে বসে থাকতে দেখেছিল।</strong>
                     </p>
 
                     <img 
@@ -279,7 +279,7 @@ export default function IshmaelStory() {
                                 <strong>তিনি উত্তর দিয়েছিলেন।</strong>
                             </p>
                             <p className="text-sm md:text-base leading-relaxed italic">
-                                তারা সহজেই সম্মত হয়েছিল এবং হাজেরা এবং ইসমাইলের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) সাথে বসতি স্থাপন করেছিল, তাদের জমি এবং জলাধার ভাগ করে নিয়েছিল।
+                                তারা সহজেই সম্মত হয়েছিল এবং হাজেরা এবং ইসমাইলের (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) সাথে বসতি স্থাপন করেছিল, তাদের জমি এবং জলাধার ভাগ করে নিয়েছিল।
                             </p>
                             <p className="text-sm md:text-base leading-relaxed italic mt-4">
                                 জুরহুম গোত্রের লোকেরা তারপর তাদের পরিবারের জন্য পাঠিয়েছিল, যারা এসেছিল এবং পরে মক্কার স্থায়ী বাসিন্দা হয়ে উঠেছিল।
@@ -288,7 +288,7 @@ export default function IshmaelStory() {
                     </Card>
 
                     <p className="mb-4">
-                        ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) জুরহুম গোত্রের মধ্যে বড় হয়েছিলেন এবং তাদের কাছ থেকে আরবি শিখেছিলেন। তিনি তার অসাধারণ চরিত্র এবং গুণাবলীর জন্য গোত্র দ্বারা প্রিয় ছিলেন। <strong>যখন তিনি পরিপক্কতার বয়সে পৌঁছেছিলেন, <span className="text-amber-600 dark:text-amber-500">তিনি (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তাদের মধ্যে থেকে একজন মহিলাকে বিয়ে করেছিলেন</span></strong>। হাদীস সংক্ষেপে সারাহের মৃত্যুর উল্লেখ করে, কিন্তু কুরআন বা হাদীস এই ঘটনার কোন বিবরণ রেকর্ড করে না।
+                        ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) জুরহুম গোত্রের মধ্যে বড় হয়েছিলেন এবং তাদের কাছ থেকে আরবি শিখেছিলেন। তিনি তার অসাধারণ চরিত্র এবং গুণাবলীর জন্য গোত্র দ্বারা প্রিয় ছিলেন। <strong>যখন তিনি পরিপক্কতার বয়সে পৌঁছেছিলেন, <span className="text-amber-600 dark:text-amber-500">তিনি (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) তাদের মধ্যে থেকে একজন মহিলাকে বিয়ে করেছিলেন</span></strong>। হাদীস সংক্ষেপে সারাহের মৃত্যুর উল্লেখ করে, কিন্তু কুরআন বা হাদীস এই ঘটনার কোন বিবরণ রেকর্ড করে না।
                     </p>
                 </section>
 
@@ -304,7 +304,7 @@ export default function IshmaelStory() {
                     </h2>
 
                     <p className="mb-4">
-                        <strong>একদিন, নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) মক্কায় ইসমাইলকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) দেখতে গিয়েছিলেন</strong>। এই বয়সে ইসমাইল তার পিতার সাথে কাজ করার জন্য যথেষ্ট পরিপক্ক হয়েছিলেন।
+                        <strong>একদিন, নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) মক্কায় ইসমাইলকে (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) দেখতে গিয়েছিলেন</strong>। এই বয়সে ইসমাইল তার পিতার সাথে কাজ করার জন্য যথেষ্ট পরিপক্ক হয়েছিলেন।
                     </p>
 
                     <img 
@@ -321,7 +321,7 @@ export default function IshmaelStory() {
                                 <span className="text-xs text-gray-600 dark:text-gray-400">— (সূরা আস-সাফফাত, আয়াত ১০২)</span>
                             </p>
                             <p className="text-sm md:text-base leading-relaxed italic">
-                                <strong>ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) উত্তর দিয়েছিলেন:</strong><br />
+                                <strong>ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) উত্তর দিয়েছিলেন:</strong><br />
                                 <em>"হে আমার পিতা! <strong>যা আপনাকে আদেশ করা হয়েছে তা করুন, ইনশাআল্লাহ (যদি আল্লাহ চান), আপনি আমাকে <span className="text-amber-600 dark:text-amber-500">আস-সাবিরিন</span> (ধৈর্যশীলদের, ইত্যাদি) মধ্যে পাবেন।</strong>"</em><br />
                                 <span className="text-xs text-gray-600 dark:text-gray-400">— (সূরা আস-সাফফাত, আয়াত ১০২)</span>
                             </p>
@@ -333,11 +333,11 @@ export default function IshmaelStory() {
                     </p>
 
                     <p className="mb-4">
-                        নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তার বৃদ্ধ বয়সে ছিলেন, তার প্রথমজাতের জন্য অধ্যবসায় সহকারে প্রার্থনা করছিলেন, এবং আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) তাকে তার হৃদয়ের আকাঙ্ক্ষা দিয়েছিলেন। তিনি তার পুত্রকে ভালোবাসতেন, কিন্তু তাকে আল্লাহর ইচ্ছার কাছে সমর্পণ করতে হয়েছিল। এটি ছিল সম্পূর্ণ বিশ্বাস এবং আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) এর কাছে সম্পূর্ণ সমর্পণের সর্বোচ্চ পরীক্ষা যা কোন ব্যক্তির উপর হতে পারে।
+                        নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) তার বৃদ্ধ বয়সে ছিলেন, তার প্রথমজাতের জন্য অধ্যবসায় সহকারে প্রার্থনা করছিলেন, এবং আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) তাকে তার হৃদয়ের আকাঙ্ক্ষা দিয়েছিলেন। তিনি তার পুত্রকে ভালোবাসতেন, কিন্তু তাকে আল্লাহর ইচ্ছার কাছে সমর্পণ করতে হয়েছিল। এটি ছিল সম্পূর্ণ বিশ্বাস এবং আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) এর কাছে সম্পূর্ণ সমর্পণের সর্বোচ্চ পরীক্ষা या कोन व्यक्ति के उपर हो सकता है।
                     </p>
 
                     <p className="mb-4">
-                        <strong>এটি ছিল তার একমাত্র পুত্র, এবং তার জীবন নেওয়ার ইচ্ছা এবং প্রস্তুতি <span className="text-amber-600 dark:text-amber-500">ছিল পরীক্ষা</span></strong>। ইসমাইলের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) শান্ত আচরণ এবং সহযোগিতা সমানভাবে প্রশংসা এবং অধ্যয়নের যোগ্য।
+                        <strong>এটি ছিল তার একমাত্র পুত্র, এবং তার জীবন নেওয়ার ইচ্ছা এবং প্রস্তুতি <span className="text-amber-600 dark:text-amber-500">ছিল পরীক্ষা</span></strong>। ইসমাইলের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) শান্ত আচরণ এবং সহযোগিতা সমানভাবে প্রশংসা এবং অধ্যয়নের যোগ্য।
                     </p>
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
@@ -350,7 +350,7 @@ export default function IshmaelStory() {
                     </Card>
 
                     <p className="mb-4">
-                        নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ইসমাইলকে তার সাথে আরাফাত পর্বতে যেতে বলেছিলেন কুরবানি করতে। নির্দিষ্ট ঐতিহাসিক এবং ব্যাখ্যামূলক উৎস অনুযায়ী, এটি আমাদের বলে যে <strong>শয়তান তিনটি পৃথক উপলক্ষে নবী ইব্রাহিমকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) প্রলুব্ধ করার চেষ্টা করেছিল <span className="text-amber-600 dark:text-amber-500">জামারাত-আল-উলা, জামারাত-আল-ওস্তা, এবং জামারাত-আল-কুবরা।</span></strong>
+                        নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) ইসমাইলকে তার সাথে আরাফাত পর্বতে যেতে বলেছিলেন কুরবানি করতে। নির্দিষ্ট ঐতিহাসিক এবং ব্যাখ্যামূলক উৎস অনুযায়ী, এটি আমাদের বলে যে <strong>শয়তান তিনটি পৃথক উপলক্ষে নবী ইব্রাহিমকে (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) প্রলুব্ধ করার চেষ্টা করেছিল <span className="text-amber-600 dark:text-amber-500">জামারাত-আল-উলা, জামারাত-আল-ওস্তা, এবং জামারাত-আল-কুবরা।</span></strong>
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
@@ -363,7 +363,7 @@ export default function IshmaelStory() {
                         </div>
                         <div className="flex-1 order-1 md:order-2">
                             <p className="mb-4">
-                                প্রতিটি সাক্ষাতের সাথে, শয়তানের ইব্রাহিমকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) প্রভাবিত করার প্রচেষ্টা তীব্রতর হয়েছিল।<br /><br />
+                                প্রতিটি সাক্ষাতের সাথে, শয়তানের ইব্রাহিমকে (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) প্রভাবিত করার প্রচেষ্টা তীব্রতর হয়েছিল।<br /><br />
                                 যাইহোক, তিনি এই প্রলোভনগুলি এড়িয়ে গিয়েছিলেন, <strong>প্রতিটি স্থানে শয়তানকে <span className="text-amber-600 dark:text-amber-500">সাতটি নুড়ি</span> ছুঁড়ে</strong>, তাকে তাড়িয়ে দিয়েছিলেন।
                             </p>
                             <img 
@@ -377,7 +377,7 @@ export default function IshmaelStory() {
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
-                                <strong>তাফসীর, মা'রিফুল কুরআন, নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) এবং তার পুত্রের মধ্যে কথোপকথন বর্ণনা করে, নিম্নরূপ:</strong><br />
+                                <strong>তাফসীর, মা'রিফুল কুরআন, নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) এবং তার পুত্রের মধ্যে কথোপকথন বর্ণনা করে, নিম্নরূপ:</strong><br />
                                 <em>"আমার প্রিয় পিতা, আমাকে ভালোভাবে বেঁধে রাখ যাতে আমার শরীর খুব বেশি ছটফট না করে; এবং আপনার পোশাকও সুরক্ষিত রাখুন, পাছে আমার রক্তের ফোঁটা এটি নষ্ট করে যা আল্লাহর সাথে আমার পুরস্কার কমাতে পারে, এবং তদুপরি, যদি আমার মা এই রক্ত দেখতেন, তিনি কার্যত দুঃখে আক্রান্ত হতেন।<br /><br />
                                 এবং আপনার ছুরি ধারালো করুন, এবং আমার গলায় দ্রুত চালান, যাতে আমার শেষ শ্বাস আমার উপর সহজ হয়, কারণ মৃত্যু কঠিন; এবং যখন আপনি আমার মায়ের কাছে ফিরে যাবেন, আমার প্রতি তার সম্মান জানাবেন এবং যদি আপনি আমার শার্ট তাকে নিতে চান, আপনি স্বাগত, এটি তাকে যে সান্ত্বনার প্রয়োজন তা দিতে পারে।"</em>
                             </p>
@@ -385,7 +385,7 @@ export default function IshmaelStory() {
                                 তার একমাত্র পুত্রের ঠোঁট থেকে আসা এই কথাগুলি শুনে, কে কল্পনা করতে পারে যে তার হৃদয়ে কী চলছিল।
                             </p>
                             <p className="text-sm md:text-base leading-relaxed italic">
-                                <strong>কিন্তু, এখানে ছিল সাইয়্যিদনা ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>)। দৃঢ়তার একটি পর্বতের মতো, তিনি তার পুত্রকে বলেছিলেন,</strong><br />
+                                <strong>কিন্তু, এখানে ছিল সাইয়্যিদনা ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>)। দৃঢ়তার একটি পর্বতের মতো, তিনি তার পুত্রকে বলেছিলেন,</strong><br />
                                 <em>"পুত্র, আল্লাহ দ্বারা নির্ধারিত এই কাজে তুমি আমার জন্য কত ভালো সাহায্যকারী।"</em><br /><br />
                                 <strong>এটি বলার পর, তিনি তার পুত্রকে চুম্বন করেছিলেন এবং, ভেজা চোখে, তিনি তাকে বেঁধেছিলেন।</strong><br /><br />
                                 <strong className="text-amber-600 dark:text-amber-500">কুরআনের আয়াতটি তারপর অব্যাহত থাকে,</strong><br />
@@ -398,8 +398,8 @@ export default function IshmaelStory() {
                     <p className="mb-4">
                         <strong>তাকে কুরবানির জন্য প্রস্ট্রেট করতে দেওয়ার কয়েকটি কারণ রয়েছে।</strong><br />
                         <strong className="text-amber-600 dark:text-amber-500">একটি</strong>, এটি একটি প্রতীকী অঙ্গভঙ্গি হিসাবে দেখা যেতে পারে যা আরও উদাহরণ দেয় যে তারা আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) এর ইচ্ছার কাছে সম্পূর্ণ সমর্পণ।<br /><br />
-                        <strong className="text-amber-600 dark:text-amber-500">দ্বিতীয়ত</strong>, এটি ইব্রাহিমকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তার পুত্রের চোখে তাকানো এড়াতে সাহায্য করেছিল, একটি দৃশ্য যা সম্ভবত করুণা এবং ভালোবাসার অনুভূতি জাগিয়ে তুলবে একই সাথে আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) আদেশ অমান্য করার ভয়ও থাকবে।<br />
-                        তাই, নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) এবং তার পুত্র একটি অসম্ভব কাজকে কিছুটা সহজ করার জন্য ছুরিটিকে তার নিচ থেকে উঠিয়ে আসার জন্য অবস্থান বেছে নিয়েছিলেন।
+                        <strong className="text-amber-600 dark:text-amber-500">দ্বিতীয়ত</strong>, এটি ইব্রাহিমকে (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) তার পুত্রের চোখে তাকানো এড়াতে সাহায্য করেছিল, একটি দৃশ্য যা সম্ভবত করুণা এবং ভালোবাসার অনুভূতি জাগিয়ে তুলবে একই সাথে আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) আদেশ অমান্য করার ভয়ও থাকবে।<br />
+                        তাই, নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) এবং তার পুত্র একটি অসম্ভব কাজকে কিছুটা সহজ করার জন্য छूरिटिके तार निच थेके उठिये आसार जन्य अवस्था बेछे निये छिलेन।
                     </p>
 
                     <img 
@@ -409,7 +409,7 @@ export default function IshmaelStory() {
                     />
 
                     <p className="mb-4 text-center text-sm italic">
-                        নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) যখন তার পুত্রের গলায় ছুরি নিয়ে এসেছিলেন, একটি ঐশ্বরিক হস্তক্ষেপ ঘটেছিল। <span className="text-amber-600 dark:text-amber-500">অলৌকিকভাবে, ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) একটি ভেড়া দ্বারা প্রতিস্থাপিত হয়েছিল।</span> ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>), তার ভক্তির কাজটি সম্পন্ন করে, <span className="text-amber-600 dark:text-amber-500">পরিবর্তে ভেড়াটি জবাই করেছিলেন</span>। স্বস্তি এবং কৃতজ্ঞতায় অভিভূত হয়ে, তিনি ইসমাইলকে নিরাপদ এবং অক্ষত অবস্থায় দূরত্বে খুঁজে পেয়েছিলেন।
+                        নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) যখন তার পুত্রের গলায় ছুরি নিয়ে এসেছিলেন, একটি ঐশ্বরিক হস্তক্ষেপ ঘটেছিল। <span className="text-amber-600 dark:text-amber-500">অলৌকিকভাবে, ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) একটি ভেড়া দ্বারা প্রতিস্থাপিত হয়েছিল।</span> ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>), তার ভক্তির কাজটি সম্পন্ন করে, <span className="text-amber-600 dark:text-amber-500">পরিবর্তে ভেড়াটি জবাই করেছিলেন</span>। স্বস্তি এবং কৃতজ্ঞতায় অভিভূত হয়ে, তিনি ইসমাইলকে নিরাপদ এবং अक्षत अवस्थायः दूरत्वे खुजे पेयेन।
                     </p>
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
@@ -431,7 +431,7 @@ export default function IshmaelStory() {
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic">
                                 <strong className="text-amber-600 dark:text-amber-500">নোট</strong><br />
-                                <em>নবী ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) শক্তিশালী কুরবানির অনুসরণ করে, <strong>একটি প্রাণী জবাই করার অনুশীলনকে <span className="text-amber-600 dark:text-amber-500">হজ্জ তীর্থযাত্রীদের জন্য একটি অপরিহার্য কাজ</span> হিসাবে বিবেচনা করা হয় যা তাদের তীর্থযাত্রার সমাপ্তি চিহ্নিত করে।</strong> একইভাবে, জামারাতকে পাথর ছুঁড়ে মারাও হজ্জের বাধ্যতামূলক রীতিনীতিগুলির মধ্যে একটি।</em>
+                                <em>নবী ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) শক্তিশালী কুরবানির অনুসরণ করে, <strong>একটি প্রাণী জবাই করার অনুশীলনকে <span className="text-amber-600 dark:text-amber-500">হজ্জ তীর্থযাত্রীদের জন্য একটি অপরিহার্য কাজ</span> হিসাবে বিবেচনা করা হয় যা তাদের তীর্থযাত্রার সমাপ্তি চিহ্নিত করে।</strong> একইভাবে, জামারাতকে পাথর ছুঁড়ে মারাও হজ্জের বাধ্যতামূলক রীতিনীতিগুলির মধ্যে একটি।</em>
                             </p>
                         </CardContent>
                     </Card>
@@ -449,7 +449,7 @@ export default function IshmaelStory() {
                     </h2>
 
                     <p className="mb-4">
-                        হাজেরার মৃত্যুর পর, ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তার পুত্র ইসমাইলকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) এবং তার পরিবারকে দেখতে মক্কায় এসেছিলেন। যখন তিনি ইসমাইলের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) বাড়িতে পৌঁছেছিলেন, তিনি তার পুত্রের স্ত্রীর সাথে দেখা করেছিলেন। যখন তিনি ইসমাইলের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) অবস্থান সম্পর্কে জিজ্ঞাসা করেছিলেন, তিনি উত্তর দিয়েছিলেন যে তার স্বামী জীবিকা সন্ধানে গিয়েছিলেন।
+                        হাজেরার মৃত্যুর পর, ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) তার পুত্র ইসমাইলকে (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) এবং তার পরিবারকে দেখতে মক্কায় এসেছিলেন। যখন তিনি ইসমাইলের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) বাড়িতে পৌঁছেছিলেন, তিনি তার পুত্রের স্ত্রীর সাথে দেখা করেছিলেন। যখন তিনি ইসমাইলের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) অবস্থান সম্পর্কে জিজ্ঞাসা করেছিলেন, তিনি উত্তর দিয়েছিলেন যে তার স্বামী জীবিকা সন্ধানে गिये छिले।
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
@@ -457,11 +457,11 @@ export default function IshmaelStory() {
                             <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed italic mb-4">
-                                        <strong>নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তারপর তাকে <span className="text-amber-600 dark:text-amber-500">তাদের জীবনযাত্রার অবস্থা</span> সম্পর্কে জিজ্ঞাসা করেছিলেন।</strong><br /><br />
+                                        <strong>নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) তারপর তাকে <span className="text-amber-600 dark:text-amber-500">তাদের জীবনযাত্রার অবস্থা</span> সম্পর্কে জিজ্ঞাসা করেছিলেন।</strong><br /><br />
                                         <em>"আমরা দুর্দশায় বাস করছি; আমরা কষ্ট এবং দারিদ্র্যে বাস করছি,"</em><br />
                                         <strong>তিনি অভিযোগ করেছিলেন।</strong><br /><br />
-                                        <strong>নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) উত্তর দিয়েছিলেন:</strong><br />
-                                        <em>"যখন তোমার স্বামী ফিরে আসবে, আমার সালাম তাকে জানাবে এবং তাকে বল যে সে তার দরজার (তার বাড়ির) চৌকাঠ পরিবর্তন করবে।"</em>
+                                        <strong>নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) উত্তর দিয়েছিলেন:</strong><br />
+                                        <em>"যখন তোমার স্বামী ফিরে আসবে, আমার সালাম তাকে জানাবে এবং তাকে বল যে সে তার দরজার (তার বাড়ির) চৌকাঠ  (পরিবর্তন) করবে।"</em>
                                     </p>
                                 </CardContent>
                             </Card>
@@ -476,14 +476,14 @@ export default function IshmaelStory() {
                     </div>
 
                     <p className="mb-4">
-                        যখন ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ফিরে এসেছিলেন, তিনি কিছু অস্বাভাবিক অনুভব করেছিলেন, তাই তিনি তার স্ত্রীকে জিজ্ঞাসা করেছিলেন যে কেউ তাকে দেখতে এসেছিল কিনা।
+                        যখন ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) ফিরে এসেছিলেন, তিনি কিছু অস্বাভাবিক অনুভব করেছিলেন, তাই তিনি তার স্ত্রীকে জিজ্ঞাসা করেছিলেন যে কেউ তাকে দেখতে এসেছিল কিনা।
                     </p>
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                 <em>"হ্যাঁ"</em> <strong>তিনি উত্তর দিয়েছিলেন।</strong> <em>"একজন বৃদ্ধ ব্যক্তি এমন-এমন বর্ণনার এসেছিলেন এবং আমাকে আপনার সম্পর্কে জিজ্ঞাসা করেছিলেন, এবং আমি তাকে জানিয়েছিলাম, এবং তিনি আমাদের জীবনযাত্রার অবস্থা সম্পর্কে জিজ্ঞাসা করেছিলেন, এবং আমি তাকে বলেছিলাম যে আমরা কষ্ট এবং দারিদ্র্যে বাস করছি।"</em><br /><br />
-                                <em>"তিনি কি আপনাকে কোন পরামর্শ দিয়েছিলেন?"</em> <strong>ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) জিজ্ঞাসা করেছিলেন</strong><br /><br />
+                                <em>"তিনি কি আপনাকে কোন পরামর্শ দিয়েছিলেন?"</em> <strong>ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) জিজ্ঞাসা করেছিলেন</strong><br /><br />
                                 <em>"হ্যাঁ, তিনি আমাকে বলেছিলেন যে আমি আপনার কাছে তার সালাম জানাব এবং আপনাকে বলব যে আপনি আপনার দরজার চৌকাঠ পরিবর্তন করবেন,"</em> <strong>তিনি বলেছিলেন।</strong><br /><br />
                                 <strong>ইসমাইল বুঝতে পারলেন যে এটি তার পিতা ছিলেন এবং <span className="text-amber-600 dark:text-amber-500">এনকোড করা বার্তাটি বুঝতে পারলেন</span>; তিনি বলেছিলেন,</strong><br />
                                 <em>"এটি ছিল আমার পিতা, এবং আপনি দরজার চৌকাঠ। তিনি আমাকে আপনাকে তালাক দেওয়ার নির্দেশ দিয়েছেন। তাই, আপনার পরিবারের কাছে ফিরে যান।"</em>
@@ -496,7 +496,7 @@ export default function IshmaelStory() {
                     </p>
 
                     <p className="mb-4">
-                        কিছু সময় পর, নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তার পুত্রকে আবার দেখতে মক্কায় ভ্রমণ করেছিলেন কিন্তু তাকে খুঁজে পাননি।
+                        কিছু সময় পর, নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) তার পুত্রকে আবার দেখতে মক্কায় ভ্রমণ করেছিলেন কিন্তু তাকে খুঁজে পাননি।
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
@@ -504,7 +504,7 @@ export default function IshmaelStory() {
                             <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed italic mb-4">
-                                        <strong>তাই তিনি তার স্ত্রীকে ডাকলেন এবং <span className="text-amber-600 dark:text-amber-500">ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) সম্পর্কে জিজ্ঞাসা করেছিলেন</span>।</strong>
+                                        <strong>তাই তিনি তার স্ত্রীকে ডাকলেন এবং <span className="text-amber-600 dark:text-amber-500">ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) সম্পর্কে জিজ্ঞাসা করেছিলেন</span>।</strong>
                                     </p>
                                     <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                         <em>"তিনি আমাদের জীবিকা সন্ধানে গিয়েছেন,"</em><br />
@@ -521,10 +521,10 @@ export default function IshmaelStory() {
                                         <em>"তোমরা কী পান কর?"</em> <strong>তিনি জিজ্ঞাসা করেছিলেন</strong><br /><br />
                                         <em>"পানি,"</em> <strong>তিনি উত্তর দিয়েছিলেন।</strong><br /><br />
                                         <em>"হে আল্লাহ! তাদের মাংস এবং পানি বরকত দাও,"</em><br />
-                                        <strong>নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কে প্রার্থনা করেছিলেন।</strong>
+                                        <strong>নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কে প্রার্থনা করেছিলেন।</strong>
                                     </p>
                                     <p className="text-sm md:text-base leading-relaxed italic">
-                                        <strong>তারপর, নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তার স্ত্রীকে নির্দেশ দিয়েছিলেন:</strong><br />
+                                        <strong>তারপর, নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) তার স্ত্রীকে নির্দেশ দিয়েছিলেন:</strong><br />
                                         <em>"যখন তোমার স্বামী আসবে, আমার সালাম তাকে জানাবে এবং তাকে বল যে সে তার দরজার চৌকাঠ দৃঢ় রাখবে।"</em>
                                     </p>
                                 </CardContent>
@@ -545,7 +545,7 @@ export default function IshmaelStory() {
                     </div>
 
                     <p className="mb-4">
-                        যখন ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ফিরে এসেছিলেন, তিনি তার স্ত্রীকে জিজ্ঞাসা করেছিলেন যে কেউ তাকে দেখতে এসেছিল কিনা।
+                        যখন ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) ফিরে এসেছিলেন, তিনি তার স্ত্রীকে জিজ্ঞাসা করেছিলেন যে কেউ তাকে দেখতে এসেছিল কিনা।
                     </p>
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
@@ -559,11 +559,11 @@ export default function IshmaelStory() {
                                 <em>"তিনি আপনাকে সম্পর্কে জিজ্ঞাসা করেছিলেন, এবং আমি তাকে জানিয়েছিলাম যে আমরা ভালো অবস্থায় আছি।"</em>
                             </p>
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
-                                <em>"তিনি কি আপনাকে কোন পরামর্শ দিয়েছিলেন?"</em> <strong>ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) জিজ্ঞাসা করেছিলেন।</strong><br /><br />
+                                <em>"তিনি কি আপনাকে কোন পরামর্শ দিয়েছিলেন?"</em> <strong>ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) জিজ্ঞাসা করেছিলেন।</strong><br /><br />
                                 <em>"হ্যাঁ, তিনি আমাকে বলেছিলেন যে আমি আপনার কাছে তার সালাম জানাব এবং নির্দেশ দিয়েছিলেন যে আপনি আপনার দরজার চৌকাঠ দৃঢ় রাখবেন,"</em> <strong>তিনি বলেছিলেন।</strong>
                             </p>
                             <p className="text-sm md:text-base leading-relaxed italic">
-                                <em>"এটি ছিল আমার পিতা, এবং আপনি দরজার চৌকাঠ। <span className="text-amber-600 dark:text-amber-500">তিনি আমাকে নির্দেশ দিয়েছেন যে আমি আপনাকে আমার সাথে রাখব</span>,"</em> <strong>ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) উল্লেখ করেছিলেন।</strong>
+                                <em>"এটি ছিল আমার পিতা, এবং আপনি দরজার চৌকাঠ। <span className="text-amber-600 dark:text-amber-500">তিনি আমাকে নির্দেশ দিয়েছেন যে আমি আপনাকে আমার সাথে রাখব</span>,"</em> <strong>ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) উল্লেখ করেছিলেন।</strong>
                             </p>
                         </CardContent>
                     </Card>
@@ -581,8 +581,8 @@ export default function IshmaelStory() {
                     </h2>
 
                     <p className="mb-4">
-                        ইবনে আব্বাস হাদীসে উল্লেখ করতে থাকেন যে, একদিন, ইব্রাহিম (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) আবার মক্কায় ইসমাইলকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) দেখতে গিয়েছিলেন। যখন তিনি পৌঁছেছিলেন, তিনি ইসমাইলকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) জমজমের পাশে একটি গাছের নিচে বসে থাকতে দেখেছিলেন, তার তীর ধারালো করছিলেন।<br /><br />
-                        তার পিতাকে চিনতে পেরে, ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তৎক্ষণাৎ দাঁড়িয়েছিলেন এবং তাকে উষ্ণ অভিবাদন জানিয়েছিলেন। ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তারপর তার পুত্রকে একটি মহান কাজ সম্পর্কে জানিয়েছিলেন যা আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) তাকে দিয়েছিলেন।
+                        ইবনে আব্বাস হাদীসে উল্লেখ করতে থাকেন যে, একদিন, ইব্রাহিম (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) আবার মক্কায় ইসমাইলকে (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) দেখতে গিয়েছিলেন। যখন তিনি পৌঁছেছিলেন, তিনি ইসমাইলকে (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) জমজমের পাশে একটি গাছের নিচে বসে থাকতে দেখেছিলেন, তার তীর ধারালো করছিলেন।<br /><br />
+                        তার পিতাকে চিনতে পেরে, ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) তৎক্ষণাৎ দাঁড়িয়েছিলেন এবং তাকে উষ্ণ অভিবাদন জানিয়েছিলেন। ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) তারপর তার পুত্রকে একটি মহান কাজ সম্পর্কে জানিয়েছিলেন যা আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) তাকে দিয়েছিলেন।
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
@@ -597,8 +597,8 @@ export default function IshmaelStory() {
                             <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed italic mb-4">
-                                        <strong>ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) বলেছিলেন:</strong><br />
-                                        <em>"হে ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>)! আল্লাহ আমাকে একটি আদেশ দিয়েছেন।"</em>
+                                        <strong>ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) বলেছিলেন:</strong><br />
+                                        <em>"হে ইসমাইল (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>)! আল্লাহ আমাকে একটি আদেশ দিয়েছেন।"</em>
                                     </p>
                                     <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                         <strong>তার পুত্র উত্তর দিয়েছিলেন:</strong><br />
@@ -606,7 +606,7 @@ export default function IshmaelStory() {
                                     </p>
                                     <p className="text-sm md:text-base leading-relaxed italic">
                                         <em>"তুমি কি আমাকে সাহায্য করবে?"</em><br />
-                                        <strong>ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) জিজ্ঞাসা করেছিলেন।</strong><br /><br />
+                                        <strong>ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) জিজ্ঞাসা করেছিলেন।</strong><br /><br />
                                         <em>"আমি আপনাকে সাহায্য করব,"</em><br />
                                         <strong>ইসমাইল নিশ্চিত করেছিলেন।</strong>
                                     </p>
@@ -620,7 +620,7 @@ export default function IshmaelStory() {
                             <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed italic">
-                                        <strong>ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) বলেছিলেন যখন তিনি চারপাশের জমির চেয়ে উঁচু একটি টিলার দিকে ইশারা করছিলেন:</strong><br />
+                                        <strong>ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّلَى</span>) বলেছিলেন যখন তিনি চারপাশের জমির চেয়ে উঁচু একটি টিলার দিকে ইশারা করছিলেন:</strong><br />
                                         <em>"আল্লাহ আমাকে এখানে একটি ঘর নির্মাণ করতে আদেশ দিয়েছেন।"</em>
                                     </p>
                                 </CardContent>

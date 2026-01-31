@@ -257,7 +257,7 @@ export default function IdrisStory() {
                     </h2>
 
                     <p className="mb-6">
-                        যিনি প্রথম কলম দিয়ে লিখেছিলেন, কিছু উক্তি এবং বাণী রয়েছে যা নবী ইদ্রিসের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) শিক্ষা থেকে আসা বলে উল্লেখ করা হয়। এবং এখানে সেগুলি রয়েছে:
+                        যিনি প্রথম কলম দিয়ে লিখেছিলেন, কিছু উক্তি এবং বাণী রয়েছে যা নবী ইদ্রিসের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) শিক্ষা থেকে আসা বলে উল্লেখ করা হয়। এবং এখানে সেগুলি রয়েছে:
                     </p>
 
                     <Card className="my-4 bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 border-l-4 border-blue-500">
