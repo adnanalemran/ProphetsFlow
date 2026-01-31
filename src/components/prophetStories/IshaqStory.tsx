@@ -24,7 +24,7 @@ export default function IshaqStory() {
                 
                 {/* Birth of Ishaq */}
                 <section className="my-8 md:my-12">
-                    <h2 className="text-xl md:text-2xl font-bold mb-6 text-gray-900 dark:text-white border-l-4 border-amber-500 pl-4 text-center">
+                    <h2 className="text-xl md:text-2xl text-center font-bold mb-6 text-gray-900 dark:text-white border-l-4 border-amber-500 pl-4">
                         ইসহাকের জন্ম
                     </h2>
 
@@ -38,7 +38,7 @@ export default function IshaqStory() {
                             <img 
                                 src="/images/prophet-stories/ishaq/three-guests-angel.png" 
                                 alt="তিনজন অতিথি ফেরেশতা" 
-                                className="w-full h-auto rounded-lg object-cover"
+                                className="w-full h-64 rounded-lg object-cover"
                             />
                         </div>
                         <div className="flex-1 order-1 md:order-2">
@@ -54,7 +54,7 @@ export default function IshaqStory() {
                     <img 
                         src="/images/prophet-stories/ishaq/cooked-food-bg.png" 
                         alt="রান্না করা খাবার" 
-                        className="w-full h-auto rounded-lg my-6"
+                        className="w-full h-64 bg-cover rounded-lg my-6"
                     />
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
