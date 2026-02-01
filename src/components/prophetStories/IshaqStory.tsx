@@ -75,7 +75,7 @@ export default function IshaqStory() {
                     </Card>
 
                     <p className="mb-4 text-center">
-                        তাই একজন চাকর এসেছিল এবং তাদের জন্য একটি মোটা বাছুর ভাজা করেছিল, এবং নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) অতিথিদের খেতে আমন্ত্রণ করেছিলেন। কিন্তু, শীঘ্রই, <strong>তিনি লক্ষ্য করেছিলেন যে তাদের হাত খাবারের দিকে যাচ্ছিল না। <span className="text-amber-600 dark:text-amber-500">তার সন্দেহ জেগে উঠেছিল, এবং তিনি ভীত হয়ে পড়েছিলেন।</span></strong>
+                        তাই একজন চাকর এসেছিল এবং তাদের জন্য একটি মোটা বাছুর ভাজা করেছিল, এবং নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) অতিথিদের খেতে আমন্ত্রণ করেছিলেন। কিন্তু, শীঘ্রই, <strong>তিনি লক্ষ্য করেছিলেন যে তাদের হাত খাবারের দিকে যাচ্ছিল না। <span className="text-amber-600 dark:text-amber-500">তার সন্দেহ জেগে উঠেছিল, এবং তিনি ভীত হয়ে পড়েছিলেন।</span></strong>
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
@@ -106,7 +106,7 @@ export default function IshaqStory() {
                     />
 
                     <p className="mb-4 text-center text-sm italic">
-                        অতিথিরা ফেরেশতা ছিল কারণ তারা খায় বা পান করে না, এটি বুঝতে পেরে ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তাদের উদ্দেশ্য সম্পর্কে ভাবছিলেন।<br /><br /> তারা কি তাকে বা তার পরিবারকে তিরস্কার করতে এসেছিল? তার উদ্বেগ দূর করতে, তারা তাকে আশ্বস্ত করেছিল, <span className="text-amber-600 dark:text-amber-500">"ভয় পাবেন না। আমাদের লুতের লোকদের কাছে পাঠানো হয়েছে।"</span>
+                        অতিথিরা ফেরেশতা ছিল কারণ তারা খায় বা পান করে না, এটি বুঝতে পেরে ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) তাদের উদ্দেশ্য সম্পর্কে ভাবছিলেন।<br /><br /> তারা কি তাকে বা তার পরিবারকে তিরস্কার করতে এসেছিল? তার উদ্বেগ দূর করতে, তারা তাকে আশ্বস্ত করেছিল, <span className="text-amber-600 dark:text-amber-500">"ভয় পাবেন না। আমাদের লুতের লোকদের কাছে পাঠানো হয়েছে।"</span>
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
@@ -124,11 +124,11 @@ export default function IshaqStory() {
                         </div>
                         <div className="flex-1 order-1 md:order-2">
                             <p className="mb-4">
-                                তারা ইসহাক (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) এবং ইয়াকুবের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ভবিষ্যত জন্মের আনন্দদায়ক সংবাদও নিয়ে এসেছিল।
+                                তারা ইসহাক (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) এবং ইয়াকুবের (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) ভবিষ্যত জন্মের আনন্দদায়ক সংবাদও নিয়ে এসেছিল।
                             </p>
                             <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
                                 <CardContent className="pt-6">
-                                    <p className="text-sm md:text-base leading-relaxed italic">
+                                    <p className="text-center text-sm md:text-base leading-relaxed italic">
                                         <strong>"আমরা তাকে ইসহাকের সুসংবাদ দিয়েছিলাম, এবং ইসহাকের বাইরেও, ইয়াকুবের"</strong><br />
                                         <span className="text-xs text-gray-600 dark:text-gray-400">— (সূরা আল-হুদ, আয়াত ৭১)</span>
                                     </p>
@@ -191,19 +191,19 @@ export default function IshaqStory() {
                     </h2>
 
                     <p className="mb-4">
-                        নবী ইসহাকের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) জীবনের বিবরণ ইসলামী সাহিত্যে বিরল এবং সীমিত। যাইহোক, নির্ভরযোগ্য কুরআন ভাষ্যকাররা বর্ণনা করেন যে যখন নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) অনুভব করেছিলেন যে তার জীবন শেষ হয়ে আসছে, <strong className="text-amber-600 dark:text-amber-500">তিনি (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তার পুত্রের জন্য একজন ধার্মিক স্ত্রী খুঁজেছিলেন</strong>।
+                        নবী ইসহাকের (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) জীবনের বিবরণ ইসলামী সাহিত্যে বিরল এবং সীমিত। যাইহোক, নির্ভরযোগ্য কুরআন ভাষ্যকাররা বর্ণনা করেন যে যখন নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) অনুভব করেছিলেন যে তার জীবন শেষ হয়ে আসছে, <strong className="text-amber-600 dark:text-amber-500">তিনি (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) তার পুত্রের জন্য একজন ধার্মিক স্ত্রী খুঁজেছিলেন</strong>।
                     </p>
 
                     <p className="mb-4">
-                        নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) চাননি যে তার পুত্র ইসহাক (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) কানানীয়দের মধ্যে একজনকে বিয়ে করুক, কারণ তাদের মুশরিক বলে জানা গিয়েছিল। তাই, একটি উপযুক্ত সঙ্গী খুঁজে পেতে, তিনি ইরাকে তার বিশ্বস্ত চাকর, হারানকে একটি বধূ খুঁজতে পাঠিয়েছিলেন।
+                        নবী ইব্রাহিম (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) চাননি যে তার পুত্র ইসহাক (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) কানানীয়দের মধ্যে একজনকে বিয়ে করুক, কারণ তাদের মুশরিক বলে জানা গিয়েছিল। তাই, একটি উপযুক্ত সঙ্গী খুঁজে পেতে, তিনি ইরাকে তার বিশ্বস্ত চাকর, হারানকে একটি বধূ খুঁজতে পাঠিয়েছিলেন।
                     </p>
 
                     <p className="mb-4">
-                        <strong className="text-amber-600 dark:text-amber-500">চাকর রেবেকা (রিফাকাহ) নির্বাচন করেছিলেন</strong>, বেথুয়েলের কন্যা এবং মিলকাহ এবং নাহরের নাতনি, নবী ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ভাই। এই মিলন যমজ সন্তানের জন্ম দিয়ে আশীর্বাদ করেছিল: আল-এইস এবং নবী ইয়াকুব (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>)।
+                        <strong className="text-amber-600 dark:text-amber-500">চাকর রেবেকা (রিফাকাহ) নির্বাচন করেছিলেন</strong>, বেথুয়েলের কন্যা এবং মিলকাহ এবং নাহরের নাতনি, নবী ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) ভাই। এই মিলন যমজ সন্তানের জন্ম দিয়ে আশীর্বাদ করেছিল: আল-এইস এবং নবী ইয়াকুব (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>)।
                     </p>
 
                     <p className="mb-4">
-                        বর্ণনাগুলি আরও প্রকাশ করে যে আল-এইস ইয়াকুবের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) প্রতি ঈর্ষান্বিত ছিল পরবর্তীটির তাদের পিতার সাথে অনুকূলতা এবং তার প্রদত্ত নবুওয়তের কারণে। ইয়াকুব (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) আল-এইস থেকে এমন গুরুতর হুমকির সম্মুখীন হয়েছিলেন যে তিনি তার নিরাপত্তা নিশ্চিত করার জন্য দেশ থেকে পালিয়ে গিয়েছিলেন। নবী ইয়াকুব (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ইসরায়েলীদের পিতা হয়ে উঠেছিলেন।
+                        বর্ণনাগুলি আরও প্রকাশ করে যে আল-এইস ইয়াকুবের (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) প্রতি ঈর্ষান্বিত ছিল পরবর্তীটির তাদের পিতার সাথে অনুকূলতা এবং তার প্রদত্ত নবুওয়তের কারণে। ইয়াকুব (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) আল-এইস থেকে এমন গুরুতর হুমকির সম্মুখীন হয়েছিলেন যে তিনি তার নিরাপত্তা নিশ্চিত করার জন্য দেশ থেকে পালিয়ে গিয়েছিলেন। নবী ইয়াকুব (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) ইসরায়েলীদের পিতা হয়ে উঠেছিলেন।
                     </p>
                 </section>
 
@@ -219,7 +219,7 @@ export default function IshaqStory() {
                     </h2>
 
                     <p className="mb-4">
-                        নবী ইসহাক (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) অসুস্থ হয়ে পড়েছিলেন এবং মারা গিয়েছিলেন যখন তিনি <strong>একশ আট বছর বয়সী</strong> ছিলেন। তাকে তার পিতা, নবী ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) পাশে সমাহিত করা হয়েছিল।
+                        নবী ইসহাক (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) অসুস্থ হয়ে পড়েছিলেন এবং মারা গিয়েছিলেন যখন তিনি <strong>একশ আট বছর বয়সী</strong> ছিলেন। তাকে তার পিতা, নবী ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) পাশে সমাহিত করা হয়েছিল।
                     </p>
                 </section>
 
