@@ -65,7 +65,7 @@ export default function YahyaStory() {
                 </div>
 
                 {/* His early life and character */}
-                <section className="my-8 md:my-12">
+                <section className="bmy-8 md:my-12">
                     <h2 className="text-xl md:text-2xl font-bold text-gray-900 dark:text-white mb-6">
                         তার প্রাথমিক জীবন এবং <span className="text-amber-600 dark:text-amber-500">চরিত্র</span>
                     </h2>
