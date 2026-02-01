@@ -183,7 +183,7 @@ export default function LutStory() {
                                 তারা জানত যে তারা ভুল ছিল, কিন্তু তারা তার বার্তাকে তুচ্ছ করতে অব্যাহত রেখেছিল, প্রকাশ্যে তাকে উপহাস করছিল,<br />
                                 <em>"আমাদের কাছে আল্লাহর শাস্তি নিয়ে এস, যদি তুমি সত্যবাদী হও"</em><br />
                                 <span className="text-xs text-gray-600 dark:text-gray-400">— (সূরা আনকাবুত, আয়াত ৩০)</span><br /><br />
-                                এবং তাই, সদোমে একমাত্র পরিবার যারা আল্লাহকে (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) প্রশংসা করত তা ছিল নবী লুতের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>)। যখন তিনি এবং তার কন্যারাও তাদের ধর্মে অবিচল ছিলেন, তার স্ত্রী অবিশ্বাসের পথ বেছে নিয়েছিলেন। <span className="text-amber-600 dark:text-amber-500">নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তারপর তার হাত তুলে প্রার্থনা করেছিলেন,</span><br /><br />
+                                এবং তাই, সদোমে একমাত্র পরিবার যারা আল্লাহকে (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) প্রশংসা করত তা ছিল নবী লুতের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>)। যখন তিনি এবং তার কন্যারাও তাদের ধর্মে অবিচল ছিলেন, তার স্ত্রী অবিশ্বাসের পথ বেছে নিয়েছিলেন। <span className="text-amber-600 dark:text-amber-500">নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) তারপর তার হাত তুলে প্রার্থনা করেছিলেন,</span><br /><br />
                                 <em>হে আমার রব, দুর্নীতিগ্রস্ত লোকদের বিরুদ্ধে আমাকে সমর্থন কর।</em><br />
                                 <span className="text-xs text-gray-600 dark:text-gray-400">— (সূরা আনকাবুত, আয়াত ৩০)</span>
                             </p>
@@ -238,13 +238,13 @@ export default function LutStory() {
                         </div>
                         <div className="flex-1 order-1 md:order-2">
                             <p className="mb-4">
-                                <span className="text-amber-600 dark:text-amber-500">ফেরেশতারা তারপর সুদর্শন যুবকদের ছদ্মবেশে সদোমের দিকে এগিয়ে গিয়েছিলেন।</span> নবী লুতের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) কন্যা, একজন বিশ্বাসী, সুদর্শন পুরুষদের শহরে প্রবেশ করতে দেখেছিলেন এবং আতঙ্কিত হয়ে তার বাবার কাছে দৌড়ে গিয়েছিলেন এবং তিনজন পুরুষ সম্পর্কে তাকে জানিয়েছিলেন। নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) পুরুষদের কাছে গিয়েছিলেন এবং তাদের সদোম শহরে স্বাগত জানিয়েছিলেন। তিনি খুব ভালো জানতেন যে সদোমের পুরুষদের হাতে যুবকদের কী পরিণতি হবে, তাই তিনি তাদের নিজস্ব নিরাপত্তার জন্য শহর ছেড়ে যেতে রাজি করানোর উদ্দেশ্য করেছিলেন।
+                                <span className="text-amber-600 dark:text-amber-500">ফেরেশতারা তারপর সুদর্শন যুবকদের ছদ্মবেশে সদোমের দিকে এগিয়ে গিয়েছিলেন।</span> নবী লুতের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) কন্যা, একজন বিশ্বাসী, সুদর্শন পুরুষদের শহরে প্রবেশ করতে দেখেছিলেন এবং আতঙ্কিত হয়ে তার বাবার কাছে দৌড়ে গিয়েছিলেন এবং তিনজন পুরুষ সম্পর্কে তাকে জানিয়েছিলেন। নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) পুরুষদের কাছে গিয়েছিলেন এবং তাদের সদোম শহরে স্বাগত জানিয়েছিলেন। তিনি খুব ভালো জানতেন যে সদোমের পুরুষদের হাতে যুবকদের কী পরিণতি হবে, তাই তিনি তাদের নিজস্ব নিরাপত্তার জন্য শহর ছেড়ে যেতে রাজি করানোর উদ্দেশ্য করেছিলেন।
                             </p>
                         </div>
                     </div>
 
                     <p className="mb-4">
-                        কিন্তু নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) অতিথিদের ছেড়ে যেতে বলতে খুব লজ্জিত ছিলেন, তাই তিনি অতিথিদের তার বাড়িতে নিয়ে গিয়েছিলেন, নিশ্চিত করেছিলেন যে কেউ তিনজন সুদর্শন পুরুষকে দেখেনি।
+                        কিন্তু নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) অতিথিদের ছেড়ে যেতে বলতে খুব লজ্জিত ছিলেন, তাই তিনি অতিথিদের তার বাড়িতে নিয়ে গিয়েছিলেন, নিশ্চিত করেছিলেন যে কেউ তিনজন সুদর্শন পুরুষকে দেখেনি।
                     </p>
 
                     <p className="mb-4">
@@ -256,7 +256,7 @@ export default function LutStory() {
                             <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed italic mb-4">
-                                        <strong>নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) চিৎকার করেছিলেন:</strong><br />
+                                        <strong>নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) চিৎকার করেছিলেন:</strong><br />
                                         <em>"আমার অতিথিদের সম্পর্কে আমাকে অপমান করো না। তোমাদের মধ্যে কি একজন যুক্তিসঙ্গত ব্যক্তি নেই?"</em>
                                     </p>
                                     <p className="text-sm md:text-base leading-relaxed italic">
@@ -285,7 +285,7 @@ export default function LutStory() {
                                 <em>"এগুলি [জাতির মেয়েরা] আমার কন্যা [বৈধভাবে বিয়ে করতে] যদি তোমাদের অবশ্যই কাজ করতে হয়।"</em><br /><br />
                                 <strong>পুরুষরা উত্তর দিয়েছিল:</strong><br />
                                 <em>"তুমি ইতিমধ্যে জান যে আমাদের তোমার কন্যার প্রতি কোন আগ্রহ নেই; এবং নিশ্চয়ই, তুমি জান আমরা কী চাই।"</em><br /><br />
-                                <strong>নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) দুর্নীতিগ্রস্ত লোকদের বিরুদ্ধে অসহায় হয়ে পড়েছিলেন।</strong><br />
+                                <strong>নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) দুর্নীতিগ্রস্ত লোকদের বিরুদ্ধে অসহায় হয়ে পড়েছিলেন।</strong><br />
                                 <em>"যদি আমার তোমাদের বিরুদ্ধে কিছু শক্তি থাকত বা আমি একটি শক্তিশালী শক্তিতে আশ্রয় নিতে পারতাম,"</em> তিনি ভেবেছিলেন।<br /><br />
                                 <span className="text-amber-600 dark:text-amber-500">তিনজন পুরুষ তখন কথা বলেছিলেন:</span><br />
                                 <em>"হে লুত, নিশ্চয়ই আমরা তোমার রবের ফেরেশতা; [তাই] তারা কখনই তোমার কাছে পৌঁছাবে না।"</em>
@@ -324,7 +324,7 @@ export default function LutStory() {
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic">
-                                <strong className="text-amber-600 dark:text-amber-500">আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) নবী লুতকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) আদেশ করেছিলেন:</strong>
+                                <strong className="text-amber-600 dark:text-amber-500">আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) নবী লুতকে (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) আদেশ করেছিলেন:</strong>
                             </p>
                             <p className="text-sm md:text-base leading-relaxed italic mt-4">
                                 <em>রাতের একটি অংশে তোমার পরিবারের সাথে বের হও এবং তোমাদের মধ্যে কেউ পিছনে তাকাবে না, তোমার স্ত্রী ছাড়া। নিশ্চয়ই সে তাদের উপর যা আঘাত করবে তার দ্বারা আঘাতপ্রাপ্ত হবে। নিশ্চয়ই, তাদের নির্ধারিত সময় [হল] সকাল। সকাল কি নিকটে নয়?</em>
@@ -333,7 +333,7 @@ export default function LutStory() {
                     </Card>
 
                     <p className="mb-4">
-                        নির্দেশ অনুযায়ী, নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>), তার কন্যারাও সাথে, রাতে সদোম ছেড়ে চলে গিয়েছিলেন।
+                        নির্দেশ অনুযায়ী, নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>), তার কন্যারাও সাথে, রাতে সদোম ছেড়ে চলে গিয়েছিলেন।
                     </p>
 
                     <Card className="my-6 md:my-8 bg-gradient-to-br from-emerald-50 to-teal-50 dark:from-emerald-900/20 dark:to-teal-900/20 border-2 border-emerald-200 dark:border-emerald-800">
@@ -362,7 +362,7 @@ export default function LutStory() {
                     </p>
 
                     <p className="mb-4 text-amber-600 dark:text-amber-500">
-                        নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>), যিনি তার কন্যারাও সাথে সদোম ছেড়ে গিয়েছিলেন, তার চাচা, নবী ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) কাছে ফিরে এসেছিলেন। একসাথে, তারা তার মৃত্যু পর্যন্ত আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰলَىٰ</span>) বার্তা ছড়িয়ে দেওয়া অব্যাহত রেখেছিলেন।
+                        নবী লুত (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>), যিনি তার কন্যারাও সাথে সদোম ছেড়ে গিয়েছিলেন, তার চাচা, নবী ইব্রাহিমের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) কাছে ফিরে এসেছিলেন। একসাথে, তারা তার মৃত্যু পর্যন্ত আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) বার্তা ছড়িয়ে দেওয়া অব্যাহত রেখেছিলেন।
                     </p>
 
                     <p className="mb-4">
@@ -428,7 +428,7 @@ export default function LutStory() {
                     </h2>
 
                     <p className="mb-4">
-                        মোট, নবী লুত কুরআনে ১৭ বার উল্লিখিত হয়েছে। নীচে, আপনি কুরআনের অবশিষ্ট আয়াতগুলি পাবেন যা নবী লুতের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) গল্প উল্লেখ করে, যা উপরে সরাসরি উল্লেখ করা হয়নি।
+                        মোট, নবী লুত কুরআনে ১৭ বার উল্লিখিত হয়েছে। নীচে, আপনি কুরআনের অবশিষ্ট আয়াতগুলি পাবেন যা নবী লুতের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) গল্প উল্লেখ করে, যা উপরে সরাসরি উল্লেখ করা হয়নি।
                     </p>
 
                     <Card className="my-6 md:my-8 bg-gradient-to-br from-emerald-50 to-teal-50 dark:from-emerald-900/20 dark:to-teal-900/20 border-2 border-emerald-200 dark:border-emerald-800">
