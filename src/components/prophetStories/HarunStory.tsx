@@ -37,12 +37,12 @@ export default function HarunStory() {
                                 className="w-full h-auto rounded-lg object-cover"
                             />
                         </div>
-                        <div className="flex-1">
+                        <div className=" pt-50 flex-1">
                             <p className="mb-4">
                                 নবী হারুন (<span className="font-arabic">عَلَيْهِ السَّلَامُ</span>) মিশরে বসবাসকারী একটি বিশ্বস্ত ইসরায়েলি পরিবারে জন্মগ্রহণ করেছিলেন। তিনি এমন একটি সময়ে জন্মগ্রহণ করেছিলেন যখন ইসরায়েলীরা একজন অত্যাচারী মিশরীয় শাসকের অধীনে মারাত্মকভাবে নিপীড়িত হচ্ছিল।
                             </p>
                             <p className="mb-4">
-                                <strong>তিনি নবী মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) বড় ভাই হিসাবে ব্যাপকভাবে স্বীকৃত।</strong>
+                                <strong>তিনি নবী মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) বড় ভাই হিসাবে ব্যাপকভাবে স্বীকৃত।</strong>
                             </p>
                         </div>
                     </div>
@@ -88,7 +88,7 @@ export default function HarunStory() {
                             className="w-full h-auto rounded-lg"
                         />
                         <p className="mt-4 text-center text-sm italic">
-                            এই রায় জারি করার কোন নৈতিক দ্বন্দ্ব ছিল না কারণ এটি ফেরাউনের আরেকটি উপায় ছিল যার মাধ্যমে তিনি বনি ইসরায়েলকে নিপীড়ন করতে থাকেন — নবী ইয়াকুবের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) বংশধর।
+                            এই রায় জারি করার কোন নৈতিক দ্বন্দ্ব ছিল না কারণ এটি ফেরাউনের আরেকটি উপায় ছিল যার মাধ্যমে তিনি বনি ইসরায়েলকে নিপীড়ন করতে থাকেন — নবী ইয়াকুবের (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) বংশধর।
                         </p>
                     </div>
 
@@ -144,11 +144,11 @@ export default function HarunStory() {
                     />
 
                     <p className="mb-4 text-center text-sm italic">
-                        যে বছর পুরুষ শিশুদের ছেড়ে দেওয়া হয়েছিল, সেই সময় হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) জন্মগ্রহণ করেছিলেন, যখন তার ছোট ভাই মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) যে বছর ছেলেদের হত্যা করা হচ্ছিল সেই বছর জন্মগ্রহণ করেছিলেন।
+                        যে বছর পুরুষ শিশুদের ছেড়ে দেওয়া হয়েছিল, সেই সময় হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) জন্মগ্রহণ করেছিলেন, যখন তার ছোট ভাই মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) যে বছর ছেলেদের হত্যা করা হচ্ছিল সেই বছর জন্মগ্রহণ করেছিলেন।
                     </p>
 
                     <p className="mb-4">
-                        নবী হারুনের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) গল্প নবী মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>), তার ছোট ভাইয়ের গল্পের সাথে ঘনিষ্ঠভাবে মিলে যায়।
+                        নবী হারুনের (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) গল্প নবী মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>), তার ছোট ভাইয়ের গল্পের সাথে ঘনিষ্ঠভাবে মিলে যায়।
                     </p>
                 </section>
 
@@ -164,11 +164,11 @@ export default function HarunStory() {
                     </h2>
 
                     <p className="mb-4">
-                        সম্ভবত হারুনের নবুওয়তের গল্প তার ভাইয়ের চেয়ে কম পরিচিত। হারুনের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) গল্প প্রায়ই কুরআনে মুসার পাশাপাশি উল্লেখ করা হয় কারণ তারা এত ঘনিষ্ঠভাবে যুক্ত। কিন্তু তবুও, আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) হারুনকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ফেরাউনকে সতর্ক করতে এবং ইসরায়েলের সন্তানদের পথনির্দেশ করার জন্য নবুওয়তের জন্য নির্বাচন করেছিলেন এবং নির্ধারণ করেছিলেন।
+                        সম্ভবত হারুনের নবুওয়তের গল্প তার ভাইয়ের চেয়ে কম পরিচিত। হারুনের (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) গল্প প্রায়ই কুরআনে মুসার পাশাপাশি উল্লেখ করা হয় কারণ তারা এত ঘনিষ্ঠভাবে যুক্ত। কিন্তু তবুও, আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) হারুনকে (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) ফেরাউনকে সতর্ক করতে এবং ইসরায়েলের সন্তানদের পথনির্দেশ করার জন্য নবুওয়তের জন্য নির্বাচন করেছিলেন এবং নির্ধারণ করেছিলেন।
                     </p>
 
                     <p className="mb-4">
-                        <strong>অনেক বছর এগিয়ে যাওয়া, <span className="text-amber-600 dark:text-amber-500">আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) মুসাকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ফেরাউন এবং তার নেতাদের সাথে দেখা করতে এবং ইসরায়েলের লোকদের মুক্তির জন্য মধ্যস্থতা করার নির্দেশ দিয়েছিলেন।</span></strong> নবী মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) উদ্বিগ্ন ছিলেন। তিনি অনুভব করেছিলেন যে তার বাক্প্রতিবন্ধকতা ফেরাউন এবং অন্যান্য নেতাদের সাথে তার সাক্ষাতকে নেতিবাচকভাবে প্রভাবিত করবে। তার ভাই হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>), অন্যদিকে, একজন বাগ্মী বক্তা ছিলেন, তাই মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) আল্লাহকে (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) অনুরোধ করেছিলেন হারুনকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তার সহায়ক হিসাবে নিয়োগ করতে।
+                        <strong>অনেক বছর এগিয়ে যাওয়া, <span className="text-amber-600 dark:text-amber-500">আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) মুসাকে (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) ফেরাউন এবং তার নেতাদের সাথে দেখা করতে এবং ইসরায়েলের লোকদের মুক্তির জন্য মধ্যস্থতা করার নির্দেশ দিয়েছিলেন।</span></strong> নবী মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) উদ্বিগ্ন ছিলেন। তিনি অনুভব করেছিলেন যে তার বাক্প্রতিবন্ধকতা ফেরাউন এবং অন্যান্য নেতাদের সাথে তার সাক্ষাতকে নেতিবাচকভাবে প্রভাবিত করবে। তার ভাই হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>), অন্যদিকে, একজন বাগ্মী বক্তা ছিলেন, তাই মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) আল্লাহকে (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) অনুরোধ করেছিলেন হারুনকে (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) তার সহায়ক হিসাবে নিয়োগ করতে।
                     </p>
 
                     <p className="mb-4">
@@ -201,7 +201,7 @@ export default function HarunStory() {
                     </Card>
 
                     <p className="mb-4">
-                        মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) নম্রতা এই আয়াতের মাধ্যমে দেখানো হয়েছে; তিনি আল্লাহকে (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) তার ভাইয়ের সাহায্য নেওয়ার জন্য অনুরোধ করেছিলেন। তিনি হারুনকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) এই মিশনে একজন অংশীদার করতে এবং তাকে শক্তি দেওয়ার জন্য অনুরোধ করেছিলেন যাতে তারা একসাথে কাজটি সম্পন্ন করতে পারে।
+                        মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) নম্রতা এই আয়াতের মাধ্যমে দেখানো হয়েছে; তিনি আল্লাহকে (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) তার ভাইয়ের সাহায্য নেওয়ার জন্য অনুরোধ করেছিলেন। তিনি হারুনকে (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) এই মিশনে একজন অংশীদার করতে এবং তাকে শক্তি দেওয়ার জন্য অনুরোধ করেছিলেন যাতে তারা একসাথে কাজটি সম্পন্ন করতে পারে।
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
@@ -233,7 +233,7 @@ export default function HarunStory() {
                     </div>
 
                     <p className="mb-4">
-                        নবী মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) গল্প যেমন বলা হয়েছে, তিনি এবং হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) উভয়ই ফেরাউনের সাথে একটি সাক্ষাত পেয়েছিলেন। যাইহোক, কথোপকথনটি যেমন তারা আশা করেছিল তা ঘটেনি — ইসরায়েলের সন্তানদের মুক্তি দেওয়ার পরিবর্তে, ফেরাউন মুসাকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) একজন জাদুকর হিসাবে লেবেল করেছিলেন।
+                        নবী মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) গল্প যেমন বলা হয়েছে, তিনি এবং হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) উভয়ই ফেরাউনের সাথে একটি সাক্ষাত পেয়েছিলেন। যাইহোক, কথোপকথনটি যেমন তারা আশা করেছিল তা ঘটেনি — ইসরায়েলের সন্তানদের মুক্তি দেওয়ার পরিবর্তে, ফেরাউন মুসাকে (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) একজন জাদুকর হিসাবে লেবেল করেছিলেন।
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
@@ -246,7 +246,7 @@ export default function HarunStory() {
                         </div>
                         <div className="flex-1 order-1 md:order-2">
                             <p className="mb-4">
-                                পরবর্তীতে, ফেরাউন মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) এবং বেশ কয়েকজন বিখ্যাত জাদুকরের মধ্যে একটি প্রতিযোগিতার আয়োজন করেছিলেন তাকে অপমান করার এবং লজ্জিত করার চেষ্টায়। <strong>যাইহোক, মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) <span className="text-amber-600 dark:text-amber-500">বিজয়ী হয়েছিলেন।</span></strong>
+                                পরবর্তীতে, ফেরাউন মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) এবং বেশ কয়েকজন বিখ্যাত জাদুকরের মধ্যে একটি প্রতিযোগিতার আয়োজন করেছিলেন তাকে অপমান করার এবং লজ্জিত করার চেষ্টায়। <strong>যাইহোক, মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) <span className="text-amber-600 dark:text-amber-500">বিজয়ী হয়েছিলেন।</span></strong>
                             </p>
                         </div>
                     </div>
@@ -256,7 +256,7 @@ export default function HarunStory() {
                     </p>
 
                     <p className="mb-4">
-                        মারাত্মক নিপীড়নের মধ্যে, নবী মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) এবং নবী হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ইসরায়েলীদের মিশর থেকে বের করে নিয়ে গিয়েছিলেন।
+                        মারাত্মক নিপীড়নের মধ্যে, নবী মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) এবং নবী হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) ইসরায়েলীদের মিশর থেকে বের করে নিয়ে গিয়েছিলেন।
                     </p>
 
                     <img 
@@ -301,7 +301,7 @@ export default function HarunStory() {
                     </p>
 
                     <p className="mb-4">
-                        যখন নবী মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কাছ থেকে দশটি আদেশ গ্রহণের জন্য সিনাই পর্বতে আরোহণ করেছিলেন, নবী হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ইসরায়েলের সন্তানদের নেতৃত্ব গ্রহণ করেছিলেন। চল্লিশ দিন ধরে, নবী মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) অনুপস্থিত ছিলেন।
+                        যখন নবী মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কাছ থেকে দশটি আদেশ গ্রহণের জন্য সিনাই পর্বতে আরোহণ করেছিলেন, নবী হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) ইসরায়েলের সন্তানদের নেতৃত্ব গ্রহণ করেছিলেন। চল্লিশ দিন ধরে, নবী মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) অনুপস্থিত ছিলেন।
                     </p>
 
                     <p className="mb-4">
@@ -324,7 +324,7 @@ export default function HarunStory() {
                     </div>
 
                     <p className="mb-4">
-                        নবী হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) অত্যন্ত দুঃখিত ছিলেন।
+                        নবী হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) অত্যন্ত দুঃখিত ছিলেন।
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
@@ -353,7 +353,7 @@ export default function HarunStory() {
                     </div>
 
                     <p className="mb-4">
-                        ইসরায়েলীরা এত সহজেই বিভ্রান্ত হয়েছিল যে তারা নবী হারুনকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) হুমকি দিয়েছিল যে যদি তিনি তাদের থামানোর সাহস করেন তবে তাকে হত্যা করবে। নবী হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) অসহায় ছিলেন।
+                        ইসরায়েলীরা এত সহজেই বিভ্রান্ত হয়েছিল যে তারা নবী হারুনকে (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) হুমকি দিয়েছিল যে যদি তিনি তাদের থামানোর সাহস করেন তবে তাকে হত্যা করবে। নবী হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) অসহায় ছিলেন।
                     </p>
 
                     <p className="mb-4">
@@ -370,13 +370,13 @@ export default function HarunStory() {
                     </Card>
 
                     <p className="mb-4">
-                        নবী মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) প্রত্যাবর্তনের পর, তিনি ইসরায়েলীদের সোনার বাছুরের চারপাশে নাচতে এবং উপাসনা করতে দেখে দুঃখজনক দৃশ্যের সম্মুখীন হয়েছিলেন।
+                        নবী মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) প্রত্যাবর্তনের পর, তিনি ইসরায়েলীদের সোনার বাছুরের চারপাশে নাচতে এবং উপাসনা করতে দেখে দুঃখজনক দৃশ্যের সম্মুখীন হয়েছিলেন।
                     </p>
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
-                                <strong>রাগে ভরে, মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তাদের সম্বোধন করে বলেছিলেন,</strong><br />
+                                <strong>রাগে ভরে, মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) তাদের সম্বোধন করে বলেছিলেন,</strong><br />
                                 <em>"হে আমার লোকেরা! তোমার রব কি তোমাদের একটি ন্যায্য প্রতিশ্রুতি দেননি? তাহলে কি প্রতিশ্রুতি তোমাদের কাছে দীর্ঘ মনে হয়েছিল? অথবা তোমরা কি চেয়েছিল যে তোমাদের রবের কাছ থেকে ক্রোধ তোমাদের উপর নেমে আসবে, তাই তুমি আমার সাথে তোমার প্রতিশ্রুতি ভেঙেছ (অর্থাৎ আল্লাহতে অবিশ্বাস করে এবং বাছুরের উপাসনা করে)?"</em><br />
                                 <span className="text-xs text-gray-600 dark:text-gray-400">— (সূরা তা-হা, আয়াত ৮৬)</span>
                             </p>
@@ -389,7 +389,7 @@ export default function HarunStory() {
                     </Card>
 
                     <p className="mb-4">
-                        <strong>মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তারপর <span className="text-amber-600 dark:text-amber-500">তার ভাইয়ের দিকে তার রাগ ফিরিয়ে নিয়েছিলেন,</span> যাকে তিনি দায়িত্বে রেখেছিলেন।</strong>
+                        <strong>মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) তারপর <span className="text-amber-600 dark:text-amber-500">তার ভাইয়ের দিকে তার রাগ ফিরিয়ে নিয়েছিলেন,</span> যাকে তিনি দায়িত্বে রেখেছিলেন।</strong>
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
@@ -404,13 +404,13 @@ export default function HarunStory() {
                             <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed italic mb-4">
-                                        <strong>তিনি হারুনের (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) দাড়ি এবং চুল টেনে ধরেছিলেন এবং তাকে তিরস্কার করেছিলেন:</strong>
+                                        <strong>তিনি হারুনের (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) দাড়ি এবং চুল টেনে ধরেছিলেন এবং তাকে তিরস্কার করেছিলেন:</strong>
                                     </p>
                                     <p className="text-sm md:text-base leading-relaxed italic mb-4">
                                         <em>"হে হারুন! যখন তুমি তাদের পথভ্রষ্ট হতে দেখেছ তখন কী তোমাকে আটকে রেখেছিল? তুমি কেন এই দুর্নীতির বিরুদ্ধে যুদ্ধ করনি?"</em>
                                     </p>
                                     <p className="text-sm md:text-base leading-relaxed italic">
-                                        <strong>হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) অনুরোধ করেছিলেন:</strong><br />
+                                        <strong>হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) অনুরোধ করেছিলেন:</strong><br />
                                         <em>"হে <span className="text-amber-600 dark:text-amber-500">আমার মায়ের পুত্র</span>! আমার দাড়ি বা আমার মাথার চুল দিয়ে আমাকে ধরো না। লোকেরা আমাকে দুর্বল মনে করেছিল এবং আমাকে হত্যা করতে যাচ্ছিল। তাই শত্রুদের আমাকে নিয়ে আনন্দ করতে দিও না, এবং আমাকে অত্যাচারী লোকদের মধ্যে রাখো না।"</em>
                                     </p>
                                 </CardContent>
@@ -419,7 +419,7 @@ export default function HarunStory() {
                     </div>
 
                     <p className="mb-4">
-                        মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) রাগ কমে গিয়েছিল যখন তিনি তার ভাইয়ের অসহায়ত্ব বুঝতে পেরেছিলেন।
+                        মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) রাগ কমে গিয়েছিল যখন তিনি তার ভাইয়ের অসহায়ত্ব বুঝতে পেরেছিলেন।
                     </p>
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
@@ -441,11 +441,11 @@ export default function HarunStory() {
                     </Card>
 
                     <p className="mb-4">
-                        <strong>সামিরিকে নির্বাসিত করা হয়েছিল এবং <span className="text-amber-600 dark:text-amber-500">একজন বহিষ্কৃত হিসাবে বাস করতে বাধ্য করা হয়েছিল</span></strong>। পরবর্তীতে, মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তার লোকদের সম্বোধন করেছিলেন, তাদের আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) ক্ষমা চাইতে অনুরোধ করেছিলেন।
+                        <strong>সামিরিকে নির্বাসিত করা হয়েছিল এবং <span className="text-amber-600 dark:text-amber-500">একজন বহিষ্কৃত হিসাবে বাস করতে বাধ্য করা হয়েছিল</span></strong>। পরবর্তীতে, মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) তার লোকদের সম্বোধন করেছিলেন, তাদের আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) ক্ষমা চাইতে অনুরোধ করেছিলেন।
                     </p>
 
                     <p className="mb-4">
-                        <strong>মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ইসরায়েলীদের মধ্যে সত্তরজন প্রবীণকে বেছে নিয়েছিলেন সিনাই পর্বতে ভ্রমণ করার জন্য</strong>, যেখানে তিনি তাদের তাদের গুরুতর অবাধ্যতার জন্য আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) ক্ষমা চাইতে নির্দেশ দিয়েছিলেন।
+                        <strong>মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) ইসরায়েলীদের মধ্যে সত্তরজন প্রবীণকে বেছে নিয়েছিলেন সিনাই পর্বতে ভ্রমণ করার জন্য</strong>, যেখানে তিনি তাদের তাদের গুরুতর অবাধ্যতার জন্য আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) ক্ষমা চাইতে নির্দেশ দিয়েছিলেন।
                     </p>
 
                     <img 
@@ -461,7 +461,7 @@ export default function HarunStory() {
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed italic mb-4">
-                                <strong>তবুও, নবী মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কাছে প্রার্থনা করেছিলেন যে তাদের ক্ষমা করা হবে এবং আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) সর্বদয়ালু হওয়ার কারণে, তাদের ক্ষমা করেছিলেন এবং</strong>
+                                <strong>তবুও, নবী মুসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) কাছে প্রার্থনা করেছিলেন যে তাদের ক্ষমা করা হবে এবং আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) সর্বদয়ালু হওয়ার কারণে, তাদের ক্ষমা করেছিলেন এবং</strong>
                             </p>
                             <p className="text-sm md:text-base leading-relaxed italic">
                                 <em>"...তোমাদের মৃত্যুর পর তোমাদের পুনরুজ্জীবিত করেছি যাতে তোমরা কৃতজ্ঞ হতে পার।"</em><br />
@@ -497,7 +497,7 @@ export default function HarunStory() {
                     </h2>
 
                     <p className="mb-4">
-                        নবী হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তার ভাই মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) আগে মারা গিয়েছিলেন যখন ইসরায়েলীরা, তার লোকেরা, এখনও মরুভূমির মধ্য দিয়ে যাত্রা করছিল।
+                        নবী হারুন (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) তার ভাই মুসার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَامُ</span>) আগে মারা গিয়েছিলেন যখন ইসরায়েলীরা, তার লোকেরা, এখনও মরুভূমির মধ্য দিয়ে যাত্রা করছিল।
                     </p>
                 </section>
 
