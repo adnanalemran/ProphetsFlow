@@ -119,7 +119,7 @@ export default function IsaStory() {
                         </div>
                         <div className="flex-1">
                             <p className="mb-4">
-                                প্রতিশ্রুতিটি মনে রেখে, হান্নাহ তার কন্যাকে একটি চাদরে মুড়িয়ে মসজিদের নেতাদের কাছে হস্তান্তর করেছিলেন যাতে একজন অভিভাবক নিয়োগ করা হয় এবং শিশুকে স্পনসর করা হয়। নবী যাকারিয়া (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>), যিনি মসজিদে একজন বিশিষ্ট নেতাও ছিলেন, মারিয়ামের (<span className="font-arabic">رضی اللہ عنہ</span>) অভিভাবকত্ব দাবি করার জন্য এগিয়ে এসেছিলেন কারণ তিনি তার আত্মীয় ছিলেন। পুরোহিতরা লট নিক্ষেপ করেছিল, এবং আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) ইচ্ছায়, নবী যাকারিয়ার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) কলম নির্বাচিত হয়েছিল।
+                                প্রতিশ্রুতিটি মনে রেখে, হান্নাহ তার কন্যাকে একটি চাদরে মুড়িয়ে মসজিদের নেতাদের কাছে হস্তান্তর করেছিলেন যাতে একজন অভিভাবক নিয়োগ করা হয় এবং শিশুকে স্পনসর করা হয়। নবী যাকারিয়া (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>), যিনি মসজিদে একজন বিশিষ্ট নেতাও ছিলেন, মারিয়ামের (<span className="font-arabic">رضی اللہ عنہ</span>) অভিভাবকত্ব দাবি করার জন্য এগিয়ে এসেছিলেন কারণ তিনি তার আত্মীয় ছিলেন। পুরোহিতরা লট নিক্ষেপ করেছিল, এবং আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) ইচ্ছায়, নবী যাকারিয়ার (<span className="font-arabic">عَلَيْهِ ٱلسَّـٰمُ</span>) কলম নির্বাচিত হয়েছিল।
                             </p>
                         </div>
                     </div>
@@ -135,7 +135,7 @@ export default function IsaStory() {
                     <Card className="my-6 bg-gradient-to-br from-emerald-50 to-teal-50 dark:from-emerald-900/20 dark:to-teal-900/20 border-2 border-emerald-200 dark:border-emerald-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed">
-                                <strong>আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰলَىٰ</span>) বলেছেন: </strong><br />
+                                <strong>আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) বলেছেন: </strong><br />
                                 <em>"সুতরাং তার রব তাকে অনুগ্রহ সহকারে গ্রহণ করেছিলেন এবং একটি আনন্দদায়ক লালন-পালন দিয়ে তাকে আশীর্বাদ করেছিলেন — তাকে যাকারিয়ার যত্নে ন্যস্ত করেছিলেন।"</em><br />
                                 <span className="text-xs text-gray-600 dark:text-gray-400">— <a href="https://myislam.org/surah-imran/ayat-37/" className="text-blue-600 dark:text-blue-400">সূরা আল-ইমরান, আয়াত ৩৭</a></span>
                             </p>
@@ -155,7 +155,7 @@ export default function IsaStory() {
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
                         <div className="flex-1">
                             <p className="mb-4">
-                                <strong>নবী যাকারিয়া (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ছিলেন আল-আকসা মসজিদের ইমাম</strong> এবং আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) সেবায় তার দিনগুলোর বেশিরভাগ সময় সেখানে কাটাতেন। তিনি মারিয়ামের (<span className="font-arabic">رضی اللہ عنہ</span>) জন্য একটি পৃথক কক্ষ তৈরি করেছিলেন যাতে তিনি তাকে তার পড়াশোনা এবং উপাসনায় একা রেখে যেতে পারেন।
+                                <strong>নবী যাকারিয়া (<span className="font-arabic">عَلَيْهِ ٱلسَّ</span>) ছিলেন আল-আকসা মসজিদের ইমাম</strong> এবং আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) সেবায় তার দিনগুলোর বেশিরভাগ সময় সেখানে কাটাতেন। তিনি মারিয়ামের (<span className="font-arabic">رضی اللہ عنہ</span>) জন্য একটি পৃথক কক্ষ তৈরি করেছিলেন যাতে তিনি তাকে তার পড়াশোনা এবং উপাসনায় একা রেখে যেতে পারেন।
                             </p>
                         </div>
                         <div className="w-full md:w-1/3 flex-shrink-0">
