@@ -447,7 +447,7 @@ export default function IsaStory() {
                     </h2>
 
                     <p className="mb-4">
-                        <strong>ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) প্রকাশ্যে বিলাসিতার বস্তুবাদী জীবনকে নিন্দা করেছিলেন এবং তার লোকদের একটি নম্র জীবনযাপনের জন্য আমন্ত্রণ জানিয়েছিলেন।</strong> <strong className="text-amber-600 dark:text-amber-500">তিনি তার লোকদের সম্পদ জমা না করার জন্য এবং আল্লাহর (<span className="font-arabic">سُবْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) উপাসনায় তাদের সময় ব্যয় করার জন্য আবেদন করেছিলেন যাতে তাদের একটি সমৃদ্ধ পরকাল থাকতে পারে।</strong> তিনি একে অপরের এবং পৃথিবীতে ঘুরে বেড়ানো সৃষ্টিদের প্রতি ক্ষমা এবং করুণা প্রচার করেছিলেন।
+                        <strong>ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) প্রকাশ্যে বিলাসিতার বস্তুবাদী জীবনকে নিন্দা করেছিলেন এবং তার লোকদের একটি নম্র জীবনযাপনের জন্য আমন্ত্রণ জানিয়েছিলেন।</strong> <strong className="text-amber-600 dark:text-amber-500">তিনি তার লোকদের সম্পদ জমা না করার জন্য এবং আল্লাহর (<span className="font-arabic">سُবْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) উপাসনায় তাদের সময় ব্যয় করার জন্য আবেদন করেছিলেন যাতে তাদের একটি সমৃদ্ধ পরকাল থাকতে পারে।</strong> তিনি একে অপরের এবং পৃথিবীতে ঘুরে বেড়ানো সৃষ্টিদের প্রতি ক্ষমা এবং করুণা প্রচার করেছিলেন।
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
@@ -489,7 +489,7 @@ export default function IsaStory() {
                                     <p className="text-sm md:text-base leading-relaxed">
                                         <strong>একদিন, পুরোহিতরা একজন পরিচিত ব্যভিচারিণীকে ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) কাছে টেনে নিয়ে গিয়েছিলেন এবং জিজ্ঞাসা করেছিলেন: </strong><br />
                                         <em>"[মোজেসীয়] আইন কি ব্যভিচারিণীর পাথর নিক্ষেপের বিধান দেয় না?"</em><br /><br />
-                                        <strong>ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) তাদের পরিকল্পনা বুঝতে পেরেছিলেন। তিনি বলেছিলেন,</strong><br />
+                                        <strong>ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) তাদের পরিকল্পনা বুঝতে পেরেছিলেন। তিনি বলেছিলেন,</strong><br />
                                         <em>"তোমাদের মধ্যে যে নিষ্পাপ সে তাকে পাথর নিক্ষেপ করুক।" </em><br /><br />
                                         এটি ব্যভিচার সম্পর্কে একটি নতুন আইন নিয়ে এসেছিল: শুধুমাত্র নিষ্পাপরা পাপ বিচার করতে পারে; সবশেষে, সর্বশক্তিমান, সর্বজ্ঞাতা ছাড়া কেউ একজন পাপীকে বিচার করতে পারে না।
                                     </p>
@@ -509,7 +509,7 @@ export default function IsaStory() {
                     </h2>
 
                     <p className="mb-4">
-                        কিছু কুরআনিক ভাষ্যকার বিশ্বাস করেন যে, <strong>আল্লাহর (<span className="font-arabic">سُবْحَٰنَهُۥ وَتَعَٰলَىٰ</span>) সাহায্য এবং অনুমতি দিয়ে, ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) মৃতদের জীবিত করে তুলেছিলেন।</strong> মোট চারজনকে জীবিত করা হয়েছিল: আল-আজাম নামে ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) একজন বন্ধু, একজন বৃদ্ধ মহিলার পুত্র, একজন মহিলার একমাত্র কন্যা, এবং সাম ইবনে নূহ নামে একজন ব্যক্তি।
+                        কিছু কুরআনিক ভাষ্যকার বিশ্বাস করেন যে, <strong>আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) সাহায্য এবং অনুমতি দিয়ে, ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) মৃতদের জীবিত করে তুলেছিলেন।</strong> মোট চারজনকে জীবিত করা হয়েছিল: আল-আজাম নামে ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) একজন বন্ধু, একজন বৃদ্ধ মহিলার পুত্র, একজন মহিলার একমাত্র কন্যা, এবং সাম ইবনে নূহ নামে একজন ব্যক্তি।
                     </p>
 
                     <div className="my-6">
@@ -523,7 +523,7 @@ export default function IsaStory() {
                     <Card className="my-6 bg-gradient-to-br from-emerald-50 to-teal-50 dark:from-emerald-900/20 dark:to-teal-900/20 border-2 border-emerald-200 dark:border-emerald-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed">
-                                <strong className="text-amber-600 dark:text-amber-500">আল্লাহর (<span className="font-arabic">سُবْحَٰنَهُۥ وَتَعَٰলَىٰ</span>) অনুমোদন দিয়ে,</strong> নবী ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) কয়েকটি অলৌকিক ঘটনা সম্পাদন করেছিলেন:<br /><br />
+                                <strong className="text-amber-600 dark:text-amber-500">আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) অনুমোদন দিয়ে,</strong> নবী ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) কয়েকটি অলৌকিক ঘটনা সম্পাদন করেছিলেন:<br /><br />
                                 <span><strong>১.</strong> তার শৈশবে কথা বলা।</span><br />
                                 <span><strong>২.</strong> একটি মাটির পাখিতে প্রাণ ফুঁক দেওয়া, এটি জীবিত করে তোলা।</span><br />
                                 <span><strong>৩.</strong> অন্ধ এবং কুষ্ঠরোগী ব্যক্তিকে নিরাময় করা।</span><br />
@@ -549,7 +549,7 @@ export default function IsaStory() {
                             <Card className="bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed">
-                                        ত্রিশ দিন রোজা করার পর, আল্লাহর (<span className="font-arabic">سُবْحَٰنَهُۥ وَتَعَٰলَىٰ</span>) সেবায় ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) দ্বারা আদেশ দেওয়া হয়েছিল, বিশ্বাসীরা ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) কে স্বর্গ থেকে খাবার দেওয়ার জন্য অনুরোধ করেছিলেন যাতে তারা তাদের রোজা ভাঙতে পারে।<br /><br />
+                                        ত্রিশ দিন রোজা করার পর, আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) সেবায় ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) দ্বারা আদেশ দেওয়া হয়েছিল, বিশ্বাসীরা ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) কে স্বর্গ থেকে খাবার দেওয়ার জন্য অনুরোধ করেছিলেন যাতে তারা তাদের রোজা ভাঙতে পারে।<br /><br />
                                         <em>"হে ঈসা, মারিয়ামের পুত্র! আপনার রব কি আমাদের কাছে স্বর্গ থেকে খাবারের টেবিল পাঠাতে ইচ্ছুক হবে?"</em><br />
                                         <span className="text-xs text-gray-600 dark:text-gray-400">— (<a href="https://myislam.org/surah-maidah/ayat-112/" className="text-blue-600 dark:text-blue-400">সূরা মায়িদা, আয়াত ১১২</a>)</span>
                                     </p>
