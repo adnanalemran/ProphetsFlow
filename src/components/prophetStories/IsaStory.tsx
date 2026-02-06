@@ -556,7 +556,7 @@ export default function IsaStory() {
                                 </CardContent>
                             </Card>
                             <p className="mt-4">
-                                <strong>সুতরাং নবী ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ডাক দিয়েছিলেন,</strong><br />
+                                <strong>সুতরাং নবী ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) ডাক দিয়েছিলেন,</strong><br />
                                 <em>"হে আল্লাহ, আমাদের রব! আমাদের কাছে স্বর্গ থেকে খাবারের একটি টেবিল পাঠান — আমাদের প্রথম এবং শেষের জন্য — এবং আপনার কাছ থেকে একটি নিদর্শন হিসাবে। আমাদের রিজিক দিন! আপনি নিশ্চয়ই সর্বোত্তম রিজিকদাতা।"</em><br />
                                 <span className="text-xs text-gray-600 dark:text-gray-400">— (<a href="https://myislam.org/surah-maidah/ayat-114/" className="text-blue-600 dark:text-blue-400">সূরা মায়িদা, আয়াত ১১৪</a>)</span>
                             </p>
@@ -571,7 +571,7 @@ export default function IsaStory() {
                     </div>
 
                     <p className="mb-4">
-                        এবং তাই, আল্লাহর (<span className="font-arabic">سُবْحَٰنَهُۥ وَتَعَٰলَىٰ</span>) আদেশে, ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) অনুসারীরা জান্নাতের খাবার সহ একটি আশ্চর্যজনক ভোজ দিয়ে আচরণ করা হয়েছিল। বলা হয় যে হাজার হাজার লোক স্বর্গ থেকে পাঠানো খাবার থেকে খেয়েছিল, এবং তবুও তারা কখনই এটি শেষ করেনি।
+                        এবং তাই, আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) আদেশে, ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) অনুসারীরা জান্নাতের খাবার সহ একটি আশ্চর্যজনক ভোজ দিয়ে আচরণ করা হয়েছিল। বলা হয় যে হাজার হাজার লোক স্বর্গ থেকে পাঠানো খাবার থেকে খেয়েছিল, এবং তবুও তারা কখনই এটি শেষ করেনি।
                     </p>
                 </section>
 
@@ -581,11 +581,11 @@ export default function IsaStory() {
 
                 <section className="my-8 md:my-12">
                     <h2 className="text-xl md:text-2xl font-bold text-gray-900 dark:text-white mb-6">
-                        <span className="text-amber-600 dark:text-amber-500">ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>)</span>-এর ক্রুশবিদ্ধকরণ
+                        <span className="text-amber-600 dark:text-amber-500">ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>)</span>-এর ক্রুশবিদ্ধকরণ
                     </h2>
 
                     <p className="mb-4">
-                        যখনই আল্লাহ (<span className="font-arabic">سُবْحَٰنَهُۥ وَتَعَٰলَىٰ</span>) তার রাসূলদের এই পৃথিবীতে পাঠিয়েছিলেন, সংখ্যাগরিষ্ঠ প্রায়ই তাদের অবিশ্বাস এবং প্রত্যাখ্যানের সাথে মিলিত হয়েছিল। <strong>ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) ধর্ম আরও অনুসারী আকর্ষণ করতে শুরু করলে, উচ্চ পুরোহিতরা তাদের হ্রাসপ্রাপ্ত প্রভাব সম্পর্কে ক্রমবর্ধমানভাবে ভীত হয়ে উঠেছিলেন।</strong> ফলস্বরূপ, তারা তার বিরুদ্ধে ষড়যন্ত্র করেছিল, তাকে জাদুবিদ্যা, মোজেসীয় আইন লঙ্ঘন, এবং শয়তানের সাথে জোটবদ্ধতার জন্য অভিযুক্ত করেছিল।
+                        যখনই আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) তার রাসূলদের এই পৃথিবীতে পাঠিয়েছিলেন, সংখ্যাগরিষ্ঠ প্রায়ই তাদের অবিশ্বাস এবং প্রত্যাখ্যানের সাথে মিলিত হয়েছিল। <strong>ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) ধর্ম আরও অনুসারী আকর্ষণ করতে শুরু করলে, উচ্চ পুরোহিতরা তাদের হ্রাসপ্রাপ্ত প্রভাব সম্পর্কে ক্রমবর্ধমানভাবে ভীত হয়ে উঠেছিলেন।</strong> ফলস্বরূপ, তারা তার বিরুদ্ধে षड়যন्त्र करেছिल, ताके जादूबिद्या, मोजेसीय आइन लंघन, एवं शयतानेंर साथे जोटबद्धतार जन्य अभियुक्त करेछिल।
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
