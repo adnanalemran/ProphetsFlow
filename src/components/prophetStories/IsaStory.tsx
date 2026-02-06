@@ -585,7 +585,7 @@ export default function IsaStory() {
                     </h2>
 
                     <p className="mb-4">
-                        যখনই আল্লাহ (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) তার রাসূলদের এই পৃথিবীতে পাঠিয়েছিলেন, সংখ্যাগরিষ্ঠ প্রায়ই তাদের অবিশ্বাস এবং প্রত্যাখ্যানের সাথে মিলিত হয়েছিল। <strong>ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) ধর্ম আরও অনুসারী আকর্ষণ করতে শুরু করলে, উচ্চ পুরোহিতরা তাদের হ্রাসপ্রাপ্ত প্রভাব সম্পর্কে ক্রমবর্ধমানভাবে ভীত হয়ে উঠেছিলেন।</strong> ফলস্বরূপ, তারা তার বিরুদ্ধে षड়যন्त्र करেছिल, ताके जादूबिद्या, मोजेसीय आइन लंघन, एवं शयतानेंर साथे जोटबद्धतार जन्य अभियुक्त करेछिल।
+                        যখনই আল্লাহ (<span className="font-arabic">سُবْحَٰنَهُۥ وَتَعَٰলَ</span>) তার রাসূলদের এই পৃথিবীতে পাঠিয়েছিলেন, সংখ্যাগরিষ্ঠ প্রায়ই তাদের অবিশ্বাস এবং প্রত্যাখ্যানের সাথে মিলিত হয়েছিল। <strong>ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) ধর্ম আরও অনুসারী আকর্ষণ করতে শুরু করলে, উচ্চ পুরোহিতরা তাদের হ্রাসপ্রাপ্ত প্রভাব সম্পর্কে ক্রমবর্ধমানভাবে ভীত হয়ে উঠেছিলেন।</strong> ফলস্বরূপ, তারা তার বিরুদ্ধে ষড়যন্ত্র করেছিল, তাকে জাদুবিদ্যা, মোজেসীয় আইন লঙ্ঘন, এবং শয়তানের সাথে জোটবদ্ধতার জন্য অভিযুক্ত করেছিল।
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
@@ -593,7 +593,7 @@ export default function IsaStory() {
                             <Card className="bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                                 <CardContent className="pt-6">
                                     <p className="text-sm md:text-base leading-relaxed">
-                                        <strong>বাইবেল অনুযায়ী,</strong> সেনাবাহিনী ঈসাকে (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) গ্রেফতার করতে এসেছিল। তারা তাকে চাবুক মেরেছিল, নির্যাতন করেছিল, এবং তার উপর থুতু ফেলেছিল। তারা তাকে অপহাস করার জন্য তার মাথায় কাঁটার মুকুট পরিয়েছিল।
+                                        <strong>বাইবেল অনুযায়ী,</strong> সেনাবাহিনী ঈসাকে (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) গ্রেফতার করতে এসেছিল। তারা তাকে চাবুক মেরেছিল, নির্যাতন করেছিল, এবং তার উপর থুতু ফেলেছিল। তারা তাকে অপহাস করার জন্য তার মাথায় কাঁটার মুকুট পরিয়েছিল।
                                     </p>
                                 </CardContent>
                             </Card>
@@ -617,13 +617,13 @@ export default function IsaStory() {
                     </Card>
 
                     <p className="mb-4">
-                        ইসলামী বিশ্বাস ধারণ করে যে <strong>ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) আল্লাহর (<span className="font-arabic">سُবْحَٰنَهُۥ وَتَعَٰলَىٰ</span>) দ্বারা সুরক্ষিত এবং রক্ষা করা হয়েছিল।</strong> কিছু কুরআনিক ভাষ্যকার বিশ্বাস করেন যে এটি ছিল ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) বিশ্বাসঘাতক যাকে তার মতো দেখতে বানানো হয়েছিল এবং তার জায়গায় ক্রুশবিদ্ধ করা হয়েছিল, যখন ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) স্বর্গে উঠিয়ে নেওয়া হয়েছিল।
+                        ইসলামী বিশ্বাস ধারণ করে যে <strong>ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) আল্লাহর (<span className="font-arabic">سُبْحَٰنَهُۥ وَتَعَٰلَىٰ</span>) দ্বারা সুরক্ষিত এবং রক্ষা করা হয়েছিল।</strong> কিছু কুরআনিক ভাষ্যকার বিশ্বাস করেন যে এটি ছিল ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) বিশ্বাসঘাতক যাকে তার মতো দেখতে বানানো হয়েছিল এবং তার জায়গায় ক্রুশবিদ্ধ করা হয়েছিল, যখন ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) স্বর্গে উঠিয়ে নেওয়া হয়েছিল।
                     </p>
 
                     <Card className="my-6 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-2 border-amber-200 dark:border-amber-800">
                         <CardContent className="pt-6">
                             <p className="text-sm md:text-base leading-relaxed">
-                                <strong>মুসলমানরা ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) দ্বিতীয় আগমনে বিশ্বাস করে। আবু হুরায়রা বর্ণনা করেছেন যে নবী মুহাম্মদ (<span className="font-arabic">ﷺ</span>) বলেছেন:</strong><br />
+                                <strong>মুসলমানরা ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) দ্বিতীয় আগমনে বিশ্বাস করে। আবু হুরায়রা বর্ণনা করেছেন যে নবী মুহাম্মদ (<span className="font-arabic">ﷺ</span>) বলেছেন:</strong><br />
                                 <em>'যার হাতে আমার জীবন, মারিয়ামের পুত্র শীঘ্রই তোমাদের মধ্যে একজন ন্যায়পরায়ণ বিচারক হিসাবে নেমে আসবে। তিনি ক্রুশগুলো ভেঙে দেবেন, শূকর হত্যা করবেন, এবং জিজিয়া বিলোপ করবেন, এবং সম্পদ এমন পরিমাণে প্রবাহিত হবে যে কেউ তা গ্রহণ করবে না।'</em><br />
                                 <span className="text-xs text-gray-600 dark:text-gray-400">— সহীহ মুসলিম ১৫৫ক</span>
                             </p>
@@ -637,11 +637,11 @@ export default function IsaStory() {
 
                 <section className="my-8 md:my-12">
                     <h2 className="text-xl md:text-2xl font-bold text-gray-900 dark:text-white mb-6">
-                        <span className="text-amber-600 dark:text-amber-500">ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>)</span>-এর উপাসকরা
+                        <span className="text-amber-600 dark:text-amber-500">ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>)</span>-এর উপাসকরা
                     </h2>
 
                     <p className="mb-4">
-                        <strong>কুরআনিক দৃষ্টিকোণ থেকে,</strong> ইহুদি ধর্মের মূল ভুল ছিল ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) মতো নির্দিষ্ট নবীদের অস্বীকার করা, যাদের তাদের পথনির্দেশ করার জন্য পাঠানো হয়েছিল। বিপরীতে, খ্রিস্টধর্মের ভুল ছিল ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) মর্যাদার অতিরঞ্জনে, ঐশ্বরিকতা আরোপ করা এবং আল্লাহর সাথে অংশীদার করা। ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّলَামُ</span>) যখন জীবিত ছিলেন তখন তিনি কখনও নিজেকে আল্লাহ বলে দাবি করেননি।
+                        <strong>কুরআনিক দৃষ্টিকোণ থেকে,</strong> ইহুদি ধর্মের মূল ভুল ছিল ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) মতো নির্দিষ্ট নবীদের অস্বীকার করা, যাদের তাদের পথনির্দেশ করার জন্য পাঠানো হয়েছিল। বিপরীতে, খ্রিস্টধর্মের ভুল ছিল ঈসার (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) মর্যাদার অতিরঞ্জনে, ঐশ্বরিকতা আরোপ করা এবং আল্লাহর সাথে অংশীদার করা। ঈসা (<span className="font-arabic">عَلَيْهِ ٱلسَّلَٰمُ</span>) যখন জীবিত ছিলেন তখন তিনি কখনও নিজেকে আল্লাহ বলে দাবি করেননি।
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 md:gap-6 my-6">
